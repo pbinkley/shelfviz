@@ -1,0 +1,4 @@
+open ualapp.library.ualberta.ca:2200
+find @attr 1=16 Z1039
+set_marcdump test
+show 1+1

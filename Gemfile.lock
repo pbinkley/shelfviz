@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (11.1.3)
+    marc (1.1.1)
+      rexml
+      scrub_rb (>= 1.0.1, < 2)
+      unf
+    rexml (3.2.5)
+    scrub_rb (1.0.1)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.8.1)
+
+PLATFORMS
+  aarch64-linux
+
+DEPENDENCIES
+  byebug
+  marc
+
+BUNDLED WITH
+   2.2.1

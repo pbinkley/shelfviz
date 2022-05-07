@@ -1,0 +1,12 @@
+$ yaz-client
+Z> open ualapp.library.ualberta.ca:2200
+Z> find @attr 1=16 Z1039
+Sent searchRequest.
+Received SearchResponse.
+Search was a success.
+Number of hits: 136, setno 4
+records returned: 0
+Elapsed: 0.083256
+Z> format xml
+Z> set_marcdump z1039
+Z> show 1+136
