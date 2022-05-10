@@ -21,6 +21,8 @@ end
 
 group :development do
   gem 'wax_tasks', '~> 1.1'
+  gem 'marc'
+  gem 'byebug'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

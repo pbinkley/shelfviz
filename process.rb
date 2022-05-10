@@ -78,4 +78,25 @@ end
 
 File.write('data/full.json', JSON.pretty_generate(books))
 
+# fold books into nearest previous shelved book
+
+previousbook = nil
+foldedbooks = []
+
+books.each do |book|
+  if book[:holdings].select { |h| h[:location] == "UAHSS" && h[:status] == "ON_SHELF" }.count > 0
+    # this is a shelved book
+    book[:fold] = []
+    foldedbooks << previousbook if previousbook
+    previousbook = book
+  else
+    # this is not a shelved book
+    previousbook[:fold] << book
+  end
+end
+
+foldedbooks << previousbook
+
+File.write('data/folded.json', JSON.pretty_generate(foldedbooks))
+
 puts 'done'
