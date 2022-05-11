@@ -4,6 +4,50 @@ require 'json'
 require 'marc'
 require 'byebug'
 
+def parse_record(record)
+  profile = {
+    shelf: 0,
+    checkedOut: 0,
+    rcrf: 0,
+    otherua: 0,
+    neos: 0,
+    digital: 0
+  }
+  
+  holdings = record[:holdings]
+
+  profile[:shelf] += holdings.select { |h| h[:location] == "UAHSS" && h[:status] == "ON_SHELF" }.count
+  profile[:checkedOut] += holdings.select { |h| h[:location] == "UAHSS" && h[:status] == "CHECKEDOUT" }.count
+  profile[:rcrf] += holdings.select { |h| h[:location] == "UARCRF" }.count
+  profile[:otherua] += holdings.select { |h| ["UAAUG", "UABSJ", "UASPCOLL"].include? h[:location] }.count
+  profile[:neos] += holdings.select { |h| (h[:type] == "BOOK" || h[:type] == "NO_LOAN") && not(h[:location].start_with?("UA")) }.count
+  # for digital, note use of ".find": treat all digital holdings as single copy
+  profile[:digital] += holdings.find { |h| h[:type] == "E-RESOURCE" } ? 1 : 0
+
+  return profile
+end
+
+def parse_record_set(set)
+  # return counts of record types in a set of records
+  set_profile = {
+    shelf: 0,
+    checkedOut: 0,
+    rcrf: 0,
+    otherua: 0,
+    neos: 0,
+    digital: 0
+  }
+  
+  set.each do |record|
+    profile = parse_record(record)
+    profile.keys.each do |key|
+      set_profile[key] += profile[key]
+    end
+  end
+
+  return set_profile
+end
+
 shelf = ['Z001039 B000056 C000047 002016', 'Z001041 C000055 002011']
 
 books = []
@@ -67,6 +111,8 @@ for record in reader
     holdings: holdings
   }
   
+  x = parse_record(books.last)
+
   File.open("dump/#{id}.txt", 'w') { |file| file.write(record.to_s) }
 
 end
@@ -99,6 +145,10 @@ books.each do |book|
 end
 
 foldedbooks << previousbook
+
+foldedbooks.each do |book|
+  book[:elsewhere] = parse_record_set(book[:fold])
+end
 
 File.write('data/folded.json', JSON.pretty_generate(foldedbooks))
 

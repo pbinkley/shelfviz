@@ -113,7 +113,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 1
+    }
   },
   {
     "id": "3941627",
@@ -138,7 +146,15 @@
     ],
     "fold": [
 
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   },
   {
     "id": "4974289",
@@ -164,7 +180,15 @@
     ],
     "fold": [
 
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   },
   {
     "id": "3854512",
@@ -204,7 +228,15 @@
     ],
     "fold": [
 
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   },
   {
     "id": "3042008",
@@ -229,7 +261,15 @@
     ],
     "fold": [
 
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   },
   {
     "id": "5917642",
@@ -619,7 +659,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 2,
+      "otherua": 1,
+      "neos": 1,
+      "digital": 4
+    }
   },
   {
     "id": "4462656",
@@ -703,7 +751,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 2,
+      "otherua": 0,
+      "neos": 1,
+      "digital": 0
+    }
   },
   {
     "id": "3023796",
@@ -756,7 +812,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 1,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   },
   {
     "id": "5086207",
@@ -914,7 +978,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 1
+    }
   },
   {
     "id": "4044834",
@@ -1555,7 +1627,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 12,
+      "otherua": 0,
+      "neos": 8,
+      "digital": 6
+    }
   },
   {
     "id": "5485716",
@@ -1666,7 +1746,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 1
+    }
   },
   {
     "id": "544838",
@@ -1788,7 +1876,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 4,
+      "otherua": 1,
+      "neos": 1,
+      "digital": 0
+    }
   },
   {
     "id": "4423649",
@@ -1864,7 +1960,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 2,
+      "otherua": 0,
+      "neos": 1,
+      "digital": 0
+    }
   },
   {
     "id": "4398354",
@@ -1931,7 +2035,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 1,
+      "otherua": 0,
+      "neos": 2,
+      "digital": 0
+    }
   },
   {
     "id": "8627239",
@@ -2001,7 +2113,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 2,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   },
   {
     "id": "2939834",
@@ -2140,7 +2260,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 1,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 1
+    }
   },
   {
     "id": "5080962",
@@ -2335,7 +2463,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 1,
+      "rcrf": 1,
+      "otherua": 0,
+      "neos": 1,
+      "digital": 2
+    }
   },
   {
     "id": "4845210",
@@ -2630,7 +2766,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 2,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 2
+    }
   },
   {
     "id": "3991346",
@@ -2683,7 +2827,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 1
+    }
   },
   {
     "id": "9183419",
@@ -3207,7 +3359,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 22,
+      "otherua": 2,
+      "neos": 1,
+      "digital": 0
+    }
   },
   {
     "id": "6699825",
@@ -3233,7 +3393,15 @@
     ],
     "fold": [
 
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   },
   {
     "id": "1765231",
@@ -3414,7 +3582,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 7,
+      "otherua": 1,
+      "neos": 0,
+      "digital": 1
+    }
   },
   {
     "id": "3601282",
@@ -3440,7 +3616,15 @@
     ],
     "fold": [
 
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   },
   {
     "id": "783010",
@@ -3472,7 +3656,15 @@
     ],
     "fold": [
 
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   },
   {
     "id": "2155790",
@@ -3540,7 +3732,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 2,
+      "otherua": 0,
+      "neos": 1,
+      "digital": 0
+    }
   },
   {
     "id": "4076655",
@@ -3586,7 +3786,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 1,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   },
   {
     "id": "5779890",
@@ -3738,7 +3946,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 2
+    }
   },
   {
     "id": "4247599",
@@ -3763,7 +3979,15 @@
     ],
     "fold": [
 
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   },
   {
     "id": "3532684",
@@ -3918,7 +4142,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 1,
+      "otherua": 1,
+      "neos": 0,
+      "digital": 2
+    }
   },
   {
     "id": "2135920",
@@ -4092,7 +4324,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 2
+    }
   },
   {
     "id": "4059994",
@@ -4265,7 +4505,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 1
+    }
   },
   {
     "id": "4574816",
@@ -4327,7 +4575,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 1
+    }
   },
   {
     "id": "5601496",
@@ -4403,7 +4659,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 1
+    }
   },
   {
     "id": "4513864",
@@ -4493,7 +4757,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 3,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   },
   {
     "id": "1851970",
@@ -4652,7 +4924,15 @@
           }
         ]
       }
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 2
+    }
   },
   {
     "id": "5474501",
@@ -4677,6 +4957,14 @@
     ],
     "fold": [
 
-    ]
+    ],
+    "elsewhere": {
+      "shelf": 0,
+      "checkedOut": 0,
+      "rcrf": 0,
+      "otherua": 0,
+      "neos": 0,
+      "digital": 0
+    }
   }
 ]
