@@ -1,0 +1,33 @@
+LEADER 01744cam a2200409 a 4500
+001 567371
+003 CaAEU
+008 880609s1987    dcuh     b        0 eng d
+010    $a    87002805 
+020    $a 0844405612 (pbk.) 
+035    $a ocm15591261 
+040    $a DLC $b eng $c DLC 
+043    $a n-us--- $a n-us-dc 
+049    $a AEU $b eng 
+050 00 $a Z1039.L4 $b R87 1987 
+082 0  $a 028.7/024328 $2 19 
+090 0  $a Z 1039 L4 R979 1987 
+100 1  $a Rutland, Robert Allen, $d 1922-2000 
+245 10 $a "Well acquainted with books" : $b the founding framers of 1787 : with James Madison's list of books for Congress / $c by Robert A. Rutland. 
+260    $a Washington : $b Library of Congress, $c 1987. 
+300    $a 95 p. : $b facsim. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a "A Publication of the Center for the Book in the Library of Congress, sponsored by the Center for the Book and the U.S. Department of Education"--Verso t.p. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+600 10 $a Madison, James, $d 1751-1836 $x Books and reading. 
+610 20 $a Library of Congress $x History. 
+610 10 $a United States. $t Constitution $x Signers $x Books and reading. 
+650  0 $a Legislators $z United States $x Books and reading $x History $y 18th century. 
+650  0 $a Books and reading $z United States $x History $y 18th century. 
+650  0 $a Government libraries $v Book lists. 
+650  0 $a Early printed books $y 18th century. 
+650  0 $a Best books. 
+710 2  $a Center for the Book. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 L4 R979 1987 $d BOOK $f 1 

@@ -1,0 +1,25 @@
+LEADER 01180cam a2200313   4500
+001 1062222
+003 CaAEU
+008 910307s1971    pau      b        0 eng d
+010    $a    74191625 
+035    $a ocm01637771 
+040    $a LC $b eng 
+049    $a ALB $b eng 
+050  0 $a Z1039.S55 $b P47 1971 
+082    $a 028.52 
+090    $a LB 1050.5 Z9 P54 $b AEU 
+110 2  $a Free Library of Philadelphia. $b Reader Development Program. 
+245 00 $a Annotated bibliography, January 1, 1971. $c Editor: Lois B. Nazzaro. 
+260    $a [Philadelphia, $c 1971] 
+300    $a 76 l. ; $c 28 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Second ed. published in 1974 under title: Reader Development bibliography. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a People with social disabilities $x Books and reading $v Bibliography. 
+700 1  $a Nazzaro, Lois B. 
+926    $a UARCRF $b ON_SHELF $c LB 1050.5 Z9 P54 $d BOOK $f 2 
+926    $a UARCRF $b ON_SHELF $c LB 1050.5 Z9 P54 suppl.1 $d BOOK $f 1 

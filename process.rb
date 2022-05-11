@@ -66,6 +66,9 @@ for record in reader
     locations: locations,
     holdings: holdings
   }
+  
+  File.open("dump/#{id}.txt", 'w') { |file| file.write(record.to_s) }
+
 end
 
 puts "Count: #{bookcount}"

@@ -1,0 +1,70 @@
+LEADER 04735cam a2200853 i 4500
+001 6781143
+003 CaAEU
+005 20150112155807.0
+006 m     o  d        
+007 cr cn|||||||||
+008 120622s2012    ctua    ob    001 0 eng d
+020    $a 0300160380 $q (electronic bk.) 
+020    $a 9780300160383 $q (electronic bk.) 
+020    $z 0300120451 
+020    $z 128067802X 
+020    $z 9780300120455 
+020    $z 9781280678028 
+024 8  $a (YBP)8276352 
+035    $a ocn796999564 
+037    $a 22573/ctt1144v5 $b JSTOR 
+037    $a 365495 $b MIL 
+037    $a DD942473-B3D8-48E3-931F-8A8375CD6E28 $b OverDrive, Inc. $n http://www.overdrive.com 
+039    $a exclude 
+040    $a YDXCP $b eng $e rda $e pn $c YDXCP $d OCLCO $d E7B $d N$T $d OSU $d ANG $d CDX $d OCLCQ $d JSTOR $d AU@ $d OCLCF $d TEFOD $d IDEBK $d OCLCQ $d AEU 
+050  4 $a Z1039.W65 $b J33 2012eb 
+082 04 $a 028.9 082 $2 23 
+084    $a HIS054000 $a LIT007000 $a SOC028000 $2 bisacsh 
+090    $a Internet Access $b ARDC 
+090    $a Internet Access $b AEVC 
+090    $a Internet Access $b AEC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b AEKC 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b AFMK 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b ASAV 
+090    $a Internet Access $b AVC 
+100 1  $a Jack, Belinda Elizabeth, $e author. 
+245 14 $a The woman reader / $c Belinda Jack. 
+264  1 $a New Haven : $b Yale University Press, $c [2012] 
+264  4 $c ©2012 
+300    $a 1 online resource (x, 329 pages) : $b illustrations 
+336    $a text $2 rdacontent 
+337    $a computer $2 rdamedia 
+338    $a online resource $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+506    $a Access restricted to authorized users and institutions. 
+588 0  $a Print version record. 
+596    $a 3 6 8 22 31 35 44 57 60 61 
+650  0 $a Girls $x Books and reading $x History. 
+650  0 $a Girls $x Books and reading $x Social aspects $x History. 
+650  0 $a Women $x Books and reading $x History. 
+650  0 $a Women $x Books and reading $x Social aspects $x History. 
+856 40 $3 Red Deer Polytechnic Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=458483 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 NorQuest College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=458483 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Concordia University of Edmonton Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=458483 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Grande Prairie Regional College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=458483 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Keyano College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=458483 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 King's University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=458483 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Lakeland College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=458483 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 MacEwan University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=458483 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Northern Lakes College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=458483 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 University of Alberta Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=458483 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+949    $h UAIN $m RED_DEER_C $z EBSCORDAC 
+926    $a NORQ_MAIN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KEYANO $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a NLC_SL $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KINGS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a LAKELND_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

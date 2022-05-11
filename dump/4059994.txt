@@ -1,0 +1,36 @@
+LEADER 02603cam a2200445 a 4500
+001 4059994
+003 CaAEU
+005 20080117075146.0
+008 070529s2008    paua     b    001 0 eng d
+020    $a 9780812240542 
+020    $a 0812240545 
+035    $a ocn154800562 
+040    $a BTCTA $b eng $c BTCTA $d BAKER $d YDXCP $d UPP $d OCLCQ $d SUC $d IXA $d ACAL 
+043    $a e-uk--- $a n-us--- 
+049    $a MAIN 
+050  4 $a Z1039.W65 $b R43 2008 
+090    $a Z 1039 W65 R43 2008 $b ACAL 
+090    $a Z 1039 W65 R43 2008 $b AEU 
+245 00 $a Reading women : $b literacy, authorship, and culture in the Atlantic world, 1500-1800 / $c edited by Heidi Brayman Hackel and Catherine E. Kelly. 
+260    $a Philadelphia : $b University of Pennsylvania Press, $c c2008. 
+300    $a viii, 263 p. : $b ill. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Material texts 
+504    $a Includes bibliographical references and index. 
+505 00 $t Inventing the early modern woman reader through the world of goods : Lyly's gentlewoman reader and Katherine Stubbes / $r Mary Ellen Lamb -- $t Engendering the female reader : women's recreational reading of Shakespeare in early modern England / $r Sasha Roberts -- $t Crafting subjectivities : women, reading and self-imagining / $r Mary Kelley -- $t "You sow, Ile read" : letters and literacies in early modern samplers / $r Bianca F.-C. Calabresi -- $t The female world of classical reading in eighteenth-century America / $r Caroline Winterer -- $t Reading and the problem of accomplishment / $r Catherine E. Kelly -- $t "Who painted the lion?" : women and novelle / $r Ian Frederick Moulton -- $t The Word made flesh : reading women and the Bible / $r Janice Knight -- $t "With all due reverence and respect to the Word of God" : Aphra Behn as skeptical reader of the Bible and critical translator of Fontenelle / $r Margaret Ferguson -- $t Female curiosities : the transatlantic female commonplace book / $r Susan M. Stabile -- $t Reading outside the frame / $r Robert A. Gross. 
+596    $a 16 43 
+650  0 $a Women $x Books and reading. 
+650  0 $a Women and literature $z Great Britain $x History. 
+650  0 $a Women and literature $z United States $x History. 
+650  0 $a Literacy $x History. 
+650  0 $a Books and reading $x History. 
+700 1  $a Brayman Hackel, Heidi. 
+700 1  $a Kelly, Catherine E. 
+830  0 $a Material texts. 
+949    $h UAAU-B $i 0162024756809 $z UNDERGRAD 
+994    $a C0 $b CNAUC 
+926    $a UAAUG $b ON_SHELF $c Z 1039 W65 R43 2008 $d BOOK $f 1 
+926    $a UAHSS $b ON_SHELF $c Z 1039 W65 R43 2008 $d BOOK $f 1 

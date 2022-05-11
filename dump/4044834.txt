@@ -1,0 +1,32 @@
+LEADER 01526cam a22003974a 4500
+001 4044834
+003 CaAEU
+005 20071218072754.0
+008 070319s2007    ctua     b    001 0 eng  
+010    $a   2007009263 
+020    $a 9781591585169 (alk. paper) 
+020    $a 1591585163 (alk. paper) 
+035    $a ocm86109762 
+040    $a DLC $b eng $c DLC $d YDX $d BAKER $d BTCTA $d YDXCP $d AEU 
+049    $a UABA 
+050 00 $a Z1039.C45 $b R66 2007 
+082 00 $a 028/.9 $2 22 
+090    $a Z 1039 C45 R66 2007 $b AEU 
+100 1  $a Romaine, Susan Steffensen. 
+245 10 $a Readers and leaders / $c Susan Steffensen Romaine. 
+260    $a Westport, Conn. : $b Libraries Unlimited, $c 2007. 
+300    $a xiv, 145 p. : $b ill. ; $c 28 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references (p. 137-138) and index. 
+505 0  $a Benjamin Franklin -- Frederick Douglass -- Emily Dickinson -- Andrew Carnegie -- Thomas Alva Edison -- Melvil Dewey -- Helen Keller -- Harry S. Truman -- Norman Rockwell -- Anne Frank. 
+596    $a 38 43 
+650  0 $a Celebrities $x Books and reading. 
+650  0 $a Books and reading $x History. 
+650  0 $a Biography $x Study and teaching. 
+856 41 $3 Table of contents only $u http://www.loc.gov/catdir/toc/ecip0713/2007009263.html 
+949    $h UAED-B $i 0162024833855 
+994    $a C0 $b UAB 
+926    $a UARCRF $b ON_SHELF $c Z 1039 C45 R66 2007 $d BOOK $f 1 
+926    $a UAHSS $b ON_SHELF $c Z 1039 C45 R66 2007 $d BOOK $f 1 

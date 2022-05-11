@@ -1,0 +1,35 @@
+LEADER 01571cam a2200433 a 4500
+001 5485716
+003 CaAEU
+005 20120302085355.0
+008 110325s2011    ilu      b    001 0 eng  
+010    $a   2011011853 
+016 7  $a 015847373 $2 Uk 
+020    $a 9780838985700 (alk. paper) 
+020    $a 083898570X (alk. paper) 
+035    $a ocn704391752 
+040    $a DLC $b eng $c DLC $d YDX $d BTCTA $d YDXCP $d IEB $d BWX $d CDX $d UKMGB $d BDX $d AEU 
+043    $a n-us--- 
+049    $a UABA 
+050 00 $a Z1039.C65 $b O9 2011 
+082 00 $a 028.5/35 $2 22 
+090    $a Z 1039 C65 O9 2011 $b AEU 
+245 00 $a Outstanding books for the college bound : $b titles and programs for a new generation / $c edited by Angela Carstensen. 
+260    $a Chicago : $b American Library Association, $c 2011. 
+300    $a viii, 164 p. ; $c 26 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a "A YALSA publication." 
+504    $a Includes bibliographical references and index. 
+596    $a 43 
+650  0 $a College students $x Books and reading $z United States. 
+650  0 $a Youth $x Books and reading $z United States. 
+650  0 $a Young adults' libraries $z United States $v Book lists. 
+650  0 $a Young adults' libraries $x Activity programs $z United States. 
+650  0 $a Best books $z United States. 
+700 1  $a Carstensen, Angela. 
+710 2  $a Young Adult Library Services Association. 
+949    $a Z 1039 C65 O9 2011 $c 1 $h UAHS-B $i 0162030545741 
+994    $a C0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1039 C65 O9 2011 $d BOOK $f 1 

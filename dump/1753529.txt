@@ -1,0 +1,29 @@
+LEADER 01478cam a2200361 a 4500
+001 1753529
+003 CaAEU
+008 831202s1984    ilu    j b      1 0 eng d
+010    $a    83025107 /AC 
+020    $a 0814120954 (pbk.) 
+035    $a ocm10230796 
+040    $a DLC $b eng $c DLC 
+049    $a aee $b eng 
+049    $a AEU $b eng 
+050 00 $a Z1039.S5 $b N4 1984 
+082 0  $a 028.5/35 $2 19 
+090 1  $a Z 1039. S5 N277 1984 $b AEE 
+090 1  $a Z 1039 S5 E53 1984 $b AEU 
+110 2  $a National Council of Teachers of English. $b Committee to Revise High Interest-Easy Reading. 
+245 10 $a High interest easy reading : $b for junior and senior high school students / $c Hugh Agee, chair, and the Committee to Revise High Interest-Easy Reading of the National Council of Teachers of English. 
+250    $a 4th ed. 
+260    $a Urbana, Ill. : $b National Council of Teachers of English, $c c1984. 
+300    $a viii, 96 p. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Includes indexes. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a High interest-low vocabulary books $v Bibliography. $v Juvenile literature. 
+700 1  $a Agee, Hugh, $d 1933- 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 E53 1984 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 E53 1984 $d BOOK $f 1 

@@ -1,0 +1,34 @@
+LEADER 01544cam a2200421 a 4500
+001 783010
+003 CaAEU
+005 19910701153035.1
+008 911107s1990    nyu      b      1 0 eng d
+010    $a    90008124 
+020    $a 0415901030 $z 0415901049 (pbk.) 
+035    $a ocm21117549 
+040    $a DLC $b eng $c DLC $d DLC 
+049    $a AEU $b eng 
+050 00 $a Z1039.W65 $b C47 1990 
+082 00 $a 028.5/35 $2 20 
+090    $a Z 1039 W65 C47 1990 $b ACHCU 
+090 0  $a Z 1039 W65 C555 1990 
+090    $a Z 1039 W65 C555 1990 $b ACAL 
+100 1  $a Christian-Smith, Linda K. 
+245 10 $a Becoming a woman through romance / $c Linda K. Christian-Smith. 
+260    $a New York : $b Routledge, $c 1990. 
+300    $a xv, 208 p. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Critical social thought. 
+504    $a Includes bibliographical references (p. 186-197) and index. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 16 43 
+650  0 $a Young women $x Books and reading. 
+650  0 $a Love stories $x History and criticism. 
+650  0 $a Young adult fiction $x History and criticism. 
+650  0 $a Popular literature $x History and criticism. 
+650  0 $a Young women $x Education. 
+830  0 $a Critical social thought. 
+926    $a UAAUG $b ON_SHELF $c Z 1039 W65 C555 1990 $d BOOK $f 1 
+926    $a UAHSS $b ON_SHELF $c Z 1039 W65 C555 1990 $d BOOK $f 1 

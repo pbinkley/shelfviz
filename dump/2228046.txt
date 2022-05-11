@@ -1,0 +1,28 @@
+LEADER 01208cam a2200349 a 4500
+001 2228046
+003 CaAEU
+008 940623s1993    fr a     b    000 0 fre u
+020    $a 2130460607 
+035    $a ocm29394067 
+040    $a FEB $b fre $c FEB $d UTO $d AEUSJ 
+043    $a e-fr--- 
+050  4 $a Z1039.C65 $b E88 1993 
+082 04 $a 306.488 
+090    $a Z 1039 C65 E88 1993 $b AEUSJ 
+245 04 $a Les Etudiants et la lecture / $c sous la direction de Emmanuel Fraisse. 
+250    $a 1. éd. 
+260    $a Paris : $b Presses Universitaires de France, $c 1993. 
+300    $a 262 p. : $b ill. ; $c 22 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Politique d'aujourd'hui 
+504    $a Bibliogr. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  6 $a Étudiants $z France $x Livres et lectures. 
+650  6 $a Livres et lectures $z France. 
+650  6 $a Lecture, Goût de la $z France. 
+700 1  $a Fraisse, Emmanuel. 
+830  0 $a Politique d'aujourd'hui. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 C65 E88 1993 $d BOOK $f 1 

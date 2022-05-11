@@ -1,0 +1,33 @@
+LEADER 01564cam a2200409 a 4500
+001 4513864
+003 CaAEU
+005 20100302095011.0
+008 090708s2009    cau      b    001 0 eng  
+010    $a   2009026354 
+020    $a 9781591586586 (hbk. : alk. paper) 
+020    $a 1591586585 (hbk. : alk. paper) 
+035    $a ocn320194097 
+040    $a DLC $c DLC $d BTCTA $d C#P $d AEU 
+043    $a n-us--- 
+049    $a UABA 
+050 00 $a Z1039.W65 $b Z45 2009 
+082 00 $a 028/.9 $2 22 
+090    $a Z 1039 W65 Z45 2009 $b AEU 
+100 1  $a Zellers, Jessica. 
+245 10 $a Women's nonfiction : $b a guide to reading interests / $c Jessica Zellers. 
+260    $a Santa Barbara, Calif. : $b Libraries Unlimited, $c c2009. 
+300    $a xxiv, 442 p. ; $c 27 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Libraries Unlimited real stories series 
+504    $a Includes bibliographical references and indexes. 
+505 0  $a Life stories : biography, autobiography, and memoirs -- Personal growth -- Health, wellness, and beauty -- Women's history -- Adventure and travel -- Feminism and activism -- Women at work -- Women and society. 
+596    $a 43 
+650  0 $a Women $x Books and reading $z United States $v Bibliography. 
+650  0 $a Reading interests $z United States. 
+650  0 $a Readers' advisory services $z United States. 
+830  0 $a Real stories. 
+949    $a Z 1039 W65 Z45 2009 $c 1 $h UAHS-B $i 0162028393500 
+994    $a C0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1039 W65 Z45 2009 $d BOOK $f 1 

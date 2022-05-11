@@ -1,0 +1,39 @@
+LEADER 02180cam a22004814a 4500
+001 3991346
+003 CaAEU
+005 20071010144615.0
+008 070212s2007    mdu      b    001 0 eng  
+010    $a   2007006391 
+020    $a 9780810856721 (pbk. : alk. paper) 
+020    $a 0810856727 (pbk. : alk. paper) 
+035    $a ocm85851408 
+040    $a DLC $b eng $c DLC $d BTCTA $d BAKER $d C#P $d YDXCP $d AEU 
+043    $a n-us--- 
+049    $a UABA 
+050 00 $a Z1039.M56 $b G55 2007 
+082 00 $a 810/.93529 $2 22 
+090    $a Z 1039 M56 G55 2007 $b AGPC 
+090    $a Z 1039 M56 G55 2007 $b AEU 
+100 1  $a Gilton, Donna L. 
+245 10 $a Multicultural and ethnic children's literature in the United States / $c Donna L. Gilton. 
+260    $a Lanham, Md. : $b Scarecrow Press, $c 2007. 
+300    $a vii, 236 p. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references (p. 179-213) and index. 
+505 0  $a Multicultural children's literature : an introduction -- A history of U.S. multicultural children's literature -- General trends in the field -- Specific ethnic initiatives and conclusions -- Where to go from here : emerging groups and issues. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 28 43 
+650  0 $a Children of minorities $x Books and reading $z United States. 
+650  0 $a Minority teenagers $x Books and reading $z United States. 
+650  0 $a Multiculturalism $z United States $x History. 
+650  0 $a Multicultural education $z United States $x History. 
+650  0 $a Children's literature, American $x History and criticism. 
+650  0 $a American literature $x Minority authors $x History and criticism. 
+650  0 $a Ethnic groups in literature. 
+856 41 $3 Table of contents only $u http://www.loc.gov/catdir/toc/ecip0712/2007006391.html 
+949    $h UAHS-B $i 0162024177857 $z UNDERGRAD 
+994    $a C0 $b UAB 
+926    $a GPRC_GP $b ON_SHELF $c Z 1039 M56 G55 2007 $d BOOK $f 1 
+926    $a UAHSS $b ON_SHELF $c Z 1039 M56 G55 2007 $d BOOK $f 1 

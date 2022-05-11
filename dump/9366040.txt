@@ -1,0 +1,39 @@
+LEADER 02978nam a22004818i 4500
+001 9366040
+003 CaAEU
+005 20201110175836.0
+006 m|||||o||d||||||||
+007 cr||||||||||||
+008 190823s2021||||enk     o     ||1 0|eng|d
+020    $a 9781108866293 $q (ebook) 
+020    $z 9781108496162 $q (hardback) 
+020    $z 9781108791601 $q (paperback) 
+035    $a on1158508340 
+039    $a exclude 
+040    $a UkCbUP $b eng $e rda $c UkCbUP $d AEU 
+043    $a e-uk--- 
+050 00 $a Z1039.W65 $b K56 2021 
+082 00 $a 028/.9082094109034 $2 23 
+090    $a Internet Access $b AEU 
+100 1  $a Knox, Marisa Palacios, $e author. 
+245 10 $a Victorian women and wayward reading : $b crises of identification / $c Marisa Palacios Knox. 
+264  1 $a Cambridge : $b Cambridge University Press, $c 2021. 
+300    $a 1 online resource (xi, 233 pages) : $b digital, PDF file(s). 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+490 1  $a Cambridge studies in nineteenth-century literature and culture 
+500    $a Title from publisher's bibliographic system (viewed on 29 Oct 2020). 
+506    $a Access restricted to authorized users and institutions. 
+520    $a In the nineteenth century, no assumption about female reading generated more ambivalence than the supposedly feminine facility for identifying with fictional characters. The belief that women were more impressionable than men inspired a continuous stream of anxious rhetoric about "female quixotes": women who would imitate inappropriate characters or apply incongruous frames of reference from literature to their own lives. While the overt cultural discourse portrayed female literary identification as passive and delusional, Palacios Knox reveals increasing accounts of Victorian women wielding literary identification as a deliberate strategy. Wayward women readers challenged dominant assumptions about "feminine reading" and, by extension, femininity itself. Victorian Women and Wayward Reading contextualizes crises about female identification as reactions to decisive changes in the legal, political, educational, and professional status of women over the course of the nineteenth century: changes that wayward reading helped women first to imagine and then to enact. 
+596    $a 44 
+650  0 $a Women $x Books and reading $z Great Britain $x History $y 19th century. 
+650  0 $a English fiction $y 19th century $x History and criticism. 
+650  0 $a Women and literature $z Great Britain $x History $y 19th century. 
+650  0 $a Books and reading in literature. 
+650  0 $a Identification (Psychology) in literature. 
+650  0 $a Women in literature. 
+830  0 $a Cambridge studies in nineteenth-century literature and culture. 
+856 40 $3 University of Alberta Access $u https://doi.org/10.1017/9781108866293 $z from Cambridge Core 
+949    $h UAIN $z CBO 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

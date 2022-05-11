@@ -1,0 +1,26 @@
+LEADER 01056cam a2200325 a 4500
+001 953500
+003 CaAEU
+008 870323s1987    cou      b      1 0 eng d
+010    $a    87003736 
+020    $a 0872875474 
+035    $a ocm15486045 
+040    $a DLC $b eng $c DLC 
+049    $a AEU $b eng 
+050 00 $a Z1039.S5 $b P54 1987 
+082 0  $a 016.37192/64 $2 19 
+090    $a 016.37 PIL $b ACHCU 
+090 0  $a Z 1039 S5 P642 1987 $b AEU 
+100 1  $a Pilla, Marianne Laino, $d 1955- 
+245 10 $a Resources for middle-grade reluctant readers : $b a guide for librarians / $c Marianne Laino Pilla. 
+260    $a Littleton, Colo. : $b Libraries Unlimited, $c 1987. 
+300    $a xiv, 122 p. ; $c 25 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Includes indexes. 
+504    $a Bibliography: p. 96-113. 
+596    $a 38 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+650  0 $a Slow learning children $x Books and reading. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 P642 1987 $d BOOK $f 1 

@@ -1,0 +1,37 @@
+LEADER 01736cam a2200457 a 4500
+001 1338268
+003 CaAEU
+005 19900622135826.2
+008 901123s1990    nyu      b      1 0 eng d
+010    $a    90035823 
+020    $a 0835228045 
+035    $a ocm21409281 
+040    $a DLC $b eng $c DLC $d DLC 
+049    $a AEU $b eng 
+050 00 $a Z1039.S5 $b H54 1990 
+082 00 $a 016.0276/63 $2 20 
+090 0  $a Z 1039 S5 H639 1990 
+245 00 $a High/low handbook : $b encouraging literacy in the 1990s / $c compiled and edited by Ellen V. LiBretto. 
+250    $a 3rd ed. 
+260    $a New York : $b Bowker, $c c1990. 
+300    $a xii, 290 p. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Serving special needs series. 
+504    $a Includes bibliographical references and index. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+650  0 $a Libraries $x Special collections $x High interest-low vocabulary books. 
+650  0 $a Reading $x Remedial teaching $x Aids and devices. 
+650  0 $a Learning disabled youth $x Books and reading. 
+650  0 $a Slow learning children $x Books and reading. 
+650  0 $a Youth with disabilities $x Books and reading. 
+650  0 $a Libraries and people with disabilities. 
+650  0 $a Teenagers $x Books and reading. 
+650  0 $a Young adults' libraries. 
+650  0 $a Reading disability. 
+700 1  $a LiBretto, Ellen V. 
+830  0 $a Serving special needs series. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 H639 1990 $d BOOK $f 1 

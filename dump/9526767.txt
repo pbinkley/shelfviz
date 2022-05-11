@@ -1,0 +1,48 @@
+LEADER 02860nam a2200589 i 4500
+001 9526767
+003 CaAEU
+005 20200520144314.0
+006 m     o  d |      
+007 cr cnu||||||||
+008 160126s2014    nyu     ob    000 0 eng|d
+020    $z 9781579582098 
+020    $a 9781315062990 $q (e-book) 
+035    $a ocn931534831 
+039    $a exclude 
+040    $a MiAaPQ $b eng $e rda $e pn $c MiAaPQ $d MiAaPQ $d AEU 
+050  4 $a Z1041 $b .C37 2014 
+082 0  $a 929.4 $2 23 
+090    $a Internet Access $b ARDC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b AEC 
+090    $a Internet Access $b AEU 
+100 1  $a Carty, T. J., $e author. 
+245 12 $a A dictionary of literary pseudonyms in the English language / $c T.J. Carty. 
+250    $a Second edition. 
+264  1 $a New York : $b Routledge, $c 2014. 
+300    $a 1 online resource (859 pages) 
+336    $a text $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+504    $a Includes bibliographical references. 
+506    $a Access restricted to authorized users and institutions. 
+588    $a Description based on online resource; title from PDF title page (ebrary, viewed January 26, 2016). 
+596    $a 6 35 44 57 60 
+650  0 $a Anonyms and pseudonyms. 
+856 40 $3 Red Deer Polytechnic Access $u https://ebookcentral.proquest.com/lib/rdc/detail.action?docID=4186405 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 MacEwan University Access $u https://ebookcentral.proquest.com/lib/macewan-ebooks/detail.action?docID=4186405 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Grande Prairie Regional College Access $u https://ebookcentral.proquest.com/lib/gprc-ebooks/detail.action?docID=4186405 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Concordia University of Edmonton Access $u https://ebookcentral.proquest.com/lib/concordiaab-ebooks/detail.action?docID=4186405 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 University of Alberta Access $u https://ebookcentral.proquest.com/lib/ualberta/detail.action?docID=4186405 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+949    $h UAIN $z EBCACUA 
+949    $h UAIN $m RED_DEER_C $z EBCACRD 
+949    $h UAIN $m GR_MAC_INT $z EBCACMAC 
+949    $h UAIN $m GPRC_INT $z EBCACGP 
+949    $h UAIN $m CONCORD_IN $z EBCACCN 
+919    $a EBC4186405 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

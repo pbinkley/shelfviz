@@ -1,0 +1,29 @@
+LEADER 01348cam a2200361 a 4500
+001 4745475
+003 CaAEU
+005 20100822142858.0
+008 100822s1985    abc          s000 0 fre d
+035    $a ocn657281827 
+040    $a AEUSJ $b fre $c AEUSJ 
+049    $a UABA 
+050  4 $a Z1039.H54 $b C49 1985 
+090    $a Z 1039 H54 C49 1985 $b AEUSJ 
+245 00 $a Choix de romans. $n 7e année. 
+260    $a [Edmonton] : $b Alberta Education, Language Services, $c [1985] 
+300    $a 10 f. ; $c 28 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Titre de la couv. 
+500    $a "Document d'information. Octobre 1985." 
+590    $a University of Alberta copy in the Alberta Historical Curriculum Collection. $5 CaAEU 
+596    $a 38 
+650  6 $a Élèves canadiens-français $x Livres et lecture $z Alberta. 
+650  6 $a Élèves canadiens $x Livres et lecture $z Alberta. 
+650  6 $a Élèves du secondaire $x Livres et lecture $z Alberta. 
+650  6 $a Français (Langue) $x Étude et enseignement (Secondaire) $z Alberta. 
+650  6 $a Enseignement secondaire $z Alberta. 
+710 1  $a Alberta. $b Alberta Education. $b Language Services. 
+949    $a Z 1039 H54 C49 1985 $c 1 $h UABSJ-SP-B $i 0162028896981 
+994    $a C0 $b UAB 
+926    $a UARCRF $b READONSITE $c Z 1039 H54 C49 1985 $d NO_LOAN $f 1 

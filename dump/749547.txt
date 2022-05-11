@@ -1,0 +1,39 @@
+LEADER 01592cas a2200481 a 4500
+001 749547
+003 CaAEU
+008 821117c19839999iluhr    bo        0eng d
+010    $a    84644479  $z sn 82007755 
+022 0  $a 0735-6358 
+035    $a ocm08963926 
+037    $b John Gordon Burke Publisher, Inc., PO Box 1492, Evanston, Ill. 60204-1492 
+040    $a NSDP $b eng $d DLC $d MH $d InU $d NST 
+042    $a lc $a nsdp 
+049    $a AEU $b eng 
+050 0  $a Z1039.S5 $b C47 
+082 0  $a 011/.63 $2 19 
+090 0  $a Z 1039 S5 C54 $b AEU 
+130 0  $a Choices (Evanston, Ill.) 
+210 0  $a Choices 
+222  0 $a Choices 
+245 00 $a Choices. 
+260    $a Evanston, Ill. : $b J.G. Burke, $c c1983- 
+300    $a v. ; $c 24 cm. 
+310    $a Triennial 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+362 0  $a Vol. 1- . 
+500    $a "A core collection for young reluctant readers" 
+596    $a 38 
+650  0 $a Slow learning children $x Books and reading. 
+650  0 $a High interest-low vocabulary books $v Book reviews. 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+650  0 $a Children's literature $v Book reviews. 
+650  0 $a Children's literature $v Bibliography. 
+650  0 $a Children's libraries $v Book lists. 
+650  0 $a Best books $v Juvenile literature. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 C54 v.1 1983 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 C54 v.4 1997 $d BOOK $f 1 
+927    $a UARCRF 
+927    $b Location $c ON_SHELF-- Z 1039 S5 C54 
+927    $b Library has $c v.1 (1983),v.4 (1997) 

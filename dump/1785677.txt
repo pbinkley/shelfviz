@@ -1,0 +1,28 @@
+LEADER 01151cam a2200349 a 4500
+001 1785677
+003 CaAEU
+005 19960722125111.4
+008 961003s1996    ilu      b    001 0 eng u
+010    $a    96005086 
+020    $a 0838934560 (pbk. : alk. paper) 
+035    $a ocm34191683 
+040    $a DLC $b eng $c DLC $d DLC $d AEU 
+043    $a n-us--- 
+050 00 $a Z1039.C65 $b O9 1996 
+082 00 $a 011.62/5 $2 20 
+090 0  $a Z 1039 C65 O9 1996 $b AEU 
+245 00 $a Outstanding books for the college bound : $b choices for a generation / $c Young Adult Library Services Association ; Marjorie Lewis, editor. 
+260    $a Chicago : $b American Library Association, $c 1996. 
+300    $a xv, 217 p. ; $c 25 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a ALA editions. 
+500    $a Includes indexes. 
+596    $a 38 
+650  0 $a College students $z United States $x Books and reading. 
+650  0 $a Best books. 
+700 1  $a Lewis, Marjorie. 
+710 2  $a Young Adult Library Services Association. 
+830  0 $a ALA editions. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 C65 O9 1996 $d BOOK $f 1 

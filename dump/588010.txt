@@ -1,0 +1,40 @@
+LEADER 02048cam a2200493 a 4500
+001 588010
+003 CaAEU
+008 881027s1988    ilu               0 eng d
+010    $a    88016714 
+020    $a 0838933572 (v. 1) 
+035    $a ocm18072707 
+040    $a DLC $b eng $c DLC 
+049    $a AEU $b eng 
+050 00 $a Z1039.C65 $b B67 1988 
+082 0  $a 025.2/1877 $2 19 
+090  0 $a Z 1039 C65 B67 $b ARDC 
+090    $a Z 1039 C65 B67 1988 $b AEC 
+090    $a Z 1039 C65 B67 1988 $b ACAL 
+090 0  $a Z 1035 B73 1988 $b AEU 
+245 00 $a Books for college libraries : $c a core collection of 50,000 titles. 
+250    $a 3rd ed. 
+260    $a Chicago : $b American Library Association, $c 1988. 
+300    $a 6 v. ; $c 29 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a "A project of the Association of College and Research Libraries." 
+505 0  $a v. 1. Humanities -- v. 2. Language and literature -- v. 3. History -- v. 4. Social sciences -- v. 5. Psychology, science, technology, bibliography -- v. 6. Index. 
+596    $a 21 38 
+650  0 $a Academic libraries $v Book lists. 
+650  0 $a Best books. 
+710 2  $a Association of College and Research Libraries. 
+926    $a CONCORDIA $b REFERENCE $c Z 1039 C65 B67 1988 v.1 $d NO_LOAN $f 1 
+926    $a CONCORDIA $b REFERENCE $c Z 1039 C65 B67 1988 v.2 $d NO_LOAN $f 1 
+926    $a CONCORDIA $b REFERENCE $c Z 1039 C65 B67 1988 v.3 $d NO_LOAN $f 1 
+926    $a CONCORDIA $b REFERENCE $c Z 1039 C65 B67 1988 v.4 $d NO_LOAN $f 1 
+926    $a CONCORDIA $b REFERENCE $c Z 1039 C65 B67 1988 v.5 $d NO_LOAN $f 1 
+926    $a CONCORDIA $b REFERENCE $c Z 1039 C65 B67 1988 v.6 $d NO_LOAN $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1035 B73 1988 v.1 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1035 B73 1988 v.2 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1035 B73 1988 v.3 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1035 B73 1988 v.4 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1035 B73 1988 v.5 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1035 B73 1988 v.6 $d BOOK $f 1 

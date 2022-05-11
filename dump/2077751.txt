@@ -1,0 +1,32 @@
+LEADER 01847cam a2200397 a 4500
+001 2077751
+003 CaAEU
+005 19980804140702.0
+008 970423s1996    ilu      b    001 0 eng u
+020    $a 0814120989 
+035    $a ocm34290615 
+040    $a DLC $b eng $c DLC $d AEU 
+050  4 $a Z1039.S5 $b N38 1996 
+090    $a Z 1039 S5 E53 1996 $b AEU 
+090    $a Z1039 .S5 N4 1996 $b AEGMCT 
+110 2  $a National Council of Teachers of English. $b Committee to Revise High Interest-Easy Reading. 
+245 10 $a High interest easy reading : $b an annotated booklist for middle school and senior high school / $c Patricia Phelan, editor, and the Committee to Revise High Interest-Easy Reading of the National Council of Teachers of English. 
+250    $a 7th ed. 
+260    $a Urbana, Ill. : $b National Council of Teachers of English, $c c1996. 
+300    $a x, 115 p. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a NCTE bibliography series. $x 1051-4740 
+500    $a Includes indexes. 
+520    $a Presents an annotated bibliography of books for reluctant readers in middle and high school, arranged in categories, and indexed by author, title, and subject. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+650  0 $a Middle school libraries $z United States $v Book lists. 
+650  0 $a Young adult literature $v Bibliography. 
+650  0 $a Children's literature $v Bibliography. 
+650  0 $a High school libraries $z United States $v Book lists. 
+700 1  $a Phelan, Patricia. 
+830  0 $a NCTE bibliography series. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 E53 1996 $d BOOK $f 1 

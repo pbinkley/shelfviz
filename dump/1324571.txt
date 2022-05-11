@@ -1,0 +1,27 @@
+LEADER 01125cam a2200337 a 4500
+001 1324571
+003 CaAEU
+005 19900608155636.1
+008 900928s1990    cou      b      1 0 eng d
+010    $a    90005756 
+020    $a 0872875326 
+035    $a ocm21228401 
+040    $a DLC $b eng $c DLC $d DLC 
+049    $a AEU $b eng 
+050 00 $a Z1039.S5 $b P53 1990 
+082 00 $a 016.0285/35 $2 20 
+090 0  $a Z 1039 S5 P6415 1990 
+100 1  $a Pilla, Marianne Laino, $d 1955- 
+245 14 $a The best : $b high/low books for reluctant readers / $c Marianne Laino Pilla. 
+260    $a Englewood, Colo. : $b Libraries Unlimited, $c 1990. 
+300    $a xv, 100 p. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a A Libraries Unlimited data book 
+504    $a Includes bibliographical references (p. xiv) and indexes. 
+596    $a 38 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+650  0 $a Slow learning children $x Books and reading. 
+830  0 $a Libraries Unlimited data books. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 P6415 1990 $d BOOK $f 1 

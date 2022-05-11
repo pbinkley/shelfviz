@@ -1,0 +1,34 @@
+LEADER 01545cam a2200421 a 4500
+001 2939834
+003 CaAEU
+005 20040919133326.0
+008 031203s2004    mau           000 0 eng  
+010    $a   2003026369 
+020    $a 0807032557 (pbk. : alk. paper) 
+035    $a ocm53954132 
+040    $a DLC $b eng $c DLC $d AEU 
+043    $a n-us--- 
+049    $a UABA 
+050 00 $a Z1039.H54 $b G74 2004 
+082 00 $a 028.5/35 $2 22 
+090    $a Z 1039 H54 G743 2004 $b ARDC 
+090    $a Z 1039 H54 G74 2004 $b AEU 
+245 00 $a Great books for high school kids : $b a teacher's guide to books that can change teens' lives / $c edited by Rick Ayers and Amy Crawford. 
+260    $a Boston : $b Beacon Press, $c c2004. 
+300    $a xx, 240 p. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+596    $a 35 43 
+650  0 $a High school students $x Books and reading $z United States. 
+650  0 $a Teenagers $x Books and reading $z United States. 
+650  0 $a American literature $x Study and teaching (Secondary) $z United States. 
+650  0 $a Best books $z United States. 
+700 1  $a Ayers, Rick. 
+700 1  $a Crawford, Amy. 
+856 42 $3 Publisher description $u http://www.loc.gov/catdir/description/hm041/2003026369.html 
+856 41 $3 Table of contents $u http://www.loc.gov/catdir/toc/ecip0412/2003026369.html 
+949    $i 0162018987915 
+994    $a X0 $b UAB 
+926    $a RED_DEER_P $b FLOOR_2 $c Z 1039 H54 G743 2004 $d BOOK $f 1 
+926    $a UAHSS $b ON_SHELF $c Z 1039 H54 G74 2004 $d BOOK $f 1 

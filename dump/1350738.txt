@@ -1,0 +1,36 @@
+LEADER 01610cam a2200445 a 4500
+001 1350738
+003 CaAEU
+005 19900111130352.6
+008 910122s1989    dcua     bo       0 eng d
+010    $a    89007642 
+020    $a 0872072347 
+035    $a ocm19671503 
+040    $a DLC $b eng $c DLC $d DLC 
+049    $a AEE $b eng 
+049    $a AEU $b eng 
+050 00 $a Z1039.S5 $b R93 1989 
+090 0  $a Z/1039.S5/R992/1989 $b AEE 
+090 0  $a Z 1039 S5 R992 1989 
+100 1  $a Ryder, Randall J. 
+245 10 $a Easy reading : $b book series and periodicals for less able readers / $c Randall J. Ryder, Bonnie B. Graves, Michael F. Graves. 
+250    $a 2nd ed. 
+260    $a Newark, Del. : $b International Reading Association, $c c1989. 
+300    $a vi, 90 p. : $b ill. ; $c 22 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Reading aids series. 
+500    $a Rev. ed. of: Easy reading / Michael F. Graves, Judith A. Boettcher, Randall A. [i.e. J.] Ryder. c1979. 
+504    $a Includes bibliographical references (p. 15-16). 
+596    $a 38 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+650  0 $a High interest-low vocabulary books $v Reviews. 
+650  0 $a Readers for new literates $v Bibliography. 
+650  0 $a Readers for new literates $v Book reviews. 
+650  0 $a Serial publications $v Bibliography. 
+650  0 $a Monographic series $v Bibliography. 
+700 1  $a Graves, Bonnie B. 
+700 1  $a Graves, Michael F. 
+830  0 $a Reading aids series. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 R992 1989 $d BOOK $f 1 

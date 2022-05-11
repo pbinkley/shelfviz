@@ -1,0 +1,33 @@
+LEADER 01502cam a2200409 a 4500
+001 3941627
+003 CaAEU
+005 20070612123913.0
+008 060216s2006    njua     b    001 0 eng  
+010    $a   2006005585 
+020    $a 0813539072 (alk. paper) 
+020    $a 9780813539072 (alk. paper) 
+035    $a ocm64453302 
+040    $a DLC $b eng $c DLC $d BAKER $d C#P $d BTCTA $d YDXCP $d NPL $d AEU 
+043    $a n-us--- 
+049    $a UABA 
+050 00 $a Z1039.B56 $b H65 2006 
+082 00 $a 028/.908996073 $2 22 
+090    $a Z 1039 B56 H65 2006 $b AEU 
+100 1  $a Holloway, Karla F. C., $d 1949- 
+245 10 $a BookMarks : $b reading in Black and white : a memoir / $c by Karla F. C. Holloway. 
+260    $a New Brunswick, N.J. : $b Rutgers University Press, $c c2006. 
+300    $a x, 223 p. : $b ill. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references (p. [211]-213) and index. 
+596    $a 43 
+650  0 $a African Americans $x Books and reading. 
+650  0 $a American literature $x African American authors $x History and criticism. 
+650  0 $a African Americans in literature. 
+650  0 $a African Americans and libraries. 
+650  0 $a African Americans $x Intellectual life. 
+856 41 $3 Table of contents only $u http://www.loc.gov/catdir/toc/ecip069/2006005585.html 
+949    $h UAHS-B $i 0162023998865 $z UNDERGRAD 
+994    $a C0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1039 B56 H65 2006 $d BOOK $f 1 

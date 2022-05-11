@@ -1,0 +1,24 @@
+LEADER 01162cam a2200301 i 4500
+001 339452
+003 CaAEU
+008 810601s1980    cau               0 eng d
+010    $a    80082901 
+020    $a 0893200476 (pbk.) 
+035    $a ocm07000933 
+040    $a LC $b eng 
+049    $a aeu $b eng 
+050  0 $a Z1039.S5 $b N43 1980 
+082 0  $a 371.9 $2 19 
+090 00 $a Z 1039 S5 N27 1980 $b AEU 
+110 2  $a National Information Center for Special Education Materials. 
+245 10 $a NICSEM mini-index to special education materials : $b high interest, controlled vocabulary supplementary reading materials for adolescents and young adults. 
+250    $a 1st ed. 
+260    $a Los Angeles, CA : $b National Information Center for Educational Media, University of Southern California, $c 1980. 
+300    $a xiv, 65 p. ; $c 28 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+596    $a 38 
+650  0 $a High interest-low vocabulary books. 
+740 0  $a High interest, controlled vocabulary supplementary reading materials for adolescents and young adults. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 N27 1980 $d BOOK $f 1 

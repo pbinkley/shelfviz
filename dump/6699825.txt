@@ -1,0 +1,36 @@
+LEADER 01824nam a2200445Ii 4500
+001 6699825
+003 CaAEU
+005 20140905114026.0
+008 131014s2013    fr a     b    001 0 fre  
+010    $a   2014374901 
+016 7  $a 016604544 $2 Uk 
+020    $a 9782746733244 (pbk.) 
+020    $a 2746733242 (pbk.) 
+035    $a ocn860689252 
+040    $a DLC $b eng $e rda $c DLC $d AUXAM $d OCLCO $d C3L $d STF $d UKMGB $d OCLCO $d OCLCQ $d OCLCF $d OCLCO 
+042    $a pcc 
+043    $a e-fr--- 
+050 00 $a Z1039.S6 $b G55 2013 
+082 04 $a 940 $2 21 
+090    $a Z 1039 S6 G55 2013 $b AEU 
+100 1  $a Gilles, Benjamin. 
+245 10 $a Lectures de poilus : $b livres et journaux dans les tranchées : 1914-1918 / $c Benjamin Gilles ; préface de John Horne. 
+264  1 $a Paris : $b Éditions Autrement : $b Ministère de la défense, Secrétariat général pour l'administration, Direction de la mémoire, du patrimoine et des archives, $c [2013] 
+300    $a 329 pages : $b illustrations ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Collection L'atelier d'histoire 
+504    $a Includes bibliographical references (pages 311-320) and indexes. 
+596    $a 43 
+650  6 $a Soldats $x Livres et lecture $z France. 
+650  6 $a Guerre mondiale, $d 1914-1918 $x Littérature et guerre. 
+650  6 $a Guerre mondiale, $d 1914-1918 $x Couverture de presse $z France. 
+650  0 $a Soldiers $x Books and reading $z France. 
+650  0 $a World War, 1914-1918 $x Literature and the war. 
+650  0 $a World War, 1914-1918 $x Press coverage $z France. 
+710 1  $a France. $b Direction de la mémoire, du patrimoine et des archives. 
+830  0 $a Atelier d'histoire. 
+949    $a Z 1039 S6 G55 2013 $h UAHS-B $i 0162034619120 
+926    $a UAHSS $b ON_SHELF $c Z 1039 S6 G55 2013 $d BOOK $f 1 

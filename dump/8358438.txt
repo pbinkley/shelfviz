@@ -1,0 +1,35 @@
+LEADER 03492cam a2200433 i 4500
+001 8358438
+003 CaAEU
+005 20180921172749.1
+008 180321s2018    miua     b    000 0 eng  
+010    $a   2018007015 
+020    $a 1587433966 $q hardcover ; $q alkaline paper 
+020    $a 9781587433962 $q hardcover ; $q alkaline paper 
+035    $a on1024098528 
+040    $a DLC $b eng $e rda $c DLC $d OCLCF $d OCLCO $d BCT $d QQ3 $d NYP $d FM0 $d LNT $d IGA $d YDX $d AEU $d AEKC 
+042    $a pcc 
+050 00 $a Z1039.C47 $b P75 2018 
+082 00 $a 028/.9 $2 23 
+090    $a Z 1039 C47 P75 2018 $b AEKC 
+100 1  $a Prior, Karen Swallow, $e author. 
+245 10 $a On reading well : $b finding the good life through great books / $c Karen Swallow Prior ; illustrations by Ned Bustard. 
+264  1 $a Grand Rapids, Michigan : $b Brazos Press, a division of Baker Publishing Group, $c [2018] 
+300    $a 267 pages : $b illustrations ; $c 23 cm 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Includes discussion questions. 
+500    $a Name of illustrator taken from title page verso. 
+504    $a Includes bibliographical references (pages 245-267). 
+505 0  $a Foreword / by Leland Ryken -- Introduction: Read well, live well -- Part one. The cardinal virtues -- Prudence: The history of Tom Jones, a foundling, by Henry Fielding -- Temperance: The great Gatsby, by F. Scott Fitzgerald -- Justice: A tale of two cities, by Charles Dickens -- Courage: the adventures of Huckleberry Finn, by Mark Twain -- Part two. The theological virtues -- Faith: Silence, by Shusaku Endo -- Hope: The road, by Cormac McCarthy -- Love: The death of Ivan Ilych, by Leo Tolstoy -- Part three. The heavenly virtues -- Chastity: Ethan Frome, by Edith Wharton -- Diligence: Pilgrim's progress, by John Bunyan -- Patience: Persuasion, by Jane Austen -- Kindness: "Tenth of December," by George Saunders -- Humility: "Revelation" and "Everything that rises must converge," by Flannery O'Connor. 
+520    $a "Acclaimed author Karen Swallow Prior takes readers on a guided tour through works of great literature both ancient and modern, exploring twelve virtues that philosophers and theologians throughout history have identified as most essential for good character and the good life. In reintroducing ancient virtues that are as relevant and essential today as ever, Prior draws on the best classical and Christian thinkers, including Aristotle, Aquinas, and Augustine. Covering authors from Henry Fielding to Cormac McCarthy, Jane Austen to George Saunders, and Flannery O'Connor to F. Scott Fitzgerald, Prior explores some of the most compelling universal themes found in the pages of classic books, helping readers learn to love life, literature, and God through their encounters with great writing. In examining works by these authors and more, Prior shows why virtues such as prudence, temperance, humility, and patience are still necessary for human flourishing and civil society. The book includes reflection questions geared toward book club discussions"--Amazon. 
+596    $a 31 
+650  0 $a Books and reading $x Religious aspects $x Christianity. 
+650  0 $a Christianity and literature. 
+650  0 $a Christians $x Books and reading. 
+650  0 $a Virtues in literature. 
+700 1  $a Bustard, Ned, $e illustrator. 
+700 1  $a Ryken, Leland, $e writer of foreword. 
+949    $h SKING-RF-B $l ON_SHELF 
+926    $a KINGS $b ON_SHELF $c Z 1039 C47 P75 2018 $d BOOK $f 1 

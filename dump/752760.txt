@@ -1,0 +1,31 @@
+LEADER 01426cam a2200385 a 4500
+001 752760
+003 CaAEU
+008 840622s1984    ncua     b      1 0 eng d
+010    $a    84042607 
+020    $a 0899501192 (pbk.) : $c $15.95 
+035    $a ocm10923627 
+040    $a DLC $b eng $c DLC 
+049    $a AEU $b eng 
+050 00 $a Z1039.G55 $b P63 1984 
+082 0  $a 028.5/5 $2 19 
+090  0 $a PN 1009 A1 P67 1984 $b ARDC 
+090 0  $a Z 1039 G55 P75 1984 $b AEU 
+100 1  $a Polette, Nancy. 
+245 10 $a Books and real life : $b a guide for gifted students and teachers / $c by Nancy Polette. 
+260    $a Jefferson, N.C. : $b McFarland, $c c1984. 
+300    $a vii, 117 p. : $b ill. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Includes index. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 35 38 
+650  0 $a Children's stories $v Bibliography. 
+650  0 $a Social problems $v Juvenile fiction $v Bibliography. 
+650  0 $a Gifted children $x Books and reading. 
+650  0 $a Youth $x Books and reading. 
+650  0 $a Children's libraries $v Book lists. 
+650  0 $a Young adults' libraries $v Book lists. 
+926    $a RED_DEER_P $b FLOOR_2 $c PN 1009 A1 P67 1984 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 G55 P75 1984 $d BOOK $f 1 

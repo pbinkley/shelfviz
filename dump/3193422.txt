@@ -1,0 +1,37 @@
+LEADER 02304cam a2200457 a 4500
+001 3193422
+003 CaAEU
+005 20050818122632.0
+008 041228s2005    ctua     b    001 0 eng  
+010    $a   2004063830 
+015    $a GBA491524 $2 bnb 
+016 7  $a 013069821 $2 Uk 
+020    $a 1591582121 (pbk. : alk. paper) 
+035    $a ocm57414791 
+040    $a DLC $b eng $c DLC $d UKM $d C#P $d AEU 
+043    $a n-us--- 
+049    $a UABA 
+050 00 $a Z1039.B67 $b K66 2005 
+082 00 $a 028.5/5 $2 22 
+090 0  $a Z 1039 B67 K66 2005 $b AEKC 
+090    $a Z 1039 B67 Z9 K66 2005 $b AEU 
+100 1  $a Knowles, Elizabeth, $d 1946- 
+245 10 $a Boys and literacy : $b practical strategies for librarians, teachers, and parents / $c Elizabeth Knowles and Martha Smith. 
+260    $a Westport, Conn. : $b Libraries Unlimited, $c 2005. 
+300    $a xxi, 164 p. : $b ill. ; $c 28 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references (p. 135-138) and indexes. 
+520 1  $a "Offering strategies grounded in the latest brain-based research, the authors give suggestions for changes in the classroom and in the home that will help improve the literacy of boys and provide annotations of current, relevant journal and magazine articles. They focus on genres of particular interest to boys, such as horror, adventure, science fiction, war, fantasy, and mysteries, and include general information, annotated journal articles, discussion questions, book annotations, and a list of additional titles for each genre. A chapter featuring graphic novels is included, while helpful appendices furnish additional information about magazines and authors of particular interest to boys. Reading level is noted for each title."--BOOK JACKET. 
+596    $a 31 38 
+650  0 $a Boys $x Books and reading $z United States. 
+650  0 $a Children's literature, American $v Bibliography. 
+650  0 $a Young adult literature, American $v Bibliography. 
+650  0 $a Reading $x Sex differences. 
+700 1  $a Smith, Martha, $d 1946- 
+949    $h UAED-B $i 0162020446561 
+994    $a C0 $b UAB 
+019    $a 57355114 
+926    $a KINGS $b CURRICULUM $c Z 1039 B67 K66 2005 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 B67 Z9 K66 2005 $d BOOK $f 1 

@@ -1,0 +1,37 @@
+LEADER 01994 am a2200457Ii 45 0
+001 8960779
+003 CaAEU
+005 20200406135940.0
+006 m     o  d        
+007 cr |n|||||||||
+008 191217s2020    enka    ob    001 0 eng d
+020    $a 9780192562661 $q (electronic bk.) 
+020    $a 0192562665 $q (electronic bk.) 
+020    $a 9780192562678 $q (electronic bk.) 
+020    $a 0192562673 $q (electronic bk.) 
+020    $z 0198827687 
+020    $z 9780198827689 
+035    $a on1131095619 
+039    $a exclude 
+040    $a YDX $b eng $e rda $c YDX $d N$T $d EBLCP $d OCLCF $d UAB 
+050  4 $a Z1039.W65 
+082 04 $a 028.90820941 $2 23 
+090    $a Internet Access $b AEU 
+100 1  $a Taylor, Helen, $d 1947- $e author. 
+245 10 $a Why women read fiction : $b the stories of our lives / $c Helen Taylor. 
+264  1 $a Oxford ; $a New York : $b Oxford University Press, $c 2019. 
+300    $a 1 online resource 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+506    $a Access restricted to authorized users and institutions. 
+520    $a Explains how precious fiction is to contemporary British fiction readers, and how they draw on it to tell the stories of their lives. Draws on over 500 interviews with and questionnaires from women readers and writers. 
+596    $a 44 
+650  0 $a Women $x Books and reading $z Great Britain. 
+650  0 $a Women $x Books and reading $x Social aspects. 
+650  0 $a Fiction $x Appreciation $z Great Britain. 
+776 08 $i Print version: $z 0198827687 $z 9780198827689 $w (OCoLC)1099892752 
+856 40 $3 University of Alberta Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=2329029 $z (Single User Access) $z from EBSCO 
+856 40 $z Click here to view book $u http://public.eblib.com/choice/PublicFullRecord.aspx?p=6121963 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

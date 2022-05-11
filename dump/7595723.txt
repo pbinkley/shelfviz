@@ -1,0 +1,40 @@
+LEADER 03855cam a2200493 i 4500
+001 7595723
+003 CaAEU
+005 20161025110753.0
+008 160602t20162016mau      b    001 0 eng  
+010    $a   2016012905 
+020    $a 9781625342010 $q (paperback ; $q alkaline paper) 
+020    $a 1625342012 $q (paperback ; $q alkaline paper) 
+020    $a 9781625342003 $q (hardcover ; $q alkaline paper) 
+020    $a 1625342004 $q (hardcover ; $q alkaline paper) 
+035    $a ocn930997630 
+040    $a DLC $e rda $b eng $c DLC $d YDX $d YDXCP $d BTCTA $d OCLCF $d COO $d OCLCO $d UAB 
+042    $a pcc 
+043    $a n-us-ny 
+050 00 $a Z1039.B56 $b C47 2016 
+082 00 $a 028/.908996073 $2 23 
+090    $a Z 1039 B56 C47 2016 $b ARDC 
+090    $a Z 1039 B56 C47 2016 $b AEU 
+100 1  $a Christian, Shawn Anthony, $e author. 
+245 14 $a The Harlem Renaissance and the idea of a new Negro reader / $c Shawn Anthony Christian. 
+264  1 $a Amherst : $b University of Massachusetts Press, $c [2016] 
+264  4 $c ©2016 
+300    $a xi, 140 pages ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Studies in print culture and the history of the book 
+504    $a Includes bibliographical references (pages 121-135) and index. 
+505 0  $a Introduction. The New Negro is reading -- Creating critical frameworks: three models for the New Negro Reader -- In search of Black writers (and readers): Crisis's and Opportunity's literary contests -- Beyond the New Negro: artistry, audience, and the Harlem Renaissance literary anthology -- Pedagogy for critical readership: James Weldon Johnson's English 123 -- Epilogue. On African American writers and readers. 
+520    $a "Many scholars have written about the white readers and patrons of the Harlem Renaissance, but during the period many black writers, publishers, and editors worked to foster a cadre of African American readers, or in the poet Sterling Brown's words, a "reading folk." Black newspapers featured columns that reviewed the latest African American fiction. Magazines held writing contests to urge black readers to participate in the literary culture. Through newspapers, journals, and anthologies, writers such as James Weldon Johnson, Jessie Fauset, and Gwendolyn Bennett spoke directly to their fellow African Americans to cultivate interest in literature and the intellectual tools for reading it. In The Harlem Renaissance and the Idea of a New Negro Reader, Shawn Anthony Christian argues that print-based addresses to African Americans are a defining but understudied component of the Harlem Renaissance. Especially between 1919 and 1930, these writers promoted diverse racial representation as a characteristic of "good literature" both to exhibit black literacy and to foster black readership. Drawing on research from print culture studies, histories of racial uplift, and studies of modernism, Christian demonstrates the importance of this focus on the African American reader in influential periodicals such as The Crisis and celebrated anthologies such as The New Negro. Christian illustrates that the drive to develop and support black readers was central in the poetry, fiction, and drama of the era."-- $c Provided by publisher. 
+596    $a 35 43 
+650  0 $a African Americans $x Books and reading $x History $y 20th century. 
+650  0 $a American literature $x African American authors $x History and criticism. 
+650  0 $a Harlem Renaissance. 
+650  0 $a African Americans in literature. 
+651  0 $a Harlem (New York, N.Y.) $x Intellectual life. 
+830  0 $a Studies in print culture and the history of the book. 
+949    $a Z 1039 B56 C47 2016 $h UAHS-B $i 0162035747391 $z COUTTS_COP 
+926    $a RED_DEER_P $b FLOOR_2 $c Z 1039 B56 C47 2016 $d BOOK $f 1 
+926    $a UAHSS $b ON_SHELF $c Z 1039 B56 C47 2016 $d BOOK $f 1 

@@ -1,0 +1,36 @@
+LEADER 01703cam a2200445 a 4500
+001 3532684
+003 CaAEU
+005 20060609151048.0
+008 051219s2005    enkaf         000 0 eng d
+015    $a GBA639567 $2 bnb 
+016 7  $a 013405044 $2 Uk 
+020    $a 0712349073 (pbk.) 
+035    $a ocm62710967 
+040    $a EQO $b eng $c EQO $d BAKER $d UKM $d GZM $d AEU 
+049    $a UABA 
+050  4 $a Z1039.W65 $b L66 2005 
+082 04 $a 027.14 $2 22 
+090    $a Z 1039 W65 L66 2005 $b AEU 
+100 1  $a López-Vidriero, María Luisa. 
+245 14 $a The polished cornerstone of the Temple : $b queenly libraries of the enlightenment / $c María Luisa López-Vidriero. 
+246 30 $a Queenly libraries of the enlightenment 
+260    $a London : $b British Library, $c 2005. 
+300    $a xvi, 83 p., 8 p. of plates : $b ill. ; $c 22 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Panizzi lectures ; $v 2004 
+500    $a Includes bibliographical references. 
+596    $a 43 
+600 00 $a Caroline, $c Queen, consort of George II, King of Great Britain, $d 1683-1737 $x Books and reading. 
+600 00 $a Elizabeth Farnese, $c consort of Philip V, King of Spain, $d 1692-1766 $x Books and reading. 
+650  0 $a Women $x Books and reading $z Europe $x History $y 18th century. 
+650  0 $a Women book collectors $z Europe $x History $y 18th century. 
+650  0 $a Women intellectuals $z Europe $x History $y 18th century. 
+650  0 $a Courts and courtiers $x History $y 18th century. 
+710 2  $a British Library. 
+830  0 $a Panizzi lectures ; $v 2004. 
+949    $h UAHS-B $i 0162021808173 
+994    $a C0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1039 W65 L66 2005 $d BOOK $f 1 

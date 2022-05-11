@@ -1,0 +1,39 @@
+LEADER 02087cam a2200481 a 4500
+001 2434166
+003 CaAEU
+005 20001124170603.0
+008 991229s2001    ctu      b    001 0 eng  
+010    $a    99462057 
+020    $a 031330422X (alk. paper) 
+035    $a ocm43334293 
+040    $a DLC $b eng $c DLC $d AEU 
+042    $a pcc 
+043    $a e------ $a n------ $a s------ 
+050 00 $a Z1039.C45 $b .B56 2001 
+082 00 $a 028/.9/09034 $2 21 
+090    $a P 35 C45 B564 2001 $b ARDC 
+090    $a Z 1039 C45 B56 2001 $b AEU 
+245 00 $a Biographical dictionary of literary influences : $b the nineteenth century, 1800-1914 / $c John Powell, editor ; Derek W. Blakeley, associate editor ; Tessa Powell, editorial assistant. 
+260    $a Westport, Conn. : $b Greenwood Press, $c 2001. 
+300    $a xiii, 522 p. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+590    $a University of Alberta copy in the Professor Josef L. Altholz Anglo-Irish Religious History Collection. 
+596    $a 35 38 
+650  0 $a Celebrities $x Books and reading $z Europe $x History $y 19th century. 
+650  0 $a Celebrities $x Books and reading $z Europe $x History $y 20th century. 
+650  0 $a Celebrities $x Books and reading $z America $x History $y 19th century. 
+650  0 $a Celebrities $x Books and reading $z America $x History $y 20th century. 
+650  0 $a Civilization, Modern $y 19th century. 
+650  0 $a Civilization, Modern $y 20th century. 
+650  0 $a Intellectuals $x Books and reading $z Europe $x History $y 19th century. 
+650  0 $a Intellectuals $x Books and reading $z Europe $x History $y 20th century. 
+650  0 $a Intellectuals $x Books and reading $z America $x History $y 19th century. 
+650  0 $a Intellectuals $x Books and reading $z America $x History $y 20th century. 
+700 1  $a Powell, John, $d 1954- 
+700 1  $a Blakeley, Derek W. 
+700 1  $a Powell, Tessa. 
+926    $a RED_DEER_P $b FLOOR_2 $c P 35 C45 B564 2001 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 C45 B56 2001 $d BOOK $f 1 

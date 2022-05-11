@@ -1,0 +1,38 @@
+LEADER 02317nam a2200469 a 4500
+001 5086207
+003 CaAEU
+005 20110712134356.0
+008 101217t20112011nyua     b    000 0deng  
+010    $a   2010051954 
+020    $a 9780838935989 (alk. paper) 
+020    $a 0838935982 (alk. paper) 
+020    $a 9781616082772 
+020    $a 1616082771 
+035    $a ocn666224052 
+040    $a DLC $e rda $c DLC $d YDX $d BTCTA $d YDXCP $d NTE $d IXA $d BWX $d CDX $d AEU 
+042    $a pcc 
+049    $a UABA 
+050 00 $a Z1039.C45 $b K58 2011 
+082 00 $a 027 $2 22 
+090    $a Z 1039 C45 K58 2011 $b AEU 
+100 1  $a Kniffel, Leonard. 
+245 10 $a Reading with the stars : $b a celebration of books and libraries / $c Leonard Kniffel with Barack Obama, Julie Andrews, Bill Gates, David Mamet, Laura Bush, Ken Burns, Kareem Abdul-Jabbar, Cokie Roberts, Ron Reagan, Garrison Keillor, Ralph Nader, Jamie Lee Curtis, Al Gore, Oprah Winfrey. 
+250    $a 1st ed. 
+260    $a [New York] : $b Skyhorse Publishing ; $a Chicago : $b American Library Association, $c 2011, ©2011. 
+300    $a viii, 158 pages : $b color illustrations ; $c 22 cm. 
+336    $a text $2 rdacontent 
+337    $a unmediated $2 rdamedia 
+338    $a volume $2 rdacarrier 
+504    $a Includes bibliographical references. 
+505 0  $a Barack Obama, bound to the world -- Julie Andrews, music to her ears -- Bill Gates, take me to your reader -- David Mamet, getting an education -- Laura Bush, first librarian -- Ken Burns, archiving America -- Kareem Abdul-Jabbar, from hoops to ink -- Cokie Roberts, a sense of our future -- Ron Reagan, along party lines -- Garrison Keillor, the Internet is a swamp -- Ralph Nader, rallying readers -- Jamie Lee Curtis, a connection to learning -- Al Gore, the planet in the balance -- Oprah Winfrey, reading for life. 
+596    $a 43 
+650  0 $a Celebrities $x Books and reading $z United States. 
+650  0 $a Celebrities $z United States $x Attitudes. 
+650  0 $a Libraries $z United States $x Public opinion. 
+650  0 $a Public opinion $z United States. 
+650  0 $a Celebrities $z United States $v Interviews. 
+650  0 $a Library users $z United States $v Interviews. 
+949    $a Z 1039 C45 K58 2011 $c 1 $h UAHS-B $i 0162029922117 
+994    $a C0 $b UAB 
+019    $a 668194109 
+926    $a UAHSS $b ON_SHELF $c Z 1039 C45 K58 2011 $d BOOK $f 1 

@@ -1,0 +1,66 @@
+LEADER 04715cam a2200805 a 4500
+001 5817197
+003 CaAEU
+005 20120621180056.0
+006 m        d        
+007 cr cnu---unuuu
+008 090902s2009    ilu     ob    001 0 eng d
+020    $a 144161916X $q (electronic bk.) 
+020    $a 9781441619167 $q (electronic bk.) 
+035    $a ocn435528448 
+039    $a exclude 
+040    $a N$T $b eng $c N$T $d YDXCP $d OCLCQ $d MYPMP $d AEU 
+043    $a n-us--- 
+050  4 $a Z1039.B67 $b S85 2009eb 
+082 04 $a 028.5/5083 $2 22 
+090    $a Internet Access $b ARDC 
+090    $a Internet Access $b AEVC 
+090    $a Internet Access $b AEC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b AEKC 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b AFMK 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b ASAV 
+090    $a Internet Access $b AVC 
+100 1  $a Sullivan, Michael, $d 1967 August 30- 
+245 10 $a Connecting boys with books 2 $h [electronic resource] : $b closing the reading gap / $c Michael Sullivan. 
+246 3  $a Connecting boys with books two 
+260    $a Chicago : $b American Library Association, $c 2009. 
+300    $a 1 online resource (v, 119 p.) 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+504    $a Includes bibliographical references (p. 105-110) and index. 
+506    $a Access restricted to authorized users and institutions. 
+588    $a Description based on print version record. 
+596    $a 3 6 8 22 31 35 44 57 60 61 
+650  0 $a Boys $x Books and reading $z United States. 
+650  0 $a Children's libraries $x Activity programs $z United States. 
+650  0 $a Reading promotion $z United States. 
+650  0 $a Reading $x Sex differences $z United States. 
+650  0 $a School libraries $x Activity programs $z United States. 
+650  0 $a Sex differences in education $z United States. 
+650  0 $a Teenage boys $x Books and reading $z United States. 
+650  0 $a Young adults' libraries $x Activity programs $z United States. 
+856 40 $3 Red Deer Polytechnic Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=267772 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 NorQuest College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=267772 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Concordia University of Edmonton Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=267772 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Grande Prairie Regional College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=267772 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Keyano College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=267772 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 King's University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=267772 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Lakeland College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=267772 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 MacEwan University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=267772 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Northern Lakes College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=267772 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 University of Alberta Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=267772 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+949    $h UAIN $m RED_DEER_C $z EBSCORDAC 
+926    $a NORQ_MAIN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KEYANO $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a NLC_SL $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KINGS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a LAKELND_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

@@ -1,0 +1,24 @@
+LEADER 00957cam a22003018i 4500
+001 384755
+003 CaAEU
+008 820315s1981    nyu      ib     1 0 eng d
+010    $a    80008486 
+020    $a 0824095014 : $c $22.50 
+035    $a ocm06891254 
+040    $a LC $b eng 
+049    $a aeu $b eng 
+050  0 $a Z1041 $b .B37 
+082 0  $a 014/.1 $2 19 
+090 00 $a Z 1041 B32 1981 $b AEU 
+100 1  $a Bates, Susannah, $d 1941- 
+245 14 $a The PENDEX : $b an index of pen names and house names in fantastic, thriller, and series literature / $c Susannah Bates. 
+260    $a New York : $b Garland Pub., $c 1981. 
+300    $a xii, 233 p. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 0  $a Garland references library of the humanities ; $v v. 227 
+500    $a Includes index. 
+596    $a 38 
+650  0 $a Anonyms and pseudonyms $v Indexes. 
+926    $a UARCRF $b ON_SHELF $c Z 1041 B32 1981 $d BOOK $f 1 

@@ -1,0 +1,24 @@
+LEADER 01011cam a2200301 i 4500
+001 332106
+003 CaAEU
+008 810408s1980    pau      b      1 0 eng d
+010    $a    80019794 
+020    $a 0872720888 
+035    $a on1193184920 
+040    $a LC $b eng 
+049    $a aeu $b eng 
+050  0 $a Z1039.S5 $b W56 
+082 0  $a 028.5/3/5 $2 19 
+090 00 $a Z 1039 S5 W72 1980 $b AEU 
+100 1  $a Williams, Helen Elizabeth. 
+245 14 $a The high/low consensus / $c Helen Elizabeth Williams. 
+260    $a Williamsport, Pa. : $b Bro-Dart, $c 1980. 
+300    $a v, 259 p. ; $c 28 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Includes indexes. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 W72 1980 $d BOOK $f 1 

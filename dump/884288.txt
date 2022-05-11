@@ -1,0 +1,32 @@
+LEADER 01358cam a22003971  4500
+001 884288
+003 CaAEU
+008 850121s1971    enk      b      1 0 eng x
+010    $a    70874119 
+015    $a B71-13852 
+020    $a 0510196314 $z 0510196306: $c £1.40 
+035    $a ocm00226295 
+040    $a LC $b eng $d BViV 
+049    $a AEU $b eng 
+050  0 $a Z1039.S5 $b H32 1971 
+050  4 $a Z1039.S5 $b R5 1971 
+082    $a 028.52 
+090 0  $a Z 1039 M4 R52 1971 $b AEU 
+100 1  $a Hart, J. A. 
+245 10 $a Books for the retarded reader / $c J. A. Hart & J. A. Richardson. 
+250    $a United Kingdom ed., $b prepared by J. A. Hart. 
+260    $a London: $b Benn, $c 1971. 
+300    $a 111 p.; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Includes index. 
+500    $a In earlier editions Richardson's name appeared first on title page. 
+504    $a Bibliography: p. 96-101. 
+596    $a 38 
+650  0 $a Slow learning children $x Books and reading $v Bibliography. 
+650  0 $a Reading $x Remedial teaching $v Bibliography. 
+650  0 $a Children's literature $v Bibliography. 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+700 12 $a Richardson, James Albert, $d 1915- $t Books for the retarded reader. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 M4 R52 1971 $d BOOK $f 1 

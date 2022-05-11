@@ -1,0 +1,39 @@
+LEADER 01816cam a2200481 i 4500
+001 6424656
+003 CaAEU
+005 20140115103309.0
+008 120210s2011    fr a     b    001 0 fre  
+015    $a 01209418 $2 bnf 
+016 7  $a FRBNF425995450000004 $2 FrPBN 
+020    $a 9782081261372 (rel) 
+020    $a 2081261375 (rel) 
+035    $a ocn779756071 
+040    $a BDF $e ncafnor $b fre $c BDF $d UQ1 $d AEUSJ 
+041 1  $a fre $h ger 
+049    $a UABA 
+050  4 $a Z1039.W65 $b A3514 2011 
+050  4 $a N7632 $b .A3514 2011 
+082 14 $a 704.942 4 $2 22 
+082 14 $a 028.082 $2 22 
+090    $a N 7632 B6514 2011 $b AEUSJ 
+100 1  $a Adler, Laure. 
+240 10 $a Frauen, die lesen, sind gefährlich und klug. $l French 
+245 14 $a Les femmes qui lisent sont de plus en plus dangereuses / $c Laure Adler & Stefan Bollmann ; [traduit de l'allemand par Lucien Spire]. 
+246 30 $a Femmes qui lisent sont dangereuses de plus en plus 
+250    $a Éd. française. 
+260    $a Paris : $b Flammarion, $c 2011. 
+300    $a 136 p. : $b ill. (principalement en coul.) ; $c 29 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Publié précédemment avec comme titre: Femmes qui lisent sont dangereuses. 
+504    $a Bibliogr.: p. 133. Index. 
+596    $a 39 
+650  6 $a Femmes $x Livres et lecture $v Ouvrages illustrés. 
+650  6 $a Livres et lecture dans l'art. 
+650  6 $a Femmes dans l'art. 
+700 1  $a Bollmann, Stefan, $d 1958- $t Femmes qui lisent sont dangereuses. 
+856 42 $3 Notice et cote du catalogue de la Bibliothèque nationale de France $u http://catalogue.bnf.fr/ark:/12148/cb425995450 
+949    $a N 7632 B6514 2011 $c 1 $h UABS-B $i 0162033081629 
+994    $a C0 $b UAB 
+926    $a UABSJ $b ON_SHELF $c N 7632 B6514 2011 $d BOOK $f 1 

@@ -1,0 +1,29 @@
+LEADER 01114cam a2200361 a 4500
+001 840808
+003 CaAEU
+005 19920518142456.2
+008 921203s1992    nyu               0 eng d
+010    $a    92020032 
+020    $a 0393034135 
+035    $a ocn304170618 
+040    $a DLC $b eng $c DLC 
+043    $a n-us--- 
+049    $a AEU $b eng 
+050 00 $a Z1039.C65 $b A74 1992 
+082 00 $a 028.5/35 $2 20 
+090 0  $a Z 1039 C65 A74 1992 $b AEC 
+090 0  $a Z 1039 C65 A88 1992 
+100 1  $a Atlas, James. 
+245 10 $a Battle of the books / $c by James Atlas. 
+260    $a New York : $b Norton, $c 1992. 
+300    $a 157 p. ; $c 22 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+596    $a 38 
+650  0 $a College students $z United States $x Books and reading. 
+650  0 $a Ethnic groups $z United States $v Bibliography $x Methodology. 
+650  0 $a Cultural pluralism $v Bibliography $x Methodology. 
+650  0 $a Books and reading $z United States. 
+650  0 $a Education, Higher $z United States. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 C65 A88 1992 $d BOOK $f 1 

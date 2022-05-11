@@ -1,0 +1,43 @@
+LEADER 02068cam a2200529 i 4500
+001 6863485
+003 CaAEU
+005 20140916095241.0
+006 m     o  d        
+007 cr cnu---unuuu
+008 140908s2014    cau     ob    001 0 eng d
+020    $a 9781610696364 (electronic bk.) 
+020    $a 1610696360 (electronic bk.) 
+020    $z 9781610696357 
+020    $z 1610696352 
+035    $a ocn890146636 
+039    $a exclude 
+040    $a N$T $b eng $e rda $e pn $c N$T $d IDEBK $d AEU 
+043    $a n-us--- 
+050  4 $a Z1039.B67 $b K585 2014eb 
+072  7 $a LIT $x 007000 $2 bisacsh 
+082 04 $a 028.5/5083 $2 23 
+090    $a Internet Access $b AEKC 
+100 1  $a Knowles, Elizabeth, $d 1946- $e author. 
+245 14 $a The common core approach to building literacy in boys / $c Liz Knowles and Martha Smith. 
+264  1 $a Santa Barbara, California : $b Libraries Unlimited, $c [2014] 
+300    $a 1 online resource (xvi, 285 pages) 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+506    $a Access restricted to authorized users and institutions. 
+588    $a Description based on print version record. 
+596    $a 31 
+650  0 $a Boys $x Books and reading $z United States. 
+650  0 $a Reading $x Sex differences. 
+650  0 $a Children's literature, American $v Bibliography. 
+650  0 $a Young adult literature, American $v Bibliography. 
+650  0 $a Boys $x Education $z United States. 
+650  0 $a Language arts (Elementary) $x Curricula $z United States. 
+650  0 $a Language arts (Elementary) $x Standards $z United States. 
+650  0 $a Language arts (Secondary) $x Curricula $z United States. 
+650  0 $a Language arts (Secondary) $x Standards $z United States. 
+700 1  $a Smith, Martha, $e author. 
+856 40 $3 King's University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=842558 
+949    $h UAIN $m KINGS $z EBSCOKIP 
+926    $a KINGS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

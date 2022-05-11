@@ -1,0 +1,28 @@
+LEADER 01483cam a2200349 a 4500
+001 2014058
+003 CaAEU
+005 19980205154401.0
+008 961107s1997    ncua     b    000 0 eng u
+010    $a    96039686 
+020    $a 0786402032 (lib. bdg. : alk. paper) 
+035    $a ocm36123610 
+040    $a DLC $b eng $c DLC $d DLC $d AEU 
+043    $a e-pl--- $a e-ur-li $a e-cs--- 
+050 00 $a Z1039 J48 $b S53 1997 
+090    $a Z 1039 J48 S53 1997 $b AEU 
+100 1  $a Shavit, David, $d 1936- 
+245 10 $a Hunger for the printed word : $b books and libraries in the Jewish ghettos of Nazi-occupied Europe / $c by David Shavit. 
+260    $a Jefferson, N.C. : $b McFarland & Co., Publishers, $c c1997. 
+300    $a xi, 178 p. : $b ill. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references (p. 155-173) and index. 
+596    $a 43 
+650  0 $a Jews $z Poland $x Books and reading $x History $y 20th century. 
+650  0 $a Jews $z Lithuania $x Books and reading $x History $y 20th century. 
+650  0 $a Jews $z Czech Republic $z Terezín (Severočeský kraj) $x Books and reading $x History $y 20th century. 
+650  0 $a Jewish libraries $z Poland $x History $y 20th century. 
+650  0 $a Jewish libraries $z Lithuania $x History $y 20th century. 
+650  0 $a Jewish libraries $z Czech Republic $z Terezín (Severočeský kraj) $x History $y 20th century. 
+926    $a UAHSS $b CHECKEDOUT $c Z 1039 J48 S53 1997 $d BOOK $e 9/29/2022 $f 1 

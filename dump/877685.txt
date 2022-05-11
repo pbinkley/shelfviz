@@ -1,0 +1,22 @@
+LEADER 01031cam a22002771i 4500
+001 877685
+003 CaAEU
+008 700401s1968    dcu      b        0 eng x
+010    $a    68062995 //r81 
+035    $a on1196324365 
+040    $a LC $b eng 
+049    $a AEU $b eng 
+050  0 $a Z1039.S55 $b W3 
+090 0  $a Z 1037 W34 $b AEU 
+100 1  $a Watt, Lois Belfield. 
+245 10 $a Literature for disadvantaged children: $b a bibliography. $c Compiled by Lois B. Watt. 
+260    $a [Washington] : $b U.S. Office of Education; [for sale by the Supt. of Docs., U.S. Govt. Print. Off., $c 1968] 
+300    $a 16 p. ; $c 26 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a "OE-37019." 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a Children with social disabilities $x Books and reading. 
+926    $a UARCRF $b ON_SHELF $c Z 1037 W34 $d BOOK $f 1 

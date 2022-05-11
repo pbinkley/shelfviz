@@ -1,0 +1,35 @@
+LEADER 02009cam a2200433 a 4500
+001 4974289
+003 CaAEU
+005 20110426092247.0
+008 100910s2010    caua     b    001 0 eng  
+010    $a   2010036577 
+020    $a 9781598843767 (pbk. : acid-free paper) 
+020    $a 1598843761 (pbk. : acid-free paper) 
+020    $a 9781598843774 (ebook) 
+020    $a 159884377X (ebook) 
+035    $a ocn639162733 
+040    $a DLC $c DLC $d YDX $d BTCTA $d YDXCP $d BWX $d ALK $d UPZ $d AEU 
+043    $a n-us--- 
+049    $a UABA 
+050 00 $a Z1039.B67 $b B38 2010 
+082 00 $a 028.5/5 $2 22 
+090    $a Z 1039 B67 Z9 B38 2010 $b AEU 
+100 1  $a Baxter, Kathleen A. 
+245 10 $a Gotcha again for guys! : $b more nonfiction books to get boys excited about reading / $c Kathleen A. Baxter and Marcia Agness Kochel. 
+260    $a Santa Barbara, Calif. : $b Libraries Unlimited, $c c2010. 
+300    $a xiii, 248 p. : $b ill. ; $c 28 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references and indexes. 
+505 0  $a Sports -- Disasters and mysteries -- Gross and disgusting -- Creepy-crawly creatures : bugs, reptiles, and amphibians -- Prehistoric creatures -- American journeys -- Animals -- Science -- Machines and the military -- Around the world -- Hot topics: magic, riddles, games, and puzles; fascinating facts and reference books; and quirky books of all kinds -- Creativity : writing, art and drawing, and entertainment. 
+520    $a Provides help in selecting current, nonfiction books that will get boys excited about reading. 
+596    $a 43 
+650  0 $a Boys $x Books and reading $z United States. 
+650  0 $a Children's literature, American $v Bibliography. 
+650  0 $a Book talks $z United States. 
+700 1  $a Kochel, Marcia Agness. 
+949    $a Z 1039 B67 Z9 B38 2010 $c 1 $h UAHS-B $i 0162029857594 $z UNDERGRAD 
+994    $a C0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1039 B67 Z9 B38 2010 $d BOOK $f 1 

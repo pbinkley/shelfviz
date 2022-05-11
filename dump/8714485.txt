@@ -1,0 +1,68 @@
+LEADER 05049cam a2200829 a 4500
+001 8714485
+003 CaAEU
+005 20190816064047.4
+006 m     o  d        
+007 cr cnu---unuuu
+008 061127s2005    ilu     ob    001 0 eng d
+020    $a 0838998062 $q (electronic bk.) 
+020    $a 9780838998069 $q (electronic bk.) 
+020    $a 0838935532 $q (alk. paper) 
+020    $a 9780838935538 $q (alk. paper) 
+035    $a ocm76806892 
+039    $a exclude 
+040    $a N$T $b eng $e pn $c N$T $d YDXCP $d OCLCQ $d OCLCF $d OCLCO $d COO $d NLGGC $d OCLCO $d OCLCQ $d E7B $d EBLCP $d DEBSZ $d OCLCQ $d AZK $d LOA $d COCUF $d CNNOR $d MOR $d PIFAG $d ZCU $d MERUC $d OCLCQ $d WY@ $d LUE $d OCLCQ $d VTS $d AGLDB $d ICG $d VT2 $d OCLCQ $d WYU $d STF $d DKC $d OCLCQ $d M8D $d AEU 
+043    $a n-us--- 
+050  4 $a Z1039.C65 $b M67 2005eb 
+082 04 $a 028/.9 $2 22 
+090    $a Internet Access $b ARDC 
+090    $a Internet Access $b AEVC 
+090    $a Internet Access $b AVC 
+090    $a Internet Access $b ASAV 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b AFMK 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b AEKC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b AEC 
+245 00 $a More outstanding books for the college bound / $c Young Adult Library Services Association, editor. 
+260    $a Chicago : $b American Library Association, $c 2005. 
+300    $a 1 online resource (xi, 251 pages) 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+347    $a data file $2 rda 
+504    $a Includes bibliographical references (page 222) and index. 
+506    $a Access restricted to authorized users and institutions. 
+588 0  $a Print version record. 
+596    $a 3 6 8 22 31 35 44 57 60 61 
+650  0 $a College students $x Books and reading $z United States. 
+650  0 $a Best books $z United States. 
+650  6 $a Étudiants $x Livres et lecture $z États-Unis. 
+650  6 $a Meilleurs ouvrages $z États-Unis. 
+650  7 $a Best books. $2 fast $0 (OCoLC)fst00830867 
+650  7 $a College students $x Books and reading. $2 fast $0 (OCoLC)fst00867985 
+651  7 $a United States. $2 fast $0 (OCoLC)fst01204155 
+710 2  $a Young Adult Library Services Association. 
+776 08 $i Print version: $t More outstanding books for the college bound. $d Chicago : American Library Association, 2005 $z 0838935532 $z 9780838935538 $w (DLC)  2005013078 $w (OCoLC)60340905 
+856 40 $3 Red Deer Polytechnic Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=173267 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 NorQuest College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=173267 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Concordia University of Edmonton Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=173267 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Grande Prairie Regional College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=173267 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Keyano College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=173267 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 King's University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=173267 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Northern Lakes College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=173267 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 University of Alberta Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=173267 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Lakeland College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=173267 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 MacEwan University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=173267 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+949    $h UAIN $m RED_DEER_C $z EBSCORDAC 
+926    $a NORQ_MAIN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KEYANO $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a NLC_SL $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KINGS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a LAKELND_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

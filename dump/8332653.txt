@@ -1,0 +1,28 @@
+LEADER 01223nam a22003493a 4500
+001 8332653
+003 CaAEU
+006 m        d        
+007 cr||n|||||||||
+008 180913s2018            o     ||||||eng d
+020    $a 1587433966 (Cloth) 
+020    $a 9781493415465 
+035    $a on1048772633 
+037    $a 5482788 $b Proquest Ebook Central 
+039    $a exclude 
+040    $a CaONFJC $c CaONFJC $d AEU 
+050  4 $a Z1039.C47 
+082 04 $a 028.9 $2 23 
+090    $a Internet Access $b AEU 
+100 1  $a Prior, Karen Swallow 
+245 10 $a On Reading Well $h [electronic resource] : $b Finding the Good Life Through Great Books. 
+260    $a Grand Rapids, UNITED STATES $b Brazos Press $c 2018. 
+300    $a 1 online resource (206) 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+506    $a Access restricted to authorized users and institutions. 
+588    $a Description based on print version record. 
+596    $a 44 
+856 40 $3 University of Alberta Access $u http://ebookcentral.proquest.com/lib/ualberta/detail.action?docID=5482788 $z from Ebook Central 
+949    $h UAIN $z EBCPDA 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

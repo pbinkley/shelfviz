@@ -1,0 +1,24 @@
+LEADER 01031cam a2200301 a 4500
+001 447199
+003 CaAEU
+008 830217s1982    enk      d        0 eng d
+010    $z    77005047 
+020    $z 0208016627 (Linnet) $z 0851573231 
+035    $a on1264192781 
+040    $a LC $b eng 
+049    $a aeu $b eng 
+050  0 $a Z1041 $b .A84 1977 
+082    $a 929.4/03 
+090 00 $a Z 1065 A87 1982 $b AEU 
+100 1  $a Atkinson, Frank, $d 1922- 
+245 10 $a Dictionary of literary pseudonyms : $b a selection of popular modern writers in English / $c Frank Atkinson. 
+250    $a 3rd enl. ed. 
+260    $a London : $b C. Bingley, $c 1982. 
+300    $a 305 p. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a Anonyms and pseudonyms. 
+926    $a UARCRF $b ON_SHELF $c Z 1065 A87 1982 $d BOOK $f 1 

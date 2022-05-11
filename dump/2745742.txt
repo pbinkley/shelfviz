@@ -1,0 +1,33 @@
+LEADER 01420cam a2200409 a 4500
+001 2745742
+003 CaAEU
+005 20030530102624.0
+008 011128s2002    azu      b    001 0 eng  
+010    $a   2001058578 
+020    $a 0910707510 
+035    $a ocm48613698 
+040    $a DLC $b eng $c DLC $d IUP $d C#P $d AEU 
+043    $a n-us--- 
+049    $a UABA 
+050 00 $a Z1039.G55 $b H35 2002 
+082 00 $a 025.5/5 $2 21 
+090    $a Z 1039 G55 H196 2002 $b AEU 
+100 1  $a Halsted, Judith Wynn, $d 1940- 
+245 10 $a Some of my best friends are books : $b guiding gifted readers from preschool to high school / $c Judith Wynn Halsted. 
+250    $a 2nd ed. 
+260    $a Scottsdale, Ariz. : $b Great Potential Press, $c c2002. 
+300    $a xxi, 527 p. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Rev. ed. of: Guiding gifted readers. c1988. 
+504    $a Includes bibliographical references and indexes. 
+596    $a 38 
+650  0 $a Gifted children $x Books and reading $z United States. 
+650  0 $a Gifted children $x Education $z United States. 
+650  0 $a Children's literature $v Bibliography. 
+650  0 $a Young adult literature $v Bibliography. 
+650  0 $a Bibliotherapy. 
+700 1  $a Halsted, Judith Wynn, $d 1940- $t Guiding gifted readers. 
+949    $z 0162017238799 
+926    $a UARCRF $b ON_SHELF $c Z 1039 G55 H196 2002 $d BOOK $f 1 
