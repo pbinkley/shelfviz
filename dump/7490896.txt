@@ -1,0 +1,52 @@
+LEADER 03320nam a2200637 i 4500
+001 7490896
+003 CaAEU
+006 m     o  d |      
+007 cr cnu||||||||
+008 061106t20052005enka    ob   f000 0 eng|d
+020    $a 9780712363747 $q (e-book) 
+020    $z 0712349073 
+020    $z 9780712349079 
+035    $a ocn925450328 
+039    $a exclude 
+040    $a MiAaPQ $b eng $e rda $e pn $c MiAaPQ $d MiAaPQ $d AEU 
+043    $a e------ 
+050  4 $a Z1039.W65 $b L67 2005 
+082 0  $a 027.14 $2 22 
+090    $a Internet Access $b AEC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b ARDC 
+100 1  $a López-Vidriero, María Luisa, $e author. 
+245 14 $a The polished cornerstone of the temple : $b queenly libraries of the Enlightenment / $c María Luisa López-Vidriero. 
+246 30 $a Queenly libraries of the Enlightenment 
+264  1 $a London : $b British Library, $c [2005] 
+264  4 $c ©2005 
+300    $a 1 online resource (110 pages) : $b illustrations (some color). 
+336    $a text $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+490 1  $a Panizzi lectures ; $v 2004 
+504    $a Includes bibliographical references. 
+506    $a Access restricted to authorized users and institutions. 
+588    $a Description based on print version record. 
+596    $a 6 35 44 57 60 
+600 00 $a Caroline, $c Queen, consort of George II, King of Great Britain, $d 1683-1737 $x Books and reading. 
+600 00 $a Elizabeth Farnese, $c consort of Philip V, King of Spain, $d 1692-1766 $x Books and reading. 
+650  0 $a Courts and courtiers $x History $y 18th century. 
+650  0 $a Women book collectors $z Europe $x History $y 18th century. 
+650  0 $a Women intellectuals $z Europe $x History $y 18th century. 
+650  0 $a Women $x Books and reading $z Europe $x History $y 18th century. 
+710 2  $a British Library, $e issuing body. 
+830  0 $a Panizzi lectures ; $v 2004. 
+856 40 $3 Concordia University of Edmonton Access $u https://ebookcentral.proquest.com/lib/concordiaab-ebooks/detail.action?docID=3543993 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Grande Prairie Regional College Access $u https://ebookcentral.proquest.com/lib/gprc-ebooks/detail.action?docID=3543993 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 MacEwan University Access $u https://ebookcentral.proquest.com/lib/macewan-ebooks/detail.action?docID=3543993 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Red Deer Polytechnic Access $u https://ebookcentral.proquest.com/lib/rdc/detail.action?docID=3543993 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 University of Alberta Access $u https://ebookcentral.proquest.com/lib/ualberta/detail.action?docID=3543993 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 2 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 2 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 2 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 2 

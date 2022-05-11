@@ -1,0 +1,25 @@
+LEADER 01399cam a2200313 a 4500
+001 2675670
+003 CaAEU
+005 20030331135838.0
+008 801009s1931    gw       s    000 0 ger d
+035    $a ocn896645249 
+040    $a CLE $b eng $c CLE $d AEU 
+050  4 $a Z1039.W65 $b H64 1931 
+090    $a Z 1039 W65 H64 1931 $b AEU 
+100 1  $a Hofmann, Walter, $d 1879-1952. 
+245 14 $a Die Lektüre der Frau; $b ein Beitrag zur Leserkunde und zur Leserführung, $c mit zahlreichen graphischen und tabellarischen Übersichten. 
+260    $a Leipzig, $b Quelle & Meyer, $c 1931. 
+300    $a xv, 210 p. $b diagrs. ; $c 25 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Leipziger Beiträge zur Grundlegung der praktischen Literaturpflege ; $v Heft 1 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a Women $x Books and reading $z Germany $v Statistics. 
+650  0 $a Social classes $x Books and reading $z Germany $v Statistics. 
+650  0 $a Men $x Books and reading $z Germany $v Statistics. 
+650  0 $a Books and reading $z Germany $x Sex differences $v Statistics. 
+830  0 $a Leipziger Beiträge zur Grundlegung der praktischen Literaturpflege ; $v Heft 1. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 W65 H64 1931 $d BOOK $f 1 

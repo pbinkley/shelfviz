@@ -1,0 +1,39 @@
+LEADER 03144nam a2200481 i 4500
+001 5779890
+003 CaAEU
+005 20120810103637.0
+008 120216s2012    ctua     b    001 0 eng  
+010    $a   2012002608 
+016 7  $a 016038836 $2 Uk 
+020    $a 9780300120455 
+020    $a 0300120451 
+035    $a ocn759174431 
+040    $a DLC $e rda $b eng $c DLC $d YDX $d BTCTA $d ERASA $d UKMGB $d BDX $d CDX $d YNK $d BWX $d YDXCP $d VP@ $d AEU 
+042    $a pcc 
+049    $a UABA 
+050 00 $a Z1039.W65 $b J33 2012 
+082 00 $a 028.9 082 $2 23 
+084    $a HIS054000 $a LIT007000 $a SOC028000 $2 bisacsh 
+090    $a Z 1039 W65 J33 2012 $b ARDC 
+090    $a Z 1039 W65 J33 2012 $b AGPC 
+090    $a Z 1039 W65 J33 2012 $b AEU 
+100 1  $a Jack, Belinda Elizabeth. 
+245 14 $a The woman reader / $c Belinda Jack. 
+260    $a New Haven : $b Yale University Press, $c ©2012. 
+300    $a x, 329 pages : $b illustrations ; $c 25 cm 
+336    $a text $2 rdacontent 
+337    $a unmediated $2 rdamedia 
+338    $a volume $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+520    $a "This lively story has never been told before: the complete history of women's reading and the ceaseless controversies it has inspired. Belinda Jack's groundbreaking volume travels from the Cro-Magnon cave to the digital bookstores of our time, exploring what and how women of widely differing cultures have read through the ages. Jack traces a history marked by persistent efforts to prevent women from gaining literacy or reading what they wished. She also recounts the counter-efforts of those who have battled for girls' access to books and education. The book introduces frustrated female readers of many eras--Babylonian princesses who called for women's voices to be heard, rebellious nuns who wanted to share their writings with others, confidantes who challenged Reformation theologians' writings, nineteenth-century New England mill girls who risked their jobs to smuggle novels into the workplace, and women volunteers who taught literacy to women and children on convict ships bound for Australia. Today, new distinctions between male and female readers have emerged, and Jack explores such contemporary topics as burgeoning women's reading groups, differences in men and women's reading tastes, censorship of women's on-line reading in countries like Iran, the continuing struggle for girls' literacy in many poorer places, and the impact of women readers in their new status as significant movers in the world of reading"--Provided by publisher. 
+596    $a 16 28 35 43 
+650  0 $a Women $x Books and reading $x History. 
+650  0 $a Women $x Books and reading $x Social aspects $x History. 
+650  0 $a Girls $x Books and reading $x History. 
+650  0 $a Girls $x Books and reading $x Social aspects $x History. 
+949    $a Z 1039 W65 J33 2012 $c 1 $h UAHS-B $i 0162031121252 $z UNDERGRAD 
+994    $a C0 $b UAB 
+926    $a UAAUG $b ON_SHELF $c Z 1039 W65 J33 2012 $d BOOK $f 1 
+926    $a GPRC_GP $b ON_SHELF $c Z 1039 W65 J33 2012 $d BOOK $f 1 
+926    $a RED_DEER_P $b FLOOR_2 $c Z 1039 W65 J33 2012 $d BOOK $f 1 
+926    $a UAHSS $b ON_SHELF $c Z 1039 W65 J33 2012 $d BOOK $f 1 

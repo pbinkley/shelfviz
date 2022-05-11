@@ -1,0 +1,32 @@
+LEADER 01626cam a2200397 a 4500
+001 1765231
+003 CaAEU
+008 840106s1984    ctu      b      1 0 eng d
+010    $a    84000507 
+020    $a 0313244839 (lib. bdg.) 
+035    $a ocm10375591 
+040    $a DLC $b eng $c DLC 
+043    $a n-us--- 
+049    $a AEU $b eng 
+050 00 $a Z1039.S6 $b K37 1984 
+082 0  $a 028/.9/0973 $2 19 
+090 0  $a Z 1039 S6 K19 1984 $b AEU 
+100 1  $a Kaser, David, $d 1924-2017 
+245 10 $a Books and libraries in camp and battle : $b the Civil War experience / $c David Kaser. 
+260    $a Westport, Conn. : $b Greenwood Press, $c c1984. 
+300    $a xiii, 141 p. : $b ill. ; $c 22 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Contributions in librarianship and information science. $v 48 $x 0084-9243 ; 
+500    $a Includes index. 
+504    $a Bibliography: p. [127]-133. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 43 
+650  0 $a Soldiers $z United States $x Books and reading. 
+650  0 $a Books and reading $z United States $x History $y 19th century. 
+650  0 $a Military libraries $z United States $x History $y 19th century. 
+651  0 $a United States $x History $y Civil War, 1861-1865 $x Libraries. 
+651  0 $a United States $x History $y Civil War, 1861-1865 $x Literature and the war. 
+830  0 $a Contributions in librarianship and information science. $x 0084-9243 ; $v 48. 
+926    $a UAHSS $b ON_SHELF $c Z 1039 S6 K19 1984 $d BOOK $f 1 

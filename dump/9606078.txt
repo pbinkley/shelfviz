@@ -1,0 +1,65 @@
+LEADER 04621cam a2200793 i 4500
+001 9606078
+003 CaAEU
+005 20210702123358.2
+006 m     o  d        
+007 cr un|---uuuua
+008 151207s2014    nyu     ob    000 0 eng d
+020    $a 9781135955786 $q (electronic bk.) 
+020    $a 1135955786 $q (electronic bk.) 
+020    $z 9781579582098 
+020    $z 0720123828 
+020    $z 9780720123821 
+020    $z 1579582095 
+020    $z 0720123836 
+020    $z 9780720123838 
+035    $a ocn931534831 
+039    $a exclude 
+040    $a N$T $b eng $e rda $e pn $c N$T $d N$T $d OCLCF $d YDXCP $d IDEBK $d TYFRS $d OCLCQ $d K6U $d OCLCO $d AEU 
+050  4 $a Z1041 $b .C37 2014 
+082 04 $a 929.4 $2 23 
+090    $a Internet Access $b ARDC 
+090    $a Internet Access $b AVC 
+090    $a Internet Access $b ASAV 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b AFMK 
+090    $a Internet Access $b AEVC 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b AEKC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b AEC 
+100 1  $a Carty, $e author. 
+245 12 $a A dictionary of literary pseudonyms in the English language / $c T.J. Carty. 
+250    $a Second edition. 
+264  1 $a New York : $b Routledge, Taylor & Francis Group, $c 2014. 
+300    $a 1 online resource 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+504    $a Includes bibliographical references. 
+588 0  $a Online resource; title from PDF title page (EBSCO, viewed January 6, 2016). 
+596    $a 3 6 8 22 31 35 44 57 60 61 
+650  0 $a Anonyms and pseudonyms. 
+650  7 $a Anonyms and pseudonyms. $2 fast $0 (OCoLC)fst00809866 
+776 08 $i Print version: $a Carty. $t Dictionary of literary pseudonyms in the English language. $b 2nd ed. $d London, England : Mansell ; Chicago, Ill., USA : Fitzroy Dearborn, 2000 $z 0720123828 $z 9780720123821 $w (DLC)  2002319228 $w (OCoLC)43858746 
+856 40 $3 Red Deer Polytechnic Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1106266 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Concordia University of Edmonton Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1106266 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Grande Prairie Regional College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1106266 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Keyano College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1106266 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 King's University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1106266 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Lakeland College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1106266 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 MacEwan University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1106266 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 NorQuest College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1106266 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Northern Lakes College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1106266 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 University of Alberta Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1106266 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+949    $h UAIN $m RED_DEER_C $z EBSCORDAC 
+926    $a NORQ_MAIN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KEYANO $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a NLC_SL $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KINGS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a LAKELND_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

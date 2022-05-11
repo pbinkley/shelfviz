@@ -1,0 +1,27 @@
+LEADER 01207cam a2200337 a 4500
+001 544838
+003 CaAEU
+008 840927s1981    fr       b   i    0 eng d
+010    $a    83210575 
+035    $a ocm10823724 
+040    $a DLC $b eng $c DLC 
+049    $a aeu $b eng 
+050 00 $a Z1039.D5 $b B5 1981 
+082 0  $a 011/.63 $2 19 
+090 00 $a Z 1039 D5 B58 1981 $b AEU 
+245 00 $a Bibliography of books for handicapped children / $c compiled by the International Youth Library, Munich. 
+260    $a Paris, France : $b Unesco, $c [1981?] 
+300    $a 2 v. (197 p.) ; $c 30 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Studies on books and reading. $v no. 11 
+596    $a 43 
+650  0 $a Children with disabilities $x Books and reading. 
+650  0 $a Children with disabilities $v Bibliography. 
+650  0 $a Children's literature $v Bibliography. 
+650  0 $a Children's libraries $v Book lists. 
+710 2  $a Internationale Jugendbibliothek (Munich, Germany) 
+830  0 $a Studies on books and reading. ; $v no. 11. 
+926    $a UAHSS $b ON_SHELF $c Z 1039 D5 B58 1981 pt.1 $d BOOK $f 1 
+926    $a UAHSS $b ON_SHELF $c Z 1039 D5 B58 1981 pt.2 $d BOOK $f 1 

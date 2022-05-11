@@ -1,0 +1,32 @@
+LEADER 01364cam a2200397 a 4500
+001 4247599
+003 CaAEU
+005 20081106122310.0
+008 080425s2007    pl       b    001 0 pol d
+020    $a 9788323217961 
+020    $a 8323217963 
+035    $a ocn226979468 
+040    $a CGU $b eng $c CGU $d AEU 
+041 0  $a pol $b eng 
+049    $a UABA 
+050  4 $a Z1039.W65 $b K73 2007 
+090    $a Z 1039 W65 K73 2007 $b AEU 
+100 1  $a Kraskowska, Ewa. 
+245 10 $a Czytelnik jako kobieta : $b wokół literatury i teorii / $c Ewa Kraskowska. 
+250    $a Wyd. 1. 
+260    $a Poznań : $b Wydawn. Naukowe UAM, $c 2007. 
+300    $a 243 p. ; $c 22 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Seria Filologia Polska, $x 0554-8179 ; $v nr 100 
+504    $a Includes bibliographical references and index. 
+546    $a Summary in English. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 43 
+650  0 $a Women $x Books and reading. 
+650  0 $a Feminism in literature. 
+830  0 $a Seria Filologia polska ; $v nr. 100. 
+949    $a Z 1039 W65 K73 2007 $c 1 $h UAHS-B $i 0162026818920 
+994    $a C0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1039 W65 K73 2007 $d BOOK $f 1 

@@ -1,0 +1,24 @@
+LEADER 00966cam a2200301 a 4500
+001 2082770
+003 CaAEU
+005 19980709130317.0
+008 951004s1996    nyu      b    001 0 eng u
+010    $a    95045252 
+020    $a 1555702112 
+035    $a ocm33334885 
+040    $a DLC $b eng $c DLC $d DLC $d AEU 
+050 00 $a Z1039.N47 $b W45 1996 
+082 00 $a 028.5/35 $2 20 
+090    $a LC 149.7 Z9 W45 1996 $b AEU 
+100 1  $a Weibel, Marguerite Crowley. 
+245 10 $a Choosing & using books with adult new readers / $c Marguerite Crowley Weibel. 
+246 3  $a Choosing and using books with adult new readers 
+260    $a New York : $b Neal-Schuman Publishers, $c c1996. 
+300    $a xiv, 268 p. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Includes indexes. 
+596    $a 38 
+650  0 $a Readers for new literates $v Bibliography. 
+926    $a UARCRF $b ON_SHELF $c LC 149.7 Z9 W45 1996 $d BOOK $f 1 

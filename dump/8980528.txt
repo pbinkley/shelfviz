@@ -1,0 +1,33 @@
+LEADER 02085cam a2200409 i 4500
+001 8980528
+003 CaAEU
+005 20200515045208.7
+006 m     o  d        
+007 cr |n|---|||||
+008 190713s2014    sp      o     000 0 spa d
+020    $a 9788491236252 $q (electronic bk.) 
+020    $a 8491236252 $q (electronic bk.) 
+035    $a on1108533197 
+037    $a 22573/ctv10qtbw9 $b JSTOR 
+039    $a exclude 
+040    $a EBLCP $b eng $e pn $c EBLCP $d OCLCQ $d YDX $d OCLCQ $d JSTOR $d AEU 
+050  4 $a Z1039.C65 $b C37 2014eb 
+082 04 $a 028.535 $2 23 
+090    $a Internet Access $b AEU 
+100 1  $a Campos Fernández-Fígares, Mar. 
+245 10 $a Cartografías lectoras y otros estudios de lectura 
+260    $a Madrid : $b Marcial Pons Ediciones Jurídicas y Sociales, $c 2014. 
+300    $a 1 online resource (255 pages) 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+506    $a Access restricted to authorized users and institutions. 
+520    $a La cartografía cultural es un campo emergente de los estudios sociales y humanísticos. Reveladora de la cultura de la complejidad que preconiza Edgar Morin, constituye un magnífico instrumento de recogida de datos de las prácticas de lectura y escritura de un mismo entorno comunitario, sin dejar de ser además una herramienta esencial de planificación y gestión cultural. El cotejo en distintas escalas de los datos de las cartografías -desde un campus universitario concreto a ámbitos más amplios del tejido urbano- nos permite vislumbrar espacios de colaboración y de intercambio, tal y como suced. 
+588 0  $a Print version record. 
+596    $a 44 
+650  0 $a College students $x Books and reading $z Spain $z Andalusia. 
+650  0 $a Books and reading $z Spain $z Andalusia. 
+700 1  $a Martos Núñez, Eloy. 
+856 40 $3 University of Alberta Access $u https://www.jstor.org/stable/10.2307/j.ctv10rr9r8 $z (Unlimited Concurrent Users) $z from JSTOR 
+949    $h UAIN $z JSTORPDA 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

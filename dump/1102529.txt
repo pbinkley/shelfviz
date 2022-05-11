@@ -1,0 +1,25 @@
+LEADER 01176cam a2200313   4500
+001 1102529
+003 CaAEU
+008 910405s1967    iau      b        0 eng d
+010    $a    71632013 
+035    $a ocm00164420 
+040    $a DLC $b eng $c DLC 
+049    $a ALB $b eng 
+050 00 $a Z1039.S5 $b Y57 
+082    $a 028.52 
+090    $a PN 1009 Z6 R3 Z9 Y68 $b AEU 
+100 1  $a Young, Beverly S. 
+245 12 $a A bibliography of high interest-low vocabulary books. $c Compiled by Beverly S. Young and Linda Vande Garde. 
+260    $a [Iowa City, $b University of Iowa, $c 1967] 
+300    $a 86 p. $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a University of Iowa extension bulletin $v no. 847 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+700 1  $a Vande Garde, Linda, $e author. 
+830  0 $a University of Iowa extension bulletin (1963) ; $v no. 847. 
+926    $a UARCRF $b ON_SHELF $c PN 1009 Z6 R3 Z9 Y68 $d BOOK $f 1 

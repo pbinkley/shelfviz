@@ -1,0 +1,26 @@
+LEADER 01136cam a2200325oa 4500
+001 3859838
+003 CaAEU
+005 20060626124513.0
+008 050505s2005    ilu      b    001 0 eng  
+010    $a   2005013078 
+020    $a 0838935532 (alk. paper) 
+035    $a ocn214960147 
+040    $a DLC $c DLC $d DLC $b eng 
+043    $a n-us--- 
+050 00 $a Z1039.C65 $b M67 2005 
+082 00 $a 028/.9 $2 22 
+090    $a Z 1039 C65 M67 2005 $b AEKC 
+245 00 $a More outstanding books for the college bound / $c Young Adult Library Services Association, editor. 
+260    $a Chicago : $b American Library Association, $c 2005. 
+300    $a xi, 251 p. ; $c 26 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references (p. 222) and index. 
+505 0  $a Outstanding books by genre -- Lists by year, 2004-1959. 
+596    $a 31 
+650  0 $a College students $x Books and reading $z United States. 
+650  0 $a Best books $z United States. 
+710 2  $a Young Adult Library Services Association. 
+926    $a KINGS $b CURRICULUM $c Z 1039 C65 M67 2005 $d BOOK $f 1 

@@ -1,0 +1,32 @@
+LEADER 02149cam a2200397 a 4500
+001 5474501
+003 CaAEU
+005 20120217085758.0
+008 101221s2011    nyu      b    000 0 eng  
+010    $a   2010053603 
+020    $a 9780061735264 (hardback) 
+020    $a 0061735264 (hardcover) 
+035    $a ocn641532411 
+040    $a DLC $e DLC $b eng $c DLC $d IG# $d BTCTA $d YDXCP $d IK2 $d BWX $d VP@ $d LIV $d CDX $d AEU 
+042    $a pcc 
+049    $a UABA 
+050 00 $a Z1041 $b .C55 2011 
+082 00 $a 929.4 $2 22 
+084    $a LIT000000 $2 bisacsh 
+090    $a Z 1041 C55 2011 $b AEU 
+100 1  $a Ciuraru, Carmela. 
+245 10 $a Nom de plume : $b a (secret) history of pseudonyms / $c Carmela Ciuraru. 
+250    $a 1st ed. 
+260    $a New York : $b Harper, $c c2011. 
+300    $a xxiv, 343 p. ; $c 22 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references (p. [337]-343). 
+505 0  $a The Brontes and Currer, Acton, and Ellis Bell (1816-1855) -- George Sand and Aurore Dupin (1804-1876) -- George Eliot and Marian Evans (1819-1880) -- Lewis Carroll and Charles Dodgson (1832-1898) -- Mark Twain and Samuel Clemens (1835-1910) -- O. Henry and William Sydney Porter (1862-1910) -- Fernando Pessoa and his heteronyms (1888-1935) -- George Orwell and Eric Blair (1903-1950) -- Isak Dinesen and Karen Blixen (1885-1962) -- Sylvia Plath and Victoria Lucas (1932-1963) -- Henry Green and Henry Yorke (1905-1973) -- Romain Gary and Emile Ajar (1914-1980) -- James Tiptree, Jr. and Alice Sheldon (1915-1987) -- Georges Simenon and Christian Brulls, et al. (1903-1989) -- Patricia Highsmith and Claire Morgan (1921-1995) -- Pauline Reage and Anne Desclos (1907-1998). 
+520    $a Discusses writers throughout history who hoarded secret identities-- sometimes playfully, and sometimes with tragic consequences--including Mark Twain, George Eliot, and Lewis Carroll. 
+596    $a 43 
+650  0 $a Anonyms and pseudonyms $x History. 
+949    $a Z 1041 C55 2011 $c 1 $h UAHS-B $i 0162030440471 
+994    $a C0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1041 C55 2011 $d BOOK $f 1 

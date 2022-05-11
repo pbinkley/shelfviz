@@ -1,0 +1,27 @@
+LEADER 01327cam a2200337   4500
+001 1184616
+003 CaAEU
+008 910907s1969    ctu               0 eng d
+010    $a    74003837 
+020    $a 0208008659: $c 4.50 
+035    $a ocm00007956 
+040    $a LC $b eng 
+049    $a ALB $b eng 
+050  0 $a Z1039.H7 $b R4 1969 
+082    $a 028 
+090    $a Z 1039 H7 R28 $b AEU 
+245 00 $a Reading round the world; $b a set of international reading lists. $c Edited by Frank Gardner & M. Joy Lewis. 
+260    $a [Hamden, Conn. : $b published by] Archon Books on behalf of IFLA, $c [1969] 
+300    $a 260 p. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Compiled by members of the Libraries in Hospitals Section of the International Federation of Library Associations. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a Best books. 
+650  0 $a Hospital libraries. 
+700 1  $a Gardner, Frank M., $e editor. 
+700 1  $a Lewis, Marigold Joy, $e editor. 
+710 2  $a International Federation of Library Associations. $b Libraries in Hospitals Section. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 H7 R28 $d BOOK $f 1 

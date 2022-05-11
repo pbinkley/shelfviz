@@ -1,0 +1,29 @@
+LEADER 01398cam a2200361 a 4500
+001 843478
+003 CaAEU
+008 840327s1977    at       b      1 0 eng d
+020    $a 085563152X 
+035    $a ocm03758915 
+040    $b eng 
+049    $a AEU $b eng 
+050  0 $a Z1039.S5 $b H32 1973 
+082    $a 028.52 
+090 0  $a Z 1039 M4 R52 1977 $b AEU 
+100 1  $a Richardson, James Albert, $d 1915- 
+245 10 $a Books for the retarded reader / $c J.A. Richardson, F.T. Caust [and] J.A. Hart. 
+250    $a 6th ed. / $b prepared and rev. by J.A. Richardson and F.T. Caust. 
+260    $a Hawthorn, Vic. : $b Australian Council for Educational Research, $c 1977. 
+300    $a 188 p. ; $c 22 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+583 1  $a committed to retain $c 20190201 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2019 
+596    $a 38 
+650  0 $a Reading $x Remedial teaching $v Bibliography. 
+650  0 $a Children's literature $v Bibliography. 
+650  0 $a Children with mental disabilities $x Books and reading $v Bibliography. 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+700 1  $a Hart, J. A. 
+700 1  $a Caust, F. T. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 M4 R52 1977 $d BOOK $f 1 

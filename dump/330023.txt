@@ -1,0 +1,26 @@
+LEADER 01110cam a2200325 i 4500
+001 330023
+003 CaAEU
+008 810330s1980    cou             1 0 eng d
+010    $a    80023721 
+020    $a 0872872165 : $c $15.00 
+035    $a ocm06533247 
+040    $a LC $b eng 
+049    $a aeu $b eng 
+050  0 $a Z1039.G55 $b P64 
+082 0  $a 371.95/6 $2 19 
+090 00 $a Z 1039 G55 P76 1980 $b AEU 
+090    $a Z1039 .G55 P64 $b AEGMCT 
+100 1  $a Polette, Nancy. 
+245 10 $a Exploring books with gifted children / $c by Nancy Polette and Marjorie Hamlin. 
+260    $a Littleton, Colo. : $b Libraries Unlimited, $c 1980. 
+300    $a 214 p. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Includes index. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a Gifted children $x Books and reading. 
+700 1  $a Hamlin, Marjorie, $e author. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 G55 P76 1980 $d BOOK $f 1 

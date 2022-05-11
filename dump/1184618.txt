@@ -1,0 +1,22 @@
+LEADER 00816cam a2200277   4500
+001 1184618
+003 CaAEU
+008 910907s1967    nvu      b        0 eng d
+010    $a    70625906 
+035    $a ocm00007006 
+040    $a LC $b eng 
+049    $a ALB $b eng 
+050  0 $a Z1039 $b .M4M8 
+082    $a 028 
+090    $a Z 1039 M4 M97 $b AEU 
+100 1  $a Murdoch, Thomas S. 
+245 10 $a Suggested book list for the mentally retarded $c [by] Thomas S. Murdoch. 
+260    $a Carson City, Nev. : $b Dept. of Education, $c 1967. 
+300    $a 12 l. ; $c 28 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Cover title. 
+596    $a 38 
+650  0 $a Children with mental disabilities $x Books and reading. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 M4 M97 $d BOOK $f 1 

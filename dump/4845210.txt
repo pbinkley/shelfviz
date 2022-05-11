@@ -1,0 +1,35 @@
+LEADER 01432cam a2200433 a 4500
+001 4845210
+003 CaAEU
+005 20101105085206.0
+008 101021s2010    ctu      b    001 0 eng  
+010    $a   2010294622 
+015    $a GBB027668 $2 bnb 
+016 7  $a 015489231 $2 Uk 
+020    $a 9780300153651 (pbk.) 
+020    $a 0300153651 (pbk.) 
+035    $a ocn520723375 
+040    $a DLC $c DLC $d UKM $d BTCTA $d YDXCP $d YUS $d C#P $d CDX $d AEU 
+043    $a e-uk--- 
+049    $a UABA 
+050 00 $a Z1039.L3 $b R67 2010 
+082 04 $a 028.90941 $2 22 
+090    $a Z 1039 L3 R67 2010 $b AEU 
+100 1  $a Rose, Jonathan, $d 1952- 
+245 14 $a The intellectual life of the British working classes / $c Jonathan Rose. 
+250    $a 2nd ed. 
+260    $a New Haven : $b Yale University Press, $c 2010. 
+300    $a xiii, 534 p. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references (p. [465]-517) and index. 
+596    $a 43 
+650  0 $a Working class $x Books and reading $z Great Britain $x History. 
+650  0 $a Working class $z Great Britain $x Intellectual life. 
+650  0 $a Books and reading $z Great Britain $x History. 
+651  0 $a Great Britain $x Intellectual life. 
+949    $a Z 1039 L3 R67 2010 $c 1 $h UAHS-B $i 0162029104369 
+994    $a C0 $b UAB 
+019    $a 449854296 
+926    $a UAHSS $b ON_SHELF $c Z 1039 L3 R67 2010 $d BOOK $f 1 

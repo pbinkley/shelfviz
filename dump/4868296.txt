@@ -1,0 +1,76 @@
+LEADER 06346nam a2200925 a 4500
+001 4868296
+003 CaAEU
+006 m     o  d |      
+007 cr cn|||||||||
+008 090925s2010    ncua    ob   s001 0 eng  
+010    $z   2009039480 
+020    $z 9780807833087 $q (alk. paper) 
+035    $a ocn656846652 
+039    $a exclude 
+040    $a MiAaPQ $c MiAaPQ $d MiAaPQ $d AEU 
+043    $a n-us--- 
+050  4 $a Z1039.W65 $b S53 2010 
+082 04 $a 028/.9082 $2 22 
+090    $a Internet Access $b AEC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b AEKC 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b AEVC 
+090    $a Internet Access $b AFMK 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b AOAC 
+090    $a Internet Access $b ARDC 
+090    $a Internet Access $b ASAV 
+090    $a Internet Access $b AVC 
+100 1  $a Sicherman, Barbara. 
+245 10 $a Well-read lives $h [electronic resource] : $b how books inspired a generation of American women / $c Barbara Sicherman. 
+260    $a Chapel Hill : $b University of North Carolina Press, $c c2010. 
+300    $a 1 online resource (380 p.) : $b ill. 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+506    $a Access restricted to authorized users and institutions. 
+596    $a 3 6 8 22 31 33 35 44 57 60 61 
+650  0 $a Girls $x Books and reading $x Social aspects $z United States $x History $y 19th century. 
+650  0 $a Women and literature $z United States $x History $y 19th century. 
+650  0 $a Women $x Books and reading $x Social aspects $z United States $x History $y 19th century. 
+856 40 $3 Red Deer Polytechnic Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=330172 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Olds College Access $u https://ebookcentral.proquest.com/lib/oldscollege/detail.action?docID=565707 $z from Ebook Central College Complete 
+856 40 $3 NorQuest College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=330172 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Lakeland College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=330172 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 University of Alberta Access $u https://ebookcentral.proquest.com/lib/ualberta/detail.action?docID=565707 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Concordia University of Edmonton Access $u http://ebookcentral.proquest.com/lib/concordiaab-ebooks/detail.action?docID=565707 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Concordia University of Edmonton Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=330172 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Grande Prairie Regional College Access $u http://ebookcentral.proquest.com/lib/gprc-ebooks/detail.action?docID=565707 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Grande Prairie Regional College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=330172 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Keyano College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=330172 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 King's University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=330172 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 MacEwan University Access $u http://ebookcentral.proquest.com/lib/macewan-ebooks/detail.action?docID=565707 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 MacEwan University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=330172 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 NorQuest College Access $u http://ebookcentral.proquest.com/lib/norquest-ebooks/detail.action?docID=565707 $z from Ebook Central College Complete 
+856 40 $3 Northern Lakes College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=330172 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Red Deer Polytechnic Access $u http://ebookcentral.proquest.com/lib/rdc/detail.action?docID=565707 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 University of Alberta Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=330172 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 University of Alberta Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=330172 $z from EBSCO 
+949    $h UAIN $m RED_DEER_C $z EBSCORDAC 
+919    $a EBC565707 
+926    $a NORQ_MAIN $b INTERNET $c Internet Access $d E-RESOURCE $f 2 
+926    $a NORQ_MAIN $b INTERNET $c Internet Access $d E-RESOURCE $f 3 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 3 
+926    $a KEYANO $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a NLC_SL $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KINGS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a OLDS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 2 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 3 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 2 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 3 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 3 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 3 
+926    $a LAKELND_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

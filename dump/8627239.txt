@@ -1,0 +1,37 @@
+LEADER 01786pam a2200457 i 4500
+001 8627239
+003 CaAEU
+005 20190412111749.0
+008 181024t20192019caua     b    001 0 eng  
+010    $a   2018037626 
+020    $a 9781440860638 $q (hardback : acid-free paper) 
+020    $a 1440860637 $q (hardback : acid-free paper) 
+020    $z 9781440860645 (ebook) 
+035    $a on1049277489 
+040    $a DLC $b eng $e rda $c DLC $d OCLCO $d OCLCF $d ULC $d WAU $d UAB $d AEU 
+042    $a pcc 
+043    $a n-us--- 
+050 00 $a Z1039.G57 $b H37 2019 
+082 00 $a 028.5/5 $2 23 
+090    $a Z 1039 G57 H37 2019 $b AEU 
+100 1  $a Harlan, Mary Ann, $e author. 
+245 14 $a The girl-positive library : $b inspiring confidence, creativity, and curiosity in young women / $c Mary Ann Harlan. 
+264  1 $a Santa Barbara, California : $b Libraries Unlimited, an imprint of ABC-CLIO, LLC, $c [2019] 
+264  4 $c ©2019 
+300    $a viii, 161 pages : $b illustrations ; $c 26 cm 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references (pages 145-146) and index. 
+596    $a 43 
+650  0 $a Girls $x Books and reading $z United States. 
+650  0 $a Teenage girls $x Books and reading $z United States. 
+650  0 $a Libraries $x Special collections $x Young adult literature. 
+650  0 $a Libraries $x Special collections $x Girls. 
+650  0 $a Libraries and teenagers. 
+650  0 $a Young adults' libraries $x Activity programs $z United States. 
+650  0 $a Young adult literature $x History and criticism. 
+650  0 $a Girls in literature. 
+650  0 $a Feminism and literature. 
+949    $a Z 1039 G57 H37 2019 $h UAHS-B $i 0162036269205 $z COUTTS_COP 
+926    $a UAHSS $b ON_SHELF $c Z 1039 G57 H37 2019 $d BOOK $f 1 

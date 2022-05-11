@@ -1,0 +1,27 @@
+LEADER 01233cam a2200337 a 4500
+001 581725
+003 CaAEU
+008 880915s1988    ohu      b      1 0 eng d
+010    $a    87029655 
+020    $a 0910707111 
+035    $a ocm16925587 
+040    $a DLC $b eng $c DLC 
+049    $a AEU $b eng 
+050 00 $a Z1039.G55 $b H34 1988 
+082 0  $a 011/.62 $2 19 
+090 0  $a Z 1039 G55 H196 1988 $b AEU 
+100 1  $a Halsted, Judith Wynn, $d 1940- 
+245 10 $a Guiding gifted readers : $b from preschool through high school : a handbook for parents, teachers, counselors, and librarians / $c Judith Wynn Halsted. 
+260    $a Columbus, Ohio : $b Ohio Psychology Pub. Co., $c c1988. 
+300    $a x, 307 p. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Includes indexes. 
+500    $a Cover title: Guiding gifted readers : from preschool to high school : a guide for parents, teachers, librarians and counselors. 
+504    $a Bibliography: p. [169]-295. 
+596    $a 38 
+650  0 $a Gifted children $x Books and reading. 
+650  0 $a Gifted children $x Education. 
+650  0 $a Youth $x Books and reading. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 G55 H196 1988 $d BOOK $f 1 

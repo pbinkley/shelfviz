@@ -1,0 +1,72 @@
+LEADER 05084cam a2200877 a 4500
+001 8102942
+003 CaAEU
+005 20171125123738.7
+006 m     o  d        
+007 cr cn|||||||||
+008 160602s2016    mau     ob    001 0 eng d
+020    $a 9781613764152 $q (electronic bk.) 
+020    $a 1613764154 $q (electronic bk.) 
+020    $z 9781625342010 $q (pbk. ; $q alk. paper) 
+020    $z 9781625342003 $q (hardcover ; $q alk. paper) 
+020    $z 1625342004 
+020    $z 1625342012 
+035    $a ocn963638348 
+037    $a 22573/ctt1hdrdpx $b JSTOR 
+039    $a exclude 
+040    $a P@U $b eng $e pn $c P@U $d OCLCO $d JSTOR $d P@U $d YDX $d EBLCP $d N$T $d OCLCQ $d MERUC $d IDB $d OCLCQ $d OTZ $d OCLCQ $d IGB $d IOG $d AEU 
+043    $a n-us--- 
+050  4 $a Z1039.B56 $b C47 2016eb 
+082 04 $a 028/.908996073 $2 23 
+090    $a Internet Access $b ARDC 
+090    $a Internet Access $b AEVC 
+090    $a Internet Access $b AVC 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b AEC 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b AFMK 
+090    $a Internet Access $b AEKC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b ASAV 
+100 1  $a Christian, Shawn Anthony, $e author. 
+245 14 $a The Harlem Renaissance and the Idea of a New Negro Reader / $c Shawn Anthony Christian. 
+260    $a Amherst : $b University of Massachusetts Press, $c 2016. 
+300    $a 1 online resource 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+506    $a Access restricted to authorized users and institutions. 
+588 0  $a Print version record. 
+596    $a 3 6 8 22 31 35 44 57 60 61 
+650  0 $a Harlem Renaissance $x Social aspects. 
+650  0 $a African Americans $x Books and reading $z United States. 
+650  7 $a African Americans $x Books and reading. $2 fast $0 (OCoLC)fst00799572 
+650  7 $a African Americans in literature. $2 fast $0 (OCoLC)fst00799727 
+650  7 $a American literature $x African American authors. $2 fast $0 (OCoLC)fst00807114 
+650  7 $a Harlem Renaissance. $2 fast $0 (OCoLC)fst00951467 
+650  7 $a Intellectual life. $2 fast $0 (OCoLC)fst00975769 
+651  7 $a New York (State) $z New York $z Harlem. $2 fast $0 (OCoLC)fst01312318 
+655  7 $a Criticism, interpretation, etc. $2 fast $0 (OCoLC)fst01411635 
+655  7 $a History. $2 fast $0 (OCoLC)fst01411628 
+856 40 $3 Red Deer Polytechnic Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1425209 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 NorQuest College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1425209 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Lakeland College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1425209 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Concordia University of Edmonton Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1425209 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Grande Prairie Regional College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1425209 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Keyano College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1425209 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 King's University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1425209 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 MacEwan University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1425209 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Northern Lakes College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1425209 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 University of Alberta Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=1425209 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+949    $h UAIN $m RED_DEER_C $z EBSCORDAC 
+926    $a NORQ_MAIN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KEYANO $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a NLC_SL $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KINGS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a LAKELND_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

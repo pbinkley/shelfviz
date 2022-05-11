@@ -1,0 +1,28 @@
+LEADER 01327cam a22003491  4500
+001 884549
+003 CaAEU
+008 750707s1966    at       b   s    0 eng x
+010    $a    66009219 
+035    $a ocm01431832 
+040    $b eng 
+049    $a AEU $b eng 
+050 0  $a Z1039.S5 $b H3 1966 
+082    $a 028.52 
+090 0  $a Z 1039 M4 R52 1966 $b AEU 
+100 1  $a Hart, J. A. 
+245 10 $a Books for the retarded reader; $b a teacher's guide to books for backward children $c by J.A. Hart. 
+250    $a [3d ed.]. 
+260    $a [Hawthorn, Victoria] $b Australian Council for Educational Research $c [1966] 
+300    $a 133 p. $c 22 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Earlier ed. by J.A. Richardson and J.A. Hart. 
+504    $a Includes bibliographical references. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a Slow learning children $x Books and reading $v Bibliography. 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+700 1  $a Richardson, James Albert, $d 1915- 
+926    $a UARCRF $b ON_SHELF $c Z 1039 M4 R52 1966 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 M4 R52 1966 $d BOOK $f 3 

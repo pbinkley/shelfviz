@@ -1,0 +1,35 @@
+LEADER 01674cam a2200433 a 4500
+001 4170251
+003 CaAEU
+005 20080614070013.0
+008 071220s2008    ctua     b    001 0 eng  
+010    $a   2007051065 
+020    $a 9781591585992 (alk. paper) 
+020    $a 1591585996 (alk. paper) 
+035    $a ocn185026555 
+040    $a DLC $b eng $c DLC $d YDX $d BTCTA $d BAKER $d YDXCP $d WIQ $d BWX $d JED $d AEU 
+043    $a n-us--- 
+049    $a UABA 
+050 00 $a Z1039.B67 $b Z23 2008 
+082 00 $a 028.5/5 $2 22 
+090    $a Z 1039 B67 Z23 2008 $b AEU 
+100 1  $a Zbaracki, Matthew D. 
+245 10 $a Best books for boys : $b a resource for educators / $c Matthew D. Zbaracki ; foreword by Jon Scieszka. 
+260    $a Westport, Conn. : $b Libraries Unlimited, $c 2008. 
+300    $a xii, 189 p. : $b ill. ; $c 25 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Children's and young adult literature reference series 
+504    $a Includes bibliographical references and indexes. 
+505 0  $a Boys and books -- Humor -- Nonfiction -- Realistic fiction -- Fantasy -- Historical fiction -- Poetry -- Graphic novels -- I can't resist these. 
+596    $a 38 
+650  0 $a Boys $x Books and reading $z United States. 
+650  0 $a Teenage boys $x Books and reading $z United States. 
+650  0 $a Children's literature $v Bibliography. 
+650  0 $a Young adult literature $v Bibliography. 
+650  0 $a Best books $z United States. 
+830  0 $a Children's and young adult literature reference series. 
+949    $h UAED-B $i 0162025226901 
+994    $a C0 $b UAB 
+926    $a UARCRF $b ON_SHELF $c Z 1039 B67 Z23 2008 $d BOOK $f 1 

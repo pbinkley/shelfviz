@@ -1,0 +1,31 @@
+LEADER 01432cam a2200385 a 4500
+001 850483
+003 CaAEU
+008 850725s1985    nyua     b      1 0 eng d
+010    $a    85017514 
+020    $a 0835221334 
+035    $a ocm12371473 
+040    $a DLC $b eng $c DLC 
+049    $a AEU $b eng 
+050 00 $a Z1039.S5 $b H54 1985 
+082 0  $a 027.62/6 $2 19 
+090 0  $a Z 1039 S5 H639 1985 $b AEU 
+245 00 $a High/low handbook : $b books, materials, and services for the problem reader / $c compiled and edited by Ellen V. LiBretto. 
+250    $a 2nd ed. 
+260    $a New York : $b Bowker, $c 1985. 
+300    $a xii, 264 p. : $b ill. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Serving special needs series. 
+504    $a Includes bibliographies and indexes. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+650  0 $a Slow learning children $x Books and reading. 
+650  0 $a Youth $x Books and reading. 
+650  0 $a Reading $x Remedial teaching $x Aids and devices. 
+650  0 $a Children's literature $v Bibliography. 
+700 1  $a LiBretto, Ellen V. 
+830  0 $a Serving special needs series. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 H639 1985 $d BOOK $f 1 

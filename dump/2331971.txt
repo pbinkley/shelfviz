@@ -1,0 +1,31 @@
+LEADER 01343cam a2200385 a 4500
+001 2331971
+003 CaAEU
+005 19910405151309.2
+008 831125s1984    ncu      b   s001 0 eng  
+010    $a    83023596 //r912 
+020    $a 080781590X 
+035    $a ocm10229460 
+040    $a DLC $b eng $c DLC $d DLC $d ACAL 
+050 00 $a Z1039.W65 $b R32 1984 
+090    $a Z 1039 W65 R132 1984 $b AEU 
+090    $a PR 830 L69 R3 1984 $b ACAL 
+100 1  $a Radway, Janice A., $d 1949- 
+245 10 $a Reading the romance : $b women, patriarchy, and popular literature / $c Janice A. Radway. 
+260    $a Chapel Hill : $b University of North Carolina Press, $c c1984. 
+300    $a x, 274 p. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Bibliography: p. [257]-265. 
+590    $a University of Alberta copy in the Sheryl Anne McInnes/AIDS Network Collection. $5 CaAEU 
+596    $a 16 38 
+650  0 $a Women $x Books and reading. 
+650  0 $a Love stories $x Appreciation. 
+650  0 $a Popular literature $x Appreciation. 
+650  0 $a Feminism and literature. 
+650  0 $a Sex role in literature. 
+650  0 $a Women in literature. 
+650  0 $a Patriarchy. 
+926    $a UAAUG $b ON_SHELF $c PR 830 L69 R3 1984 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 W65 R132 1984 $d BOOK $f 1 

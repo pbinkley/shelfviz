@@ -1,0 +1,37 @@
+LEADER 01838cam a2200457 a 4500
+001 4076655
+003 CaAEU
+005 20080229121718.0
+008 070508s2007    enka     b    001 0 eng d
+015    $a GBA805180 $2 bnb 
+016 7  $a 014277317 $2 Uk 
+020    $a 9780521879422 
+020    $a 0521879426 
+035    $a ocn154682294 
+040    $a BTCTA $b eng $c BTCTA $d YDXCP $d BAKER $d OCLCQ $d UKM $d SUC $d AEU 
+043    $a e-uk-en $a e-fr--- $a e-gx--- 
+049    $a UABA 
+050  4 $a Z1039.W65 $b G74 2007 
+082 04 $a 028/.9/082/094/0902 $2 22 
+090    $a Z 1039 W65 G74 2007 $b AEU 
+100 1  $a Green, D. H. $q (Dennis Howard), $d 1922-2008. 
+245 10 $a Women readers in the Middle Ages / $c D.H. Green. 
+260    $a Cambridge ; $a New York : $b Cambridge University Press, $c 2007. 
+300    $a xi, 296 p. : $b ill. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Cambridge studies in medieval literature ; $v 65 
+504    $a Includes bibliographical references (p. 258-287) and index. 
+505 0  $a Reading in the Middle Ages. Literal reading ; Figurative reading -- Women and reading in the Middle Ages. Categories of women readers ; Women's engagement with literature. 
+596    $a 43 
+650  0 $a Women $x Books and reading $z England $x History $y To 1500. 
+650  0 $a Women and literature $z England $x History $y To 1500. 
+650  0 $a Women $x Books and reading $z France $x History $y To 1500. 
+650  0 $a Women and literature $z France $x History $y To 1500. 
+650  0 $a Women $x Books and reading $z Germany $x History $y To 1500. 
+650  0 $a Women and literature $z Germany $x History $y To 1500. 
+830  0 $a Cambridge studies in medieval literature ; $v 65. 
+949    $h UAHS-B $i 0162024983130 
+994    $a C0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1039 W65 G74 2007 $d BOOK $f 1 

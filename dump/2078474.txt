@@ -1,0 +1,21 @@
+LEADER 00730cam a22002651i 4500
+001 2078474
+003 CaAEU
+008 920704s1971    nyu               0 eng d
+010    $a    73107900 
+035    $a ocn301213885 
+040    $a LC $b fre 
+049    $a AEUSJ $b fre 
+050  0 $a Z1041 $b .B38 
+082    $a 929.4 
+090 0  $a Z/1041/B38 $b AEUSJ 
+100 1  $a Bauer, Andrew. 
+245 14 $a The Hawthorn dictionary of pseudonyms, $c compiled by Andrew Bauer. 
+260    $a New York : $b Hawthorn Books, $c [1971] 
+300    $a vi, 312 p. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+596    $a 38 
+650  6 $a Pseudonymes. 
+926    $a UARCRF $b ON_SHELF $c Z 1041 B38 $d BOOK $f 1 

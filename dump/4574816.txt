@@ -1,0 +1,34 @@
+LEADER 02050cam a2200421 a 4500
+001 4574816
+003 CaAEU
+005 20100326072501.0
+008 090925s2010    ncua     b   s001 0 eng  
+010    $a   2009039480 
+020    $a 9780807833087 (alk. paper) 
+020    $a 0807833088 (alk. paper) 
+035    $a ocn441211773 
+040    $a DLC $c DLC $d YDX $d YDXCP $d ACAL 
+043    $a n-us--- 
+049    $a MAIN 
+050 00 $a Z1039.W65 $b S53 2010 
+082 00 $a 028/.9082 $2 22 
+090    $a Z 1039 W65 S53 2010 $b ARDC 
+090    $a Z 1039 W65 S53 2010 $b AEU 
+100 1  $a Sicherman, Barbara. 
+245 10 $a Well-read lives : $b how books inspired a generation of American women / $c Barbara Sicherman. 
+260    $a Chapel Hill : $b University of North Carolina Press, $c c2010. 
+300    $a 380 p. : $b ill. ; $c 25 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+505 0  $a Reading Little women -- Women and the new cultural landscape of the Gilded Age -- Young women's ways of reading -- (Reading as) a family affair : the Hamiltons of Fort Wayne -- Reading and ambition : M. Carey Thomas and female heroism -- Working her way through culture : Jane Addams and literature's dual legacy -- Hull-House as a cultural space -- New books, new lives : Jewish immigrant women, reading, and identity -- With pen and voice : Ida B. Wells, race, literature, and politics. 
+596    $a 16 35 43 
+650  0 $a Women $x Books and reading $x Social aspects $z United States $x History $y 19th century. 
+650  0 $a Girls $x Books and reading $x Social aspects $z United States $x History $y 19th century. 
+650  0 $a Women and literature $z United States $x History $y 19th century. 
+949    $a Z 1039 W65 S53 2010 $c 1 $h UAAU-B $i 0162028450797 $z UNDERGRAD 
+994    $a C0 $b CNAUC 
+926    $a UAAUG $b ON_SHELF $c Z 1039 W65 S53 2010 $d BOOK $f 1 
+926    $a RED_DEER_P $b FLOOR_2 $c Z 1039 W65 S53 2010 $d BOOK $f 1 
+926    $a UAHSS $b ON_SHELF $c Z 1039 W65 S53 2010 $d BOOK $f 1 

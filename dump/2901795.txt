@@ -1,0 +1,31 @@
+LEADER 01386pam a2200385 a 4500
+001 2901795
+003 CaAEU
+005 20040616103006.0
+008 031203s2004    nyu      b    001 0 eng  
+010    $a   2003068699 
+020    $a 0807744662 (pbk. : acid-free paper) 
+020    $a 0807744670 (acid-free paper) 
+035    $a ocm53975525 
+040    $a DLC $b eng $c DLC $d AEU 
+043    $a n-us--- 
+049    $a UABA 
+050 00 $a Z1039.G57 $b B58 2004 
+082 00 $a 028.5/5 $2 22 
+090    $a Z 1039 G57 B58 2004 $b AEC 
+090    $a Z 1039 G57 B58 2004 $b AEU 
+100 1  $a Blackford, Holly Virginia. 
+245 10 $a Out of this world : $b why literature matters to girls / $c Holly Virginia Blackford ; foreword by Carol Christ. 
+260    $a New York : $b Teachers College Press, $c c2004. 
+300    $a xiv, 177 p. ; $c 23 cm. 
+490 1  $a Language and literacy series 
+504    $a Includes bibliographical references (p. 155-168) and index. 
+596    $a 21 31 38 
+650  0 $a Girls $v Books and reading $z United States. 
+650  0 $a Girls $z United States $v Interviews. 
+650  0 $a Reader-response criticism $z United States. 
+830  0 $a Language and literacy series (New York, N.Y.) 
+949    $i 0162018796860 
+926    $a CONCORDIA $b ON_SHELF $c Z 1039 G57 B58 2004 $d BOOK $f 1 
+926    $a KINGS $b ON_SHELF $c Z 1039 G57 B58 2004 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 G57 B58 2004 $d BOOK $f 1 

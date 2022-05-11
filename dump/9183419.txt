@@ -1,0 +1,41 @@
+LEADER 02630pam a2200505 i 4500
+001 9183419
+003 CaAEU
+005 20200312084608.0
+008 190930t20202020mdu      b    001 0 eng  
+010    $a   2019042335 
+020    $a 9781538138397 $q (cloth ; $q alk. paper) 
+020    $a 1538138395 $q (cloth ; $q alk. paper) 
+020    $a 9781538138403 $q (paperback) 
+020    $a 1538138409 $q (paperback) 
+020    $z 9781538138410 $q (epub) 
+035    $a on1121424701 
+040    $a DLC $b eng $e rda $c DLC $d OCLCF $d OCLCO $d MNN $d UAB $d AEU 
+042    $a pcc 
+043    $a n-us--- 
+050 00 $a Z1039.M56 $b G55 2020 
+082 00 $a 810/.93529 $2 23 
+090    $a Z 1039 M56 G55 2020 $b AEU 
+100 1  $a Gilton, Donna L., $e author. 
+245 10 $a Multicultural and ethnic children's literature in the United States / $c Donna L. Gilton. 
+250    $a Second edition. 
+264  1 $a Lanham : $b Rowman & Littlefield Publishing Group, $c [2020] 
+264  4 $c ©2020 
+300    $a xiii, 419 pages ; $c 23 cm 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references (pages 357-399) and index. 
+505 0  $a Multicultural children's literature : an introduction -- A history of multicultural children's literature -- General trends in the field -- Specific ethnic initiatives and conclusions -- Where to go from here : emerging groups and issues. 
+520    $a "This second edition of Multicultural and Ethnic Children's Literature in the United States describes the history and characteristics of ethnic and multicultural children's literature in the U.S. and elsewhere, elaborating on people, businesses, and organizations that create, disseminate, promote, critique, and collect these materials"-- $c Provided by publisher. 
+596    $a 43 
+650  0 $a Children of minorities $x Books and reading $z United States. 
+650  0 $a Minority teenagers $x Books and reading $z United States. 
+650  0 $a Multiculturalism $z United States $x History. 
+650  0 $a Multicultural education $z United States $x History. 
+650  0 $a Children's literature, American $x History and criticism. 
+650  0 $a American literature $x Minority authors $x History and criticism. 
+650  0 $a Ethnic groups in literature. 
+776 08 $i Online version: $a Gilton, Donna L. $t Multicultural and ethnic children's literature in the United States $b Second edition. $d Lanham : Rowman & Littlefield Publishing Group, 2020. $z 9781538138410 $w (DLC)  2019042336 
+949    $a Z 1039 M56 G55 2020 $h UAHS-B $i 0162036016374 $z COUTTS_COP 
+926    $a UAHSS $b ON_SHELF $c Z 1039 M56 G55 2020 $d BOOK $f 1 

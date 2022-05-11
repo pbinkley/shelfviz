@@ -1,0 +1,28 @@
+LEADER 01242cam a2200349 a 4500
+001 2155790
+003 CaAEU
+005 19940111064207.1
+008 930125s1993    enk      b    000 0 eng d
+010    $a    93018195 
+020    $a 0198117191 (acid-free paper) 
+035    $a ocm27431207 
+040    $a DLC $b eng $c DLC $d DLC $d AEU 
+043    $a e-uk--- 
+050 00 $a Z1039.W65 $b F57 1993 
+082 00 $a 028/.9082 $2 20 
+090    $a Z 1039 W65 F57 1993 $b AEC 
+090    $a Z 1039 W65 F624 1993 $b AEU 
+100 1  $a Flint, Kate. 
+245 14 $a The woman reader, 1837-1914 / $c Kate Flint. 
+260    $a Oxford : $b Clarendon Press ; $a New York : $b Oxford University Press, $c 1993. 
+300    $a xii, 366 p. : $b ill. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references (p. [331]-352) and index. 
+596    $a 21 43 
+650  0 $a Women $z Great Britain $x Books and reading $x History $y 19th century. 
+650  0 $a Women $z Great Britain $x Books and reading $x History $y 20th century. 
+650  0 $a Women and literature $z Great Britain. 
+926    $a CONCORDIA $b ON_SHELF $c Z 1039 W65 F57 1993 $d BOOK $f 1 
+926    $a UAHSS $b ON_SHELF $c Z 1039 W65 F624 1993 $d BOOK $f 1 

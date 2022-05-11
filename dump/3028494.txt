@@ -1,0 +1,32 @@
+LEADER 02124cam a2200397 a 4500
+001 3028494
+003 CaAEU
+005 20041108165305.0
+008 960621s1996    vau      b    000 0 eng d
+035    $a on1006796126 
+040    $a VA@ $b eng $c VA@ $d OCL $d OCLCQ $d AEU 
+050    $a Z1039.S6 $b B66 1996 
+090    $a Z 1039 S6 B66 1996 $b AEU 
+100 1  $a Miller, Daniel J. 
+245 10 $a Books go to war : $b Armed Services Editions in World War II / $c by Daniel J. Miller. 
+246 30 $a Armed Services Editions in World War II 
+260    $a Charlottesville : $b Published by the Book Arts Press, $c 1996. 
+300    $a [6], 42 p. ; $c 21 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Catalog of an exhibition of books owned by the Book Arts Press and by Special Collections Dept., University of Virginia, held between 20 April and 10 September 1996, in the Dome Room of The Rotunda, at the University. 
+500    $a Catalog designed and formatted to look like an Armed Services Edition, including a number, "300" in the upper left corner of cover. 
+500    $a Issued in variant green and yellow wrappers the green cover has "299" in the upper left corner; the yellow cover has "300" in the upper left corner 
+500    $a Includes a brief introduction by Terry Belanger. 
+590    $a University of Alberta copy has an uncut copy measuring 21 cm x 14 cm in which the 2 variants are joined, and one copy of each wrapper variant in a separate envelope. $5 CaAEU 
+596    $a 50 
+610 20 $a Armed Services Editions, Inc. $v Exhibitions. 
+650  0 $a Soldiers $z United States $v Books and reading $v Exhibitions. 
+650  0 $a World War, 1939-1945 $x Literature and the war $v Exhibitions. 
+650  0 $a Publishers and publishing $z United States $x History $y 20th century $v Exhibitions. 
+700 1  $a Belanger, Terry. 
+710 2  $a Book Arts Press. 
+710 2  $a University of Virginia. $b Library. $b Special Collections Department. 
+926    $a UASPCOLL $b READONSITE $c Z 1039 S6 B66 1996 $d NO_LOAN $f 1 
+926    $a UASPCOLL $b READONSITE $c Z 1039 S6 B66 1996 $d NO_LOAN $f 2 

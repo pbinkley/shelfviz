@@ -1,0 +1,35 @@
+LEADER 01423cam a2200433 a 4500
+001 3859547
+003 CaAEU
+005 20070314125856.0
+008 980417s1997    onc      b    000 0 eng d
+010    $a    98140344 
+016    $a 969320361 
+020    $a 0670870803 
+020    $a 9780670870806 
+035    $a ocm36044651 
+040    $a CaOTU $b eng $c DLC $d NLC $d UKM $d BTCTA $d AEU 
+042    $a lccopycat 
+043    $a n-cn--- 
+049    $a UABA 
+050 00 $a Z1039.C45 $b E94 1997 
+055  3 $a Z1037 A1 $b E93 1997 
+082 00 $a 028.5/5/0971 $2 21 
+090    $a Z 1037 A1 E93 1997 $b AEU 
+245 00 $a Everybody's favourites : $b Canadians talk about books that changed their lives / $c [edited by] Arlene Perly Rae. 
+260    $a Toronto : $b Viking, $c 1997. 
+300    $a xix, 235 p. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references. 
+590    $a University of Alberta copy in the Canadian Children's Book Centre Depository Collection 
+596    $a 38 43 
+650  0 $a Celebrities $x Books and reading $z Canada. 
+650  0 $a Children $x Books and reading $z Canada. 
+700 1  $a Rae, Arlene Perly, $d 1949- 
+949    $h UAED-CU-B $i 0162023434820 
+994    $a C0 $b UAB 
+019    $a 39962156 
+926    $a UARCRF $b ON_SHELF $c Z 1037 A1 E93 1997 $d BOOK $f 1 
+926    $a UAHSS $b CURRICULUM $c Z 1037 A1 E93 1997 $d BOOK $f 1 

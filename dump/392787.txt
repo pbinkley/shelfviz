@@ -1,0 +1,27 @@
+LEADER 01181cam a2200337 a 4500
+001 392787
+003 CaAEU
+008 820421s1981    miu      b      1 0 eng d
+010    $a    81006889 
+020    $a 0810305992 
+035    $a ocm07795054 
+040    $a LC $b eng 
+049    $a aeu $b eng 
+050  0 $a Z1039.S5 $b S27 
+082 0  $a 011/.63 $2 19 
+090 00 $a Z 1039 S5 S26 1981 $b AEU 
+100 1  $a Sarkissian, Adele. 
+245 10 $a High-interest books for teens : $b a guide to book reviews and biographical sources / $c edited by Adele Sarkissian. 
+250    $a 1st ed. 
+260    $a Detroit, Mich. : $b Gale Research Co., $c c1981. 
+300    $a xxiv, 295 p. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Includes index. 
+504    $a Bibliography: p. viii-ix. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 38 
+650  0 $a High interest-low vocabulary books $v Bibliography. 
+650  0 $a Books $v Reviews $v Bibliography. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S5 S26 1981 $d BOOK $f 1 

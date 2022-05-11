@@ -1,0 +1,26 @@
+LEADER 01095cam a2200325 i 4500
+001 356801
+003 CaAEU
+008 810923s1977    nyu      b      1 0 eng d
+010    $a    78319343 
+035    $a ocm03312672 
+040    $a LC $b eng 
+049    $a aeu $b eng 
+050  0 $a Z1039.S55 $b P47 1977 
+082    $a 027.6 
+090 00 $a Z 1039 S55 P54 1977 $b AEU 
+110 2  $a Free Library of Philadelphia. $b Reader Development Program. 
+245 10 $a Reader development bibliography / $c annotated and compiled by Melissa R. Forinash. 
+250    $a [2d ed.]. 
+260    $a Syracuse, N.Y. : $b New Readers Press, $c c1977. 
+300    $a iv, 109 p. ; $c 22 x 29 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Includes indexes. 
+500    $a Accompanied by supplement (24 p.) issued in 1978. 
+596    $a 38 
+650  0 $a People with social disabilities $x Books and reading. 
+700 1  $a Forinash, Melissa R. 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S55 P54 1977 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 S55 P54 1977 suppl $d BOOK $f 1 

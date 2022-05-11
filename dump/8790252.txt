@@ -1,0 +1,54 @@
+LEADER 03463nam a2200661 i 4500
+001 8790252
+003 CaAEU
+006 m     o  d |      
+007 cr cnu||||||||
+008 180222t20162011enka    ob    001 0 eng d
+020    $a 9781134780310 (e-book) 
+020    $z 9781409427131 
+035    $a ocn953858029 
+039    $a exclude 
+040    $a MiAaPQ $b eng $e rda $e pn $c MiAaPQ $d MiAaPQ $d AEU 
+043    $a e-sp--- 
+050  4 $a Z1039.W65 $b .W65 2016 
+082 0  $a 028/.90820946 $2 22 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b ARDC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b AEC 
+245 00 $a Women's literacy in early modern Spain and the New World / $c edited by Anne Cruz and Rosilie Hernández. 
+264  1 $a London, [England] ; $a New York, New York : $b Routledge, $c 2016. 
+264  4 $c ©2011 
+300    $a 1 online resource (274 pages) : $b illustrations, graphs. 
+336    $a text $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+490 1  $a Women and gender in the early modern world 
+504    $a Includes bibliographical references at the end of each chapters and index. 
+506    $a Access restricted to authorized users and institutions. 
+588    $a Description based on print version record. 
+596    $a 6 35 44 57 60 
+650  0 $a Literacy in literature. 
+650  0 $a Women and literature $z Spain $x History $y 16th century. 
+650  0 $a Women $x Books and reading $z Spain $x History. 
+700 1  $a Cruz, Anne J., $e editor. 
+700 1  $a Hernández, Rosilie, $e editor. 
+776 08 $i Print version: $t Women's literacy in early modern Spain and the New World. $d London, [England] ; New York, New York : Routledge, 2016, c2011  $h xii, 274 pages  $k Women and gender in the early modern world. $z 9781409427131  $w 2011000194 
+830  0 $a Women and gender in the early modern world. 
+856 40 $3 Concordia University of Edmonton Access $u https://ebookcentral.proquest.com/lib/concordiaab-ebooks/detail.action?docID=4414814 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Grande Prairie Regional College Access $u https://ebookcentral.proquest.com/lib/gprc-ebooks/detail.action?docID=4414814 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 MacEwan University Access $u https://ebookcentral.proquest.com/lib/macewan-ebooks/detail.action?docID=4414814 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Red Deer Polytechnic Access $u https://ebookcentral.proquest.com/lib/rdc/detail.action?docID=4414814 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 University of Alberta Access $u https://ebookcentral.proquest.com/lib/ualberta/detail.action?docID=4414814 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+949    $h UAIN $z EBCACUA 
+949    $h UAIN $m RED_DEER_C $z EBCACRD 
+949    $h UAIN $m GR_MAC_INT $z EBCACMAC 
+949    $h UAIN $m GPRC_INT $z EBCACGP 
+949    $h UAIN $m CONCORD_IN $z EBCACCN 
+919    $a EBC4414814 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

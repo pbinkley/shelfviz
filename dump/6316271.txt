@@ -1,0 +1,68 @@
+LEADER 04672cam a2200829 a 4500
+001 6316271
+003 CaAEU
+006 m        d        
+007 cr cn|||||||||
+008 110325s2011    ilu     ob    001 0 eng d
+010    $z   2011011853 
+020    $a 9780838985700 $q (alk. paper) 
+020    $a 9780838993149 $q (e-book) 
+020    $a 9780838993149 $q (PDF) 
+020    $a 9780838993156 $q (ePub) 
+020    $a 9780838993163 $q (Mobipocket) 
+020    $a 9780838993170 $q (Kindle) 
+035    $a ocn729166905 
+039    $a exclude 
+040    $a CaPaEBR $c CaPaEBR $d AEU 
+043    $a n-us--- 
+050 14 $a Z1039.C65 $b O9 2011eb 
+082 04 $a 028.5/35 $2 22 
+090    $a Internet Access $b ARDC 
+090    $a Internet Access $b AEVC 
+090    $a Internet Access $b AVC 
+090    $a Internet Access $b AEC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b AEKC 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b AFMK 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b ASAV 
+245 00 $a Outstanding books for the college bound $h [electronic resource] : $b titles and programs for a new generation / $c edited by Angela Carstensen. 
+260    $a Chicago : $b American Library Association, $c 2011. 
+300    $a 1 online resource. 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+490 1  $a YALSA publication 
+504    $a Includes bibliographical references and index. 
+506    $a Access restricted to authorized users and institutions. 
+596    $a 3 6 8 22 31 35 44 57 60 61 
+650  0 $a Best books $z United States. 
+650  0 $a College students $x Books and reading $z United States. 
+650  0 $a Young adults' libraries $x Activity programs $z United States. 
+650  0 $a Young adults' libraries $z United States $v Book lists. 
+650  0 $a Youth $x Books and reading $z United States. 
+700 1  $a Carstensen, Angela. 
+710 2  $a Young Adult Library Services Association. 
+830  0 $a YALSA publication. 
+856 40 $3 Red Deer Polytechnic Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=371763 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 NorQuest College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=371763 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Lakeland College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=371763 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Concordia University of Edmonton Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=371763 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Grande Prairie Regional College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=371763 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Keyano College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=371763 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 King's University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=371763 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 MacEwan University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=371763 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Northern Lakes College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=371763 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 University of Alberta Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=371763 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+949    $h UAIN $m RED_DEER_C $z EBSCORDAC 
+926    $a NORQ_MAIN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KEYANO $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a NLC_SL $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KINGS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a LAKELND_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

@@ -1,0 +1,4601 @@
+[
+  {
+    "id": "7595723",
+    "authors": [
+      "Shawn Anthony Christian"
+    ],
+    "title": "The Harlem Renaissance and the idea of a new Negro reader",
+    "year": "2016",
+    "callnum": "Z1039.B56 C47 2016",
+    "sortkey": "Z001039 B000056 C000047 002016",
+    "hathi": null,
+    "locations": [
+      "RED_DEER_P",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "RED_DEER_P",
+        "status": "FLOOR_2",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "8102942",
+    "authors": [
+      "Shawn Anthony Christian"
+    ],
+    "title": "The Harlem Renaissance and the Idea of a New Negro Reader",
+    "year": "2016",
+    "callnum": "Z1039.B56 C47 2016eb",
+    "sortkey": "Z001039 B000056 C000047 002016eb",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3941627",
+    "authors": [
+      "Karla F. C. Holloway"
+    ],
+    "title": "BookMarks: reading in Black and white: a memoir",
+    "year": "2006",
+    "callnum": "Z1039.B56 H65 2006",
+    "sortkey": "Z001039 B000056 H000065 002006",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4974289",
+    "authors": [
+      "Kathleen A. Baxter",
+      "Marcia Agness Kochel"
+    ],
+    "title": "Gotcha again for guys!: more nonfiction books to get boys excited about reading",
+    "year": "2010",
+    "callnum": "Z1039.B67 B38 2010",
+    "sortkey": "Z001039 B000067 B000038 002010",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3854512",
+    "authors": [
+      "Kathleen A. Baxter",
+      "Marcia Agness Kochel"
+    ],
+    "title": "Gotcha for guys!: nonfiction books to get boys excited about reading",
+    "year": "2007",
+    "callnum": "Z1039.B67 B39 2007",
+    "sortkey": "Z001039 B000067 B000039 002007",
+    "hathi": null,
+    "locations": [
+      "KINGS",
+      "UARCRF",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "KINGS",
+        "status": "CURRICULUM",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3042008",
+    "authors": [
+      "Rachelle Lasky Bilz"
+    ],
+    "title": "Life is tough: guys, growing up, and young adult literature",
+    "year": "2004",
+    "callnum": "Z1039.B67 B55 2004",
+    "sortkey": "Z001039 B000067 B000055 002004",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "5917642",
+    "authors": [
+      "Kathleen A. Baxter",
+      "Marcia Agness Kochel"
+    ],
+    "title": "Get those guys reading!: fiction and series books that boys will love",
+    "year": "2012",
+    "callnum": "Z1039.B67 B377 2012",
+    "sortkey": "Z001039 B000067 B000377 002012",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3193422",
+    "authors": [
+      "Elizabeth Knowles",
+      "Martha Smith"
+    ],
+    "title": "Boys and literacy: practical strategies for librarians, teachers, and parents",
+    "year": "2005",
+    "callnum": "Z1039.B67 K66 2005",
+    "sortkey": "Z001039 B000067 K000066 002005",
+    "hathi": null,
+    "locations": [
+      "KINGS",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "KINGS",
+        "status": "CURRICULUM",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "6863485",
+    "authors": [
+      "Elizabeth Knowles",
+      "Martha Smith"
+    ],
+    "title": "The common core approach to building literacy in boys",
+    "year": "2014",
+    "callnum": "Z1039.B67 K585 2014eb",
+    "sortkey": "Z001039 B000067 K000585 002014eb",
+    "hathi": null,
+    "locations": [
+      "KINGS"
+    ],
+    "holdings": [
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "7716955",
+    "authors": [
+      "Michael Sullivan"
+    ],
+    "title": "Connecting boys with books 2 closing the reading gap",
+    "year": "2009",
+    "callnum": "Z1039.B67 S85 2009",
+    "sortkey": "Z001039 B000067 S000085 002009",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "OLDS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "OLDS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4287183",
+    "authors": [
+      "Michael Sullivan"
+    ],
+    "title": "Connecting boys with books 2: closing the reading gap",
+    "year": "2009",
+    "callnum": "Z1039.B67 S85 2009",
+    "sortkey": "Z001039 B000067 S000085 002009",
+    "hathi": null,
+    "locations": [
+      "UAAUG",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UAAUG",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "5817197",
+    "authors": [
+      "Michael Sullivan"
+    ],
+    "title": "Connecting boys with books 2 closing the reading gap",
+    "year": "2009",
+    "callnum": "Z1039.B67 S85 2009eb",
+    "sortkey": "Z001039 B000067 S000085 002009eb",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "5820572",
+    "authors": [
+      "Michael Sullivan"
+    ],
+    "title": "Serving boys through readers' advisory",
+    "year": "2010",
+    "callnum": "Z1039.B67 S86 2010",
+    "sortkey": "Z001039 B000067 S000086 002010",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "OLDS",
+      "RED_DEER_P",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "OLDS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4462656",
+    "authors": [
+      "Michael Sullivan"
+    ],
+    "title": "Serving boys through readers' advisory",
+    "year": "2010",
+    "callnum": "Z1039.B67 S86 2010",
+    "sortkey": "Z001039 B000067 S000086 002010",
+    "hathi": null,
+    "locations": [
+      "UAAUG",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAAUG",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4170251",
+    "authors": [
+      "Matthew D. Zbaracki"
+    ],
+    "title": "Best books for boys: a resource for educators",
+    "year": "2008",
+    "callnum": "Z1039.B67 Z23 2008",
+    "sortkey": "Z001039 B000067 Z000023 002008",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2434166",
+    "authors": [
+      "John Powell",
+      "Derek W. Blakeley",
+      "Tessa Powell"
+    ],
+    "title": "Biographical dictionary of literary influences: the nineteenth century, 1800-1914",
+    "year": "2001",
+    "callnum": "Z1039.C45 .B56 2001",
+    "sortkey": "Z001039 C000045 B000056 002001",
+    "hathi": null,
+    "locations": [
+      "RED_DEER_P",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "RED_DEER_P",
+        "status": "FLOOR_2",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3023796",
+    "authors": [
+      "John Powell"
+    ],
+    "title": "Dictionary of literary influences: the twentieth century, 1914-2000",
+    "year": "2004",
+    "callnum": "Z1039.C45 D53 2004",
+    "sortkey": "Z001039 C000045 D000053 002004",
+    "hathi": "20421231",
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3859547",
+    "authors": [
+      "Arlene Perly Rae"
+    ],
+    "title": "Everybody's favourites: Canadians talk about books that changed their lives",
+    "year": "1997",
+    "callnum": "Z1039.C45 E94 1997",
+    "sortkey": "Z001039 C000045 E000094 001997",
+    "hathi": null,
+    "locations": [
+      "UARCRF",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "CURRICULUM",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "5086207",
+    "authors": [
+      "Leonard Kniffel"
+    ],
+    "title": "Reading with the stars: a celebration of books and libraries",
+    "year": "20112011",
+    "callnum": "Z1039.C45 K58 2011",
+    "sortkey": "Z001039 C000045 K000058 002011",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "7312767",
+    "authors": [
+      "John Anthony McCrossan"
+    ],
+    "title": "Books and reading in the lives of notable Americans a biographical sourcebook",
+    "year": "2000",
+    "callnum": "Z1039.C45 M34 2000",
+    "sortkey": "Z001039 C000045 M000034 002000",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "OLDS",
+      "RED_DEER_P",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "OLDS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4044834",
+    "authors": [
+      "Susan Steffensen Romaine"
+    ],
+    "title": "Readers and leaders",
+    "year": "2007",
+    "callnum": "Z1039.C45 R66 2007",
+    "sortkey": "Z001039 C000045 R000066 002007",
+    "hathi": null,
+    "locations": [
+      "UARCRF",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "8332653",
+    "authors": [
+      "Karen Swallow Prior"
+    ],
+    "title": "On Reading Well Finding the Good Life Through Great Books",
+    "year": "2018",
+    "callnum": "Z1039.C47 ",
+    "sortkey": "Z001039 C000047 ",
+    "hathi": null,
+    "locations": [
+      "UAINTERNET"
+    ],
+    "holdings": [
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "8358438",
+    "authors": [
+      "Karen Swallow Prior",
+      "Ned Bustard",
+      "Leland Ryken"
+    ],
+    "title": "On reading well: finding the good life through great books",
+    "year": "2018",
+    "callnum": "Z1039.C47 P75 2018",
+    "sortkey": "Z001039 C000047 P000075 002018",
+    "hathi": null,
+    "locations": [
+      "KINGS"
+    ],
+    "holdings": [
+      {
+        "location": "KINGS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "840808",
+    "authors": [
+      "James Atlas"
+    ],
+    "title": "Battle of the books",
+    "year": "1992",
+    "callnum": "Z1039.C65 A74 1992",
+    "sortkey": "Z001039 C000065 A000074 001992",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "588010",
+    "authors": [
+      "Association of College and Research Libraries"
+    ],
+    "title": "Books for college libraries:",
+    "year": "1988",
+    "callnum": "Z1039.C65 B67 1988",
+    "sortkey": "Z001039 C000065 B000067 001988",
+    "hathi": null,
+    "locations": [
+      "CONCORDIA",
+      "CONCORDIA",
+      "CONCORDIA",
+      "CONCORDIA",
+      "CONCORDIA",
+      "CONCORDIA",
+      "UARCRF",
+      "UARCRF",
+      "UARCRF",
+      "UARCRF",
+      "UARCRF",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "CONCORDIA",
+        "status": "REFERENCE",
+        "type": "NO_LOAN",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORDIA",
+        "status": "REFERENCE",
+        "type": "NO_LOAN",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORDIA",
+        "status": "REFERENCE",
+        "type": "NO_LOAN",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORDIA",
+        "status": "REFERENCE",
+        "type": "NO_LOAN",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORDIA",
+        "status": "REFERENCE",
+        "type": "NO_LOAN",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORDIA",
+        "status": "REFERENCE",
+        "type": "NO_LOAN",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "8980528",
+    "authors": [
+      "Mar Campos Fernández-Fígares",
+      "Eloy Martos Núñez"
+    ],
+    "title": "Cartografías lectoras y otros estudios de lectura",
+    "year": "2014",
+    "callnum": "Z1039.C65 C37 2014eb",
+    "sortkey": "Z001039 C000065 C000037 002014eb",
+    "hathi": null,
+    "locations": [
+      "UAINTERNET"
+    ],
+    "holdings": [
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2228046",
+    "authors": [
+      "Emmanuel Fraisse"
+    ],
+    "title": "Les Etudiants et la lecture",
+    "year": "1993",
+    "callnum": "Z1039.C65 E88 1993",
+    "sortkey": "Z001039 C000065 E000088 001993",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2255370",
+    "authors": [
+      "Jack Hall",
+      "Victoria Cheponis Lessard"
+    ],
+    "title": "The vocational-technical core collection",
+    "year": "1984",
+    "callnum": "Z1039.C65 H34",
+    "sortkey": "Z001039 C000065 H000034",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "393481",
+    "authors": [
+      "Jack Hall",
+      "Victoria Cheponis Lessard"
+    ],
+    "title": "The vocational-technical core collection",
+    "year": "1981",
+    "callnum": "Z1039.C65 H34",
+    "sortkey": "Z001039 C000065 H000034",
+    "hathi": null,
+    "locations": [
+      "UARCRF",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3859838",
+    "authors": [
+      "Young Adult Library Services Association"
+    ],
+    "title": "More outstanding books for the college bound",
+    "year": "2005",
+    "callnum": "Z1039.C65 M67 2005",
+    "sortkey": "Z001039 C000065 M000067 002005",
+    "hathi": null,
+    "locations": [
+      "KINGS"
+    ],
+    "holdings": [
+      {
+        "location": "KINGS",
+        "status": "CURRICULUM",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "8714485",
+    "authors": [
+      "Young Adult Library Services Association"
+    ],
+    "title": "More outstanding books for the college bound",
+    "year": "2005",
+    "callnum": "Z1039.C65 M67 2005eb",
+    "sortkey": "Z001039 C000065 M000067 002005eb",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "7759130",
+    "authors": [
+      "Young Adult Library Services Association"
+    ],
+    "title": "More outstanding books for the college bound",
+    "year": "2006",
+    "callnum": "Z1039.C65 M67 2006",
+    "sortkey": "Z001039 C000065 M000067 002006",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "OLDS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "OLDS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "1785677",
+    "authors": [
+      "Marjorie Lewis",
+      "Young Adult Library Services Association"
+    ],
+    "title": "Outstanding books for the college bound: choices for a generation",
+    "year": "1996",
+    "callnum": "Z1039.C65 O9 1996",
+    "sortkey": "Z001039 C000065 O000009 001996",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "5782465",
+    "authors": [
+      "Marjorie Lewis",
+      "Young Adult Library Services Association"
+    ],
+    "title": "Outstanding books for the college bound choices for a generation",
+    "year": "1996",
+    "callnum": "Z1039.C65 O9 1996eb",
+    "sortkey": "Z001039 C000065 O000009 001996eb",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "7725327",
+    "authors": [
+      "Angela Carstensen",
+      "Young Adult Library Services Association"
+    ],
+    "title": "Outstanding books for the college bound titles and programs for a new generation",
+    "year": "2011",
+    "callnum": "Z1039.C65 O9 2011",
+    "sortkey": "Z001039 C000065 O000009 002011",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "OLDS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "OLDS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "5485716",
+    "authors": [
+      "Angela Carstensen",
+      "Young Adult Library Services Association"
+    ],
+    "title": "Outstanding books for the college bound: titles and programs for a new generation",
+    "year": "2011",
+    "callnum": "Z1039.C65 O9 2011",
+    "sortkey": "Z001039 C000065 O000009 002011",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "6316271",
+    "authors": [
+      "Angela Carstensen",
+      "Young Adult Library Services Association"
+    ],
+    "title": "Outstanding books for the college bound titles and programs for a new generation",
+    "year": "2011",
+    "callnum": "Z1039.C65 O9 2011eb",
+    "sortkey": "Z001039 C000065 O000009 002011eb",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "544838",
+    "authors": [
+      "Germany) Internationale Jugendbibliothek (Munich"
+    ],
+    "title": "Bibliography of books for handicapped children",
+    "year": "1981",
+    "callnum": "Z1039.D5 B5 1981",
+    "sortkey": "Z001039 D000005 B000005 001981",
+    "hathi": null,
+    "locations": [
+      "UAHSS",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "354720",
+    "authors": [
+      "Barbara Holland Baskin",
+      "Karen H. Harris",
+      "Paula Hauser",
+      "Gail A. Nelson"
+    ],
+    "title": "Books for the gifted child",
+    "year": "19801988",
+    "callnum": "Z1039.G55 B37",
+    "sortkey": "Z001039 G000055 B000037",
+    "hathi": null,
+    "locations": [
+      "UAAUG",
+      "GPRC_GP",
+      "UARCRF",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UAAUG",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_GP",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "3"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "2"
+      }
+    ]
+  },
+  {
+    "id": "581725",
+    "authors": [
+      "Judith Wynn Halsted"
+    ],
+    "title": "Guiding gifted readers: from preschool through high school: a handbook for parents, teachers, counselors, and librarians",
+    "year": "1988",
+    "callnum": "Z1039.G55 H34 1988",
+    "sortkey": "Z001039 G000055 H000034 001988",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2745742",
+    "authors": [
+      "Judith Wynn Halsted",
+      "Judith Wynn Halsted"
+    ],
+    "title": "Some of my best friends are books: guiding gifted readers from preschool to high school",
+    "year": "2002",
+    "callnum": "Z1039.G55 H35 2002",
+    "sortkey": "Z001039 G000055 H000035 002002",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4423649",
+    "authors": [
+      "Judith Wynn Halsted"
+    ],
+    "title": "Some of my best friends are books: guiding gifted readers from preschool to high school",
+    "year": "2009",
+    "callnum": "Z1039.G55 H35 2009",
+    "sortkey": "Z001039 G000055 H000035 002009",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "752760",
+    "authors": [
+      "Nancy Polette"
+    ],
+    "title": "Books and real life: a guide for gifted students and teachers",
+    "year": "1984",
+    "callnum": "Z1039.G55 P63 1984",
+    "sortkey": "Z001039 G000055 P000063 001984",
+    "hathi": "20421231",
+    "locations": [
+      "RED_DEER_P",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "RED_DEER_P",
+        "status": "FLOOR_2",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "330023",
+    "authors": [
+      "Nancy Polette",
+      "Marjorie Hamlin"
+    ],
+    "title": "Exploring books with gifted children",
+    "year": "1980",
+    "callnum": "Z1039.G55 P64",
+    "sortkey": "Z001039 G000055 P000064",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4398354",
+    "authors": [
+      "Nancy Polette"
+    ],
+    "title": "Gifted biographies, gifted readers!: higher order thinking with picture book biographies",
+    "year": "2009",
+    "callnum": "Z1039.G55 P65 2009",
+    "sortkey": "Z001039 G000055 P000065 002009",
+    "hathi": null,
+    "locations": [
+      "UARCRF",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2901795",
+    "authors": [
+      "Holly Virginia Blackford"
+    ],
+    "title": "Out of this world: why literature matters to girls",
+    "year": "2004",
+    "callnum": "Z1039.G57 B58 2004",
+    "sortkey": "Z001039 G000057 B000058 002004",
+    "hathi": null,
+    "locations": [
+      "CONCORDIA",
+      "KINGS",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "CONCORDIA",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "8627239",
+    "authors": [
+      "Mary Ann Harlan"
+    ],
+    "title": "The girl-positive library: inspiring confidence, creativity, and curiosity in young women",
+    "year": "2019",
+    "callnum": "Z1039.G57 H37 2019",
+    "sortkey": "Z001039 G000057 H000037 002019",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "1184616",
+    "authors": [
+      "Frank M. Gardner",
+      "Marigold Joy Lewis",
+      "International Federation of Library Associations"
+    ],
+    "title": "Reading round the world; a set of international reading lists",
+    "year": "1969",
+    "callnum": "Z1039.H7 R4 1969",
+    "sortkey": "Z001039 H000007 R000004 001969",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4745475",
+    "authors": [
+      "Alberta"
+    ],
+    "title": "Choix de romans",
+    "year": "1985",
+    "callnum": "Z1039.H54 C49 1985",
+    "sortkey": "Z001039 H000054 C000049 001985",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "READONSITE",
+        "type": "NO_LOAN",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2939834",
+    "authors": [
+      "Rick Ayers",
+      "Amy Crawford"
+    ],
+    "title": "Great books for high school kids: a teacher's guide to books that can change teens' lives",
+    "year": "2004",
+    "callnum": "Z1039.H54 G74 2004",
+    "sortkey": "Z001039 H000054 G000074 002004",
+    "hathi": null,
+    "locations": [
+      "RED_DEER_P",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "RED_DEER_P",
+        "status": "FLOOR_2",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2014058",
+    "authors": [
+      "David Shavit"
+    ],
+    "title": "Hunger for the printed word: books and libraries in the Jewish ghettos of Nazi-occupied Europe",
+    "year": "1997",
+    "callnum": "Z1039 J48 S53 1997",
+    "sortkey": "Z001039 J000048 S000053 001997",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "CHECKEDOUT",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "7439384",
+    "authors": [
+      "Linda R. Silver"
+    ],
+    "title": "Best Jewish books for children and teens",
+    "year": "2010",
+    "callnum": "Z1039.J48 S55 2010",
+    "sortkey": "Z001039 J000048 S000055 002010",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "5080962",
+    "authors": [
+      "Linda R. Silver"
+    ],
+    "title": "Best Jewish books for children and teens",
+    "year": "2010",
+    "callnum": "Z1039.J48 S55 2010",
+    "sortkey": "Z001039 J000048 S000055 002010",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2599239",
+    "authors": [
+      "Jonathan Rose"
+    ],
+    "title": "The intellectual life of the British working classes",
+    "year": "2001",
+    "callnum": "Z1039.L3 R67 2001",
+    "sortkey": "Z001039 L000003 R000067 002001",
+    "hathi": null,
+    "locations": [
+      "GR_MACEWAN",
+      "UARCRF",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "GR_MACEWAN",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "READONSITE",
+        "type": "NO_LOAN",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "CHECKEDOUT",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "7318912",
+    "authors": [
+      "Jonathan Rose"
+    ],
+    "title": "The intellectual life of the British working classes",
+    "year": "2001",
+    "callnum": "Z1039.L3 R67 2001eb",
+    "sortkey": "Z001039 L000003 R000067 002001eb",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "7786335",
+    "authors": [
+      "Jonathan Rose"
+    ],
+    "title": "The intellectual life of the British working classes",
+    "year": "2010",
+    "callnum": "Z1039.L3 .R67 2010",
+    "sortkey": "Z001039 L000003 R000067 002010",
+    "hathi": null,
+    "locations": [
+      "CONCORD_IN",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT"
+    ],
+    "holdings": [
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4845210",
+    "authors": [
+      "Jonathan Rose"
+    ],
+    "title": "The intellectual life of the British working classes",
+    "year": "2010",
+    "callnum": "Z1039.L3 R67 2010",
+    "sortkey": "Z001039 L000003 R000067 002010",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "567371",
+    "authors": [
+      "Robert Allen Rutland",
+      "Center for the Book"
+    ],
+    "title": "\"Well acquainted with books\": the founding framers of 1787: with James Madison's list of books for Congress",
+    "year": "1987",
+    "callnum": "Z1039.L4 R87 1987",
+    "sortkey": "Z001039 L000004 R000087 001987",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "1184618",
+    "authors": [
+      "Thomas S. Murdoch"
+    ],
+    "title": "Suggested book list for the mentally retarded",
+    "year": "1967",
+    "callnum": "Z1039 .M4M8",
+    "sortkey": "Z001039 M000004M000008",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "7651683",
+    "authors": [
+      "Manuel M. Martín-Rodríguez"
+    ],
+    "title": "With a book in their hands: Chicano/a readers and readerships across the centuries",
+    "year": "2014",
+    "callnum": "Z1039.M5 .W58 2014",
+    "sortkey": "Z001039 M000005 W000058 002014",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "OLDS",
+      "RED_DEER_P",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "UAINTERNET",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "OLDS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "3"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "9655624",
+    "authors": [
+      "Donna L. Gilton"
+    ],
+    "title": "Multicultural and ethnic children's literature in the United States",
+    "year": "2007",
+    "callnum": "Z1039.M56 ",
+    "sortkey": "Z001039 M000056 ",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3991346",
+    "authors": [
+      "Donna L. Gilton"
+    ],
+    "title": "Multicultural and ethnic children's literature in the United States",
+    "year": "2007",
+    "callnum": "Z1039.M56 G55 2007",
+    "sortkey": "Z001039 M000056 G000055 002007",
+    "hathi": "20421231",
+    "locations": [
+      "GPRC_GP",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "GPRC_GP",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "9561909",
+    "authors": [
+      "Donna L. Gilton"
+    ],
+    "title": "Multicultural and ethnic children's literature in the United States",
+    "year": "2020",
+    "callnum": "Z1039.M56 G55 2020",
+    "sortkey": "Z001039 M000056 G000055 002020",
+    "hathi": null,
+    "locations": [
+      "GR_MAC_INT"
+    ],
+    "holdings": [
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "9183419",
+    "authors": [
+      "Donna L. Gilton"
+    ],
+    "title": "Multicultural and ethnic children's literature in the United States",
+    "year": "2020",
+    "callnum": "Z1039.M56 G55 2020",
+    "sortkey": "Z001039 M000056 G000055 002020",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2082770",
+    "authors": [
+      "Marguerite Crowley Weibel"
+    ],
+    "title": "Choosing & using books with adult new readers",
+    "year": "1996",
+    "callnum": "Z1039.N47 W45 1996",
+    "sortkey": "Z001039 N000047 W000045 001996",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "749547",
+    "authors": [
+
+    ],
+    "title": "Choices",
+    "year": "1983",
+    "callnum": "Z1039.S5 C47",
+    "sortkey": "Z001039 S000005 C000047",
+    "hathi": null,
+    "locations": [
+      "UARCRF",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "884549",
+    "authors": [
+      "J. A. Hart",
+      "James Albert Richardson"
+    ],
+    "title": "Books for the retarded reader; a teacher's guide to books for backward children",
+    "year": "1966",
+    "callnum": "Z1039.S5 H3 1966",
+    "sortkey": "Z001039 S000005 H000003 001966",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "3"
+      }
+    ]
+  },
+  {
+    "id": "884288",
+    "authors": [
+      "J. A. Hart",
+      "James Albert Richardson"
+    ],
+    "title": "Books for the retarded reader",
+    "year": "1971",
+    "callnum": "Z1039.S5 H32 1971",
+    "sortkey": "Z001039 S000005 H000032 001971",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "843478",
+    "authors": [
+      "James Albert Richardson",
+      "J. A. Hart",
+      "F. T. Caust"
+    ],
+    "title": "Books for the retarded reader",
+    "year": "1977",
+    "callnum": "Z1039.S5 H32 1973",
+    "sortkey": "Z001039 S000005 H000032 001973",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "850483",
+    "authors": [
+      "Ellen V. LiBretto"
+    ],
+    "title": "High/low handbook: books, materials, and services for the problem reader",
+    "year": "1985",
+    "callnum": "Z1039.S5 H54 1985",
+    "sortkey": "Z001039 S000005 H000054 001985",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "1338268",
+    "authors": [
+      "Ellen V. LiBretto"
+    ],
+    "title": "High/low handbook: encouraging literacy in the 1990s",
+    "year": "1990",
+    "callnum": "Z1039.S5 H54 1990",
+    "sortkey": "Z001039 S000005 H000054 001990",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "1753529",
+    "authors": [
+      "Hugh Agee"
+    ],
+    "title": "High interest easy reading: for junior and senior high school students",
+    "year": "1984",
+    "callnum": "Z1039.S5 N4 1984",
+    "sortkey": "Z001039 S000005 N000004 001984",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "621472",
+    "authors": [
+      "Dorothy Matthews"
+    ],
+    "title": "High interest easy reading: for junior and senior high school students",
+    "year": "1988",
+    "callnum": "Z1039.S5 N4 1988",
+    "sortkey": "Z001039 S000005 N000004 001988",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "1394824",
+    "authors": [
+      "William G. McBride"
+    ],
+    "title": "High interest easy reading: a booklist for junior and senior high school students",
+    "year": "1990",
+    "callnum": "Z1039.S5 N4 1990",
+    "sortkey": "Z001039 S000005 N000004 001990",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2077751",
+    "authors": [
+      "Patricia Phelan"
+    ],
+    "title": "High interest easy reading: an annotated booklist for middle school and senior high school",
+    "year": "1996",
+    "callnum": "Z1039.S5 N38 1996",
+    "sortkey": "Z001039 S000005 N000038 001996",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "339452",
+    "authors": [
+
+    ],
+    "title": "NICSEM mini-index to special education materials: high interest, controlled vocabulary supplementary reading materials for adolescents and young adults",
+    "year": "1980",
+    "callnum": "Z1039.S5 N43 1980",
+    "sortkey": "Z001039 S000005 N000043 001980",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3078087",
+    "authors": [
+      "Marianne Laino Pilla"
+    ],
+    "title": "The best: high/low books for reluctant readers",
+    "year": "1990",
+    "callnum": "Z1039.S5 P53 1990",
+    "sortkey": "Z001039 S000005 P000053 001990",
+    "hathi": null,
+    "locations": [
+      "LAKELND_LL"
+    ],
+    "holdings": [
+      {
+        "location": "LAKELND_LL",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "1324571",
+    "authors": [
+      "Marianne Laino Pilla"
+    ],
+    "title": "The best: high/low books for reluctant readers",
+    "year": "1990",
+    "callnum": "Z1039.S5 P53 1990",
+    "sortkey": "Z001039 S000005 P000053 001990",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "953500",
+    "authors": [
+      "Marianne Laino Pilla"
+    ],
+    "title": "Resources for middle-grade reluctant readers: a guide for librarians",
+    "year": "1987",
+    "callnum": "Z1039.S5 P54 1987",
+    "sortkey": "Z001039 S000005 P000054 001987",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "1350738",
+    "authors": [
+      "Randall J. Ryder",
+      "Bonnie B. Graves",
+      "Michael F. Graves"
+    ],
+    "title": "Easy reading: book series and periodicals for less able readers",
+    "year": "1989",
+    "callnum": "Z1039.S5 R93 1989",
+    "sortkey": "Z001039 S000005 R000093 001989",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "573726",
+    "authors": [
+      "Joyce Nakamura"
+    ],
+    "title": "High-interest books for teens: a guide to book reviews and biographical sources",
+    "year": "1988",
+    "callnum": "Z1039.S5 S27",
+    "sortkey": "Z001039 S000005 S000027",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "392787",
+    "authors": [
+      "Adele Sarkissian"
+    ],
+    "title": "High-interest books for teens: a guide to book reviews and biographical sources",
+    "year": "1981",
+    "callnum": "Z1039.S5 S27",
+    "sortkey": "Z001039 S000005 S000027",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "332106",
+    "authors": [
+      "Helen Elizabeth Williams"
+    ],
+    "title": "The high/low consensus",
+    "year": "1980",
+    "callnum": "Z1039.S5 W56",
+    "sortkey": "Z001039 S000005 W000056",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "1102529",
+    "authors": [
+      "Beverly S. Young",
+      "Linda Vande Garde"
+    ],
+    "title": "A bibliography of high interest-low vocabulary books",
+    "year": "1967",
+    "callnum": "Z1039.S5 Y57",
+    "sortkey": "Z001039 S000005 Y000057",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3028494",
+    "authors": [
+      "Daniel J. Miller",
+      "Terry Belanger",
+      "Book Arts Press",
+      "University of Virginia"
+    ],
+    "title": "Books go to war: Armed Services Editions in World War II",
+    "year": "1996",
+    "callnum": "Z1039.S6 B66 1996",
+    "sortkey": "Z001039 S000006 B000066 001996",
+    "hathi": null,
+    "locations": [
+      "UASPCOLL",
+      "UASPCOLL"
+    ],
+    "holdings": [
+      {
+        "location": "UASPCOLL",
+        "status": "READONSITE",
+        "type": "NO_LOAN",
+        "copy": "1"
+      },
+      {
+        "location": "UASPCOLL",
+        "status": "READONSITE",
+        "type": "NO_LOAN",
+        "copy": "2"
+      }
+    ]
+  },
+  {
+    "id": "6699825",
+    "authors": [
+      "Benjamin Gilles",
+      "France"
+    ],
+    "title": "Lectures de poilus: livres et journaux dans les tranchées: 1914-1918",
+    "year": "2013",
+    "callnum": "Z1039.S6 G55 2013",
+    "sortkey": "Z001039 S000006 G000055 002013",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "1765231",
+    "authors": [
+      "David Kaser"
+    ],
+    "title": "Books and libraries in camp and battle: the Civil War experience",
+    "year": "1984",
+    "callnum": "Z1039.S6 K37 1984",
+    "sortkey": "Z001039 S000006 K000037 001984",
+    "hathi": "20421231",
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "1062222",
+    "authors": [
+      "Lois B. Nazzaro"
+    ],
+    "title": "Annotated bibliography, January 1, 1971",
+    "year": "1971",
+    "callnum": "Z1039.S55 P47 1971",
+    "sortkey": "Z001039 S000055 P000047 001971",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "2"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "356801",
+    "authors": [
+      "Melissa R. Forinash"
+    ],
+    "title": "Reader development bibliography",
+    "year": "1977",
+    "callnum": "Z1039.S55 P47 1977",
+    "sortkey": "Z001039 S000055 P000047 001977",
+    "hathi": null,
+    "locations": [
+      "UARCRF",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "877685",
+    "authors": [
+      "Lois Belfield Watt"
+    ],
+    "title": "Literature for disadvantaged children: a bibliography",
+    "year": "1968",
+    "callnum": "Z1039.S55 W3",
+    "sortkey": "Z001039 S000055 W000003",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3656274",
+    "authors": [
+      "Margaret Mackey",
+      "Ingrid Johnston",
+      "James Nahachewsky",
+      "University of Alberta"
+    ],
+    "title": "Adult Canadian books for strong teenage readers: published to mark the 10th anniversary of the Resource links column",
+    "year": "2006",
+    "callnum": "Z1039.T44 M33 2006",
+    "sortkey": "Z001039 T000044 M000033 002006",
+    "hathi": null,
+    "locations": [
+      "UARCRF",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "2"
+      }
+    ]
+  },
+  {
+    "id": "8960779",
+    "authors": [
+      "Helen Taylor"
+    ],
+    "title": "Why women read fiction: the stories of our lives",
+    "year": "2019",
+    "callnum": "Z1039.W65 ",
+    "sortkey": "Z001039 W000065 ",
+    "hathi": null,
+    "locations": [
+      "UAINTERNET"
+    ],
+    "holdings": [
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "6424656",
+    "authors": [
+      "Laure Adler",
+      "Stefan Bollmann"
+    ],
+    "title": "Les femmes qui lisent sont de plus en plus dangereuses",
+    "year": "2011",
+    "callnum": "Z1039.W65 A3514 2011",
+    "sortkey": "Z001039 W000065 A003514 002011",
+    "hathi": null,
+    "locations": [
+      "UABSJ"
+    ],
+    "holdings": [
+      {
+        "location": "UABSJ",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3601282",
+    "authors": [
+      "Robert Gary Babcock",
+      "Beinecke Rare Book and Manuscript Library"
+    ],
+    "title": "A book of her own: an exhibition of manuscripts and printed books in the Yale University Library that were owned by women before 1700",
+    "year": "2005",
+    "callnum": "Z1039.W65 B33 2005",
+    "sortkey": "Z001039 W000065 B000033 002005",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "783010",
+    "authors": [
+      "Linda K. Christian-Smith"
+    ],
+    "title": "Becoming a woman through romance",
+    "year": "1990",
+    "callnum": "Z1039.W65 C47 1990",
+    "sortkey": "Z001039 W000065 C000047 001990",
+    "hathi": "20421231",
+    "locations": [
+      "UAAUG",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAAUG",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2155790",
+    "authors": [
+      "Kate Flint"
+    ],
+    "title": "The woman reader, 1837-1914",
+    "year": "1993",
+    "callnum": "Z1039.W65 F57 1993",
+    "sortkey": "Z001039 W000065 F000057 001993",
+    "hathi": null,
+    "locations": [
+      "CONCORDIA",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "CONCORDIA",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "911745",
+    "authors": [
+      "Elizabeth A. Flynn",
+      "Patrocinio P. Schweickart"
+    ],
+    "title": "Gender and reading: essays on readers, texts, and contexts",
+    "year": "1986",
+    "callnum": "Z1039.W65 G46 1986",
+    "sortkey": "Z001039 W000065 G000046 001986",
+    "hathi": "20421231",
+    "locations": [
+      "KINGS",
+      "UARCRF",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "KINGS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "2"
+      }
+    ]
+  },
+  {
+    "id": "4076655",
+    "authors": [
+      "D. H. Green"
+    ],
+    "title": "Women readers in the Middle Ages",
+    "year": "2007",
+    "callnum": "Z1039.W65 G74 2007",
+    "sortkey": "Z001039 W000065 G000074 002007",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2675670",
+    "authors": [
+      "Walter Hofmann"
+    ],
+    "title": "Die Lektüre der Frau; ein Beitrag zur Leserkunde und zur Leserführung,",
+    "year": "1931",
+    "callnum": "Z1039.W65 H64 1931",
+    "sortkey": "Z001039 W000065 H000064 001931",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "5779890",
+    "authors": [
+      "Belinda Elizabeth Jack"
+    ],
+    "title": "The woman reader",
+    "year": "2012",
+    "callnum": "Z1039.W65 J33 2012",
+    "sortkey": "Z001039 W000065 J000033 002012",
+    "hathi": null,
+    "locations": [
+      "UAAUG",
+      "GPRC_GP",
+      "RED_DEER_P",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAAUG",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_GP",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "FLOOR_2",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "6781143",
+    "authors": [
+      "Belinda Elizabeth Jack"
+    ],
+    "title": "The woman reader",
+    "year": "2012",
+    "callnum": "Z1039.W65 J33 2012eb",
+    "sortkey": "Z001039 W000065 J000033 002012eb",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "9366040",
+    "authors": [
+      "Marisa Palacios Knox"
+    ],
+    "title": "Victorian women and wayward reading: crises of identification",
+    "year": "2021",
+    "callnum": "Z1039.W65 K56 2021",
+    "sortkey": "Z001039 W000065 K000056 002021",
+    "hathi": null,
+    "locations": [
+      "UAINTERNET"
+    ],
+    "holdings": [
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4247599",
+    "authors": [
+      "Ewa Kraskowska"
+    ],
+    "title": "Czytelnik jako kobieta: wokół literatury i teorii",
+    "year": "2007",
+    "callnum": "Z1039.W65 K73 2007",
+    "sortkey": "Z001039 W000065 K000073 002007",
+    "hathi": "20421231",
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "3532684",
+    "authors": [
+      "María Luisa López-Vidriero",
+      "British Library"
+    ],
+    "title": "The polished cornerstone of the Temple: queenly libraries of the enlightenment",
+    "year": "2005",
+    "callnum": "Z1039.W65 L66 2005",
+    "sortkey": "Z001039 W000065 L000066 002005",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "7490896",
+    "authors": [
+      "María Luisa López-Vidriero",
+      "British Library"
+    ],
+    "title": "The polished cornerstone of the temple: queenly libraries of the Enlightenment",
+    "year": "2005",
+    "callnum": "Z1039.W65 L67 2005",
+    "sortkey": "Z001039 W000065 L000067 002005",
+    "hathi": null,
+    "locations": [
+      "CONCORD_IN",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT"
+    ],
+    "holdings": [
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      }
+    ]
+  },
+  {
+    "id": "2331971",
+    "authors": [
+      "Janice A. Radway"
+    ],
+    "title": "Reading the romance: women, patriarchy, and popular literature",
+    "year": "1984",
+    "callnum": "Z1039.W65 R32 1984",
+    "sortkey": "Z001039 W000065 R000032 001984",
+    "hathi": null,
+    "locations": [
+      "UAAUG",
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UAAUG",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "7738117",
+    "authors": [
+      "Janice A. Radway"
+    ],
+    "title": "Reading the romance women, patriarchy, and popular literature",
+    "year": "1991",
+    "callnum": "Z1039.W65 R32 1991",
+    "sortkey": "Z001039 W000065 R000032 001991",
+    "hathi": null,
+    "locations": [
+      "CONCORD_IN",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT"
+    ],
+    "holdings": [
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2135920",
+    "authors": [
+      "Janice A. Radway"
+    ],
+    "title": "Reading the romance: women, patriarchy, and popular literature",
+    "year": "1991",
+    "callnum": "Z1039.W65 R32 1991",
+    "sortkey": "Z001039 W000065 R000032 001991",
+    "hathi": null,
+    "locations": [
+      "UAAUG",
+      "UAHSS",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAAUG",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "CHECKEDOUT",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "2"
+      }
+    ]
+  },
+  {
+    "id": "6486589",
+    "authors": [
+      "Janice A. Radway"
+    ],
+    "title": "Reading the romance women, patriarchy, and popular literature",
+    "year": "1991",
+    "callnum": "Z1039.W65 R32 1991eb",
+    "sortkey": "Z001039 W000065 R000032 001991eb",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "7786963",
+    "authors": [
+      "Heidi Brayman Hackel",
+      "Catherine E. Kelly"
+    ],
+    "title": "Reading women literacy, authorship, and culture in the Atlantic world, 1500-1800",
+    "year": "2008",
+    "callnum": "Z1039.W65 R43 2008",
+    "sortkey": "Z001039 W000065 R000043 002008",
+    "hathi": null,
+    "locations": [
+      "CONCORD_IN",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT"
+    ],
+    "holdings": [
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4059994",
+    "authors": [
+      "Heidi Brayman Hackel",
+      "Catherine E. Kelly"
+    ],
+    "title": "Reading women: literacy, authorship, and culture in the Atlantic world, 1500-1800",
+    "year": "2008",
+    "callnum": "Z1039.W65 R43 2008",
+    "sortkey": "Z001039 W000065 R000043 002008",
+    "hathi": null,
+    "locations": [
+      "UAAUG",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAAUG",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4868296",
+    "authors": [
+      "Barbara Sicherman"
+    ],
+    "title": "Well-read lives how books inspired a generation of American women",
+    "year": "2010",
+    "callnum": "Z1039.W65 S53 2010",
+    "sortkey": "Z001039 W000065 S000053 002010",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "OLDS",
+      "RED_DEER_P",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "UAINTERNET",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "3"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "3"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "OLDS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "3"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "2"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "3"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "3"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "3"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4574816",
+    "authors": [
+      "Barbara Sicherman"
+    ],
+    "title": "Well-read lives: how books inspired a generation of American women",
+    "year": "2010",
+    "callnum": "Z1039.W65 S53 2010",
+    "sortkey": "Z001039 W000065 S000053 002010",
+    "hathi": null,
+    "locations": [
+      "UAAUG",
+      "RED_DEER_P",
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAAUG",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "FLOOR_2",
+        "type": "BOOK",
+        "copy": "1"
+      },
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "9235981",
+    "authors": [
+      "Leah Knight",
+      "Micheline White",
+      "Elizabeth Sauer"
+    ],
+    "title": "Women's bookscapes in early modern Britain: reading, ownership, circulation",
+    "year": "2018",
+    "callnum": "Z1039.W65 W63 2018",
+    "sortkey": "Z001039 W000065 W000063 002018",
+    "hathi": null,
+    "locations": [
+      "UAINTERNET"
+    ],
+    "holdings": [
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "5601496",
+    "authors": [
+      "Anne J. Cruz",
+      "Rosilie Hernández"
+    ],
+    "title": "Women's literacy in early modern Spain and the new world",
+    "year": "2011",
+    "callnum": "Z1039.W65 W65 2011",
+    "sortkey": "Z001039 W000065 W000065 002011",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "8790252",
+    "authors": [
+      "Anne J. Cruz",
+      "Rosilie Hernández"
+    ],
+    "title": "Women's literacy in early modern Spain and the New World",
+    "year": "2011",
+    "callnum": "Z1039.W65 .W65 2016",
+    "sortkey": "Z001039 W000065 W000065 002016",
+    "hathi": null,
+    "locations": [
+      "CONCORD_IN",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT"
+    ],
+    "holdings": [
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "4513864",
+    "authors": [
+      "Jessica Zellers"
+    ],
+    "title": "Women's nonfiction: a guide to reading interests",
+    "year": "2009",
+    "callnum": "Z1039.W65 Z45 2009",
+    "sortkey": "Z001039 W000065 Z000045 002009",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "447199",
+    "authors": [
+      "Frank Atkinson"
+    ],
+    "title": "Dictionary of literary pseudonyms: a selection of popular modern writers in English",
+    "year": "1982",
+    "callnum": "Z1041 .A84 1977",
+    "sortkey": "Z001041 A000084 001977",
+    "hathi": "20421231",
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "384755",
+    "authors": [
+      "Susannah Bates"
+    ],
+    "title": "The PENDEX: an index of pen names and house names in fantastic, thriller, and series literature",
+    "year": "1981",
+    "callnum": "Z1041 .B37",
+    "sortkey": "Z001041 B000037",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "2078474",
+    "authors": [
+      "Andrew Bauer"
+    ],
+    "title": "The Hawthorn dictionary of pseudonyms,",
+    "year": "1971",
+    "callnum": "Z1041 .B38",
+    "sortkey": "Z001041 B000038",
+    "hathi": null,
+    "locations": [
+      "UARCRF"
+    ],
+    "holdings": [
+      {
+        "location": "UARCRF",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "1851970",
+    "authors": [
+      "Andrew Bauer"
+    ],
+    "title": "The Hawthorn dictionary of pseudonyms,",
+    "year": "1971",
+    "callnum": "Z1041 .B38",
+    "sortkey": "Z001041 B000038",
+    "hathi": "20421231",
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "9606078",
+    "authors": [
+      "Carty"
+    ],
+    "title": "A dictionary of literary pseudonyms in the English language",
+    "year": "2014",
+    "callnum": "Z1041 .C37 2014",
+    "sortkey": "Z001041 C000037 002014",
+    "hathi": null,
+    "locations": [
+      "NORQ_MAIN",
+      "CONCORD_IN",
+      "KEYANO",
+      "NLC_SL",
+      "KINGS",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT",
+      "LAKELND_IN"
+    ],
+    "holdings": [
+      {
+        "location": "NORQ_MAIN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KEYANO",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "NLC_SL",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "KINGS",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "LAKELND_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "9526767",
+    "authors": [
+      "T. J. Carty"
+    ],
+    "title": "A dictionary of literary pseudonyms in the English language",
+    "year": "2014",
+    "callnum": "Z1041 .C37 2014",
+    "sortkey": "Z001041 C000037 002014",
+    "hathi": null,
+    "locations": [
+      "CONCORD_IN",
+      "RED_DEER_P",
+      "UAINTERNET",
+      "GR_MAC_INT",
+      "GPRC_INT"
+    ],
+    "holdings": [
+      {
+        "location": "CONCORD_IN",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "RED_DEER_P",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "UAINTERNET",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GR_MAC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      },
+      {
+        "location": "GPRC_INT",
+        "status": "INTERNET",
+        "type": "E-RESOURCE",
+        "copy": "1"
+      }
+    ]
+  },
+  {
+    "id": "5474501",
+    "authors": [
+      "Carmela Ciuraru"
+    ],
+    "title": "Nom de plume: a (secret) history of pseudonyms",
+    "year": "2011",
+    "callnum": "Z1041 .C55 2011",
+    "sortkey": "Z001041 C000055 002011",
+    "hathi": null,
+    "locations": [
+      "UAHSS"
+    ],
+    "holdings": [
+      {
+        "location": "UAHSS",
+        "status": "ON_SHELF",
+        "type": "BOOK",
+        "copy": "1"
+      }
+    ]
+  }
+]

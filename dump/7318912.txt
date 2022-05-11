@@ -1,0 +1,76 @@
+LEADER 05195cam a2200925 i 4500
+001 7318912
+003 CaAEU
+005 20160130061554.3
+006 m     o  d        
+007 cr cnu---unuuu
+008 150408s2001    ctu     ob    001 0 eng d
+020    $a 0300148356 $q electronic bk. 
+020    $a 9780300148350 $q electronic bk. 
+020    $z 0300088868 
+020    $z 0300098081 
+020    $z 9780300088861 
+020    $z 9780300098082 
+035    $a ocn906804351 
+039    $a exclude 
+040    $a N$T $b eng $e rda $e pn $c N$T $d EBLCP $d OCLCO $d DEBSZ $d AEU 
+043    $a e-uk--- 
+050  4 $a Z1039.L3 $b R67 2001eb 
+082 04 $a 028/.9/0941 $2 22 
+090    $a Internet Access $b ARDC 
+090    $a Internet Access $b AEVC 
+090    $a Internet Access $b AVC 
+090    $a Internet Access $b ASAV 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b AEC 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b AFMK 
+090    $a Internet Access $b AEKC 
+090    $a Internet Access $b AEGMCT 
+100 1  $a Rose, Jonathan, $d 1952- 
+245 14 $a The intellectual life of the British working classes / $c Jonathan Rose. 
+264  1 $a New Haven, CT : $b Yale University Press, $c ©2001. 
+300    $a 1 online resource (ix, 534 pages) 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+500    $a "Published with assistance from the Annie Burr Lewis Fund"--Title page verso. 
+504    $a Includes bibliographical references and index. 
+506    $a Access restricted to authorized users and institutions. 
+588 0  $a Print version record. 
+596    $a 3 6 8 22 31 35 44 57 60 61 
+650  0 $a Books and reading $z Great Britain $x History. 
+650  0 $a Working class $x Books and reading $z Great Britain $x History. 
+650  0 $a Working class $z Great Britain $x Intellectual life. 
+650  6 $a Livres et lecture $z Grande-Bretagne $x Histoire. 
+650  6 $a Travailleurs $x Livres et lecture $z Grande-Bretagne $x Histoire. 
+650  6 $a Travailleurs $z Grande-Bretagne $x Vie intellectuelle. 
+650  7 $a Books and reading. $2 fast $0 (OCoLC)fst00836454 
+650  7 $a Intellectual life. $2 fast $0 (OCoLC)fst00975769 
+650  7 $a Working class $x Books and reading. $2 fast $0 (OCoLC)fst01180427 
+650  7 $a Working class $x Intellectual life. $2 fast $0 (OCoLC)fst01180480 
+651  0 $a Great Britain $x Intellectual life. 
+651  6 $a Grande-Bretagne $x Vie intellectuelle. 
+651  7 $a Great Britain. $2 fast $0 (OCoLC)fst01204623 
+655  7 $a History. $2 fast $0 (OCoLC)fst01411628 
+856 40 $3 Red Deer Polytechnic Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=976358 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 NorQuest College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=976358 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Lakeland College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=976358 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Northern Lakes College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=976358 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 University of Alberta Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=976358 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Concordia University of Edmonton Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=976358 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Grande Prairie Regional College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=976358 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Keyano College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=976358 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 King's University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=976358 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 MacEwan University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=976358 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+949    $h UAIN $m RED_DEER_C $z EBSCORDAC 
+926    $a NORQ_MAIN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KEYANO $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a NLC_SL $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KINGS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a LAKELND_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

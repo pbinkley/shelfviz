@@ -1,0 +1,91 @@
+LEADER 06452cam a2201105 a 4500
+001 9655624
+003 CaAEU
+005 20210625184106.8
+006 m     o  d        
+007 cr un|---uuuua
+008 070212s2007    mdu     ob    001 0 eng  
+010    $a   2021679966 
+020    $a 9781461669760 $q ebook 
+020    $a 1461669766 
+020    $z 9780810856721 $q (pbk. : alk. paper) 
+020    $z 0810856727 $q (pbk. : alk. paper) 
+020    $a 1283626047 
+020    $a 9781283626040 
+035    $a on1303190418 
+039    $a exclude 
+040    $a DLC $b eng $e pn $c DLC $d UWK $d OCLCF $d INARC $d UKAHL $d OCLCO $d N$T $d OCLCE $d MHW $d YDXCP $d DEBSZ $d IDEBK $d YDX $d AGLDB $d SNK $d DKU $d AUW $d INTCL $d IGB $d D6H $d VTS $d U3W $d G3B $d S8J $d S9I $d LVT $d STF $d M8D $d AEU 
+042    $a dlr 
+043    $a n-us--- 
+050 00 $a Z1039.M56 
+055 02 $a Z1039* 
+055 00 $a Z1039 M56 $b G55 2007 
+082 00 $a 810/.93529 $2 22 
+090    $a Internet Access $b ARDC 
+090    $a Internet Access $b AVC 
+090    $a Internet Access $b ASAV 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b AFMK 
+090    $a Internet Access $b AEVC 
+090    $a Internet Access $b AEKC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b AEC 
+090    $a Internet Access $b AEU 
+100 1  $a Gilton, Donna L. 
+245 10 $a Multicultural and ethnic children's literature in the United States / $c Donna L. Gilton. 
+260    $a Lanham, Md. : $b Scarecrow Press, $c 2007. 
+300    $a 1 online resource (vii, 236 pages) 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+347    $a data file $2 rda 
+504    $a Includes bibliographical references (p. 179-213) and index. 
+520    $a Multicultural and Ethnic Children's Literature in the United States describes the history and characteristics of ethnic and multicultural children's literature in the U.S., as well as related materials published elsewhere. 
+588    $a Description based on print version record and CIP data provided by publisher; resource not viewed. 
+596    $a 3 6 8 22 31 35 44 57 60 61 
+650  0 $a Children of minorities $x Books and reading $z United States. 
+650  0 $a Minority teenagers $x Books and reading $z United States. 
+650  0 $a Multiculturalism $z United States $x History. 
+650  0 $a Multicultural education $z United States $x History. 
+650  0 $a Children's literature, American $x History and criticism. 
+650  0 $a American literature $x Minority authors $x History and criticism. 
+650  0 $a Ethnic groups in literature. 
+650  6 $a Enfants issus des minorités $x Livres et lecture $z États-Unis. 
+650  6 $a Adolescents issus des minorités $x Livres et lecture $z États-Unis. 
+650  6 $a Multiculturalisme $z États-Unis $x Histoire. 
+650  6 $a Littérature de jeunesse américaine $x Histoire et critique. 
+650  6 $a Littérature américaine $x Auteurs issus des minorités $x Histoire et critique. 
+650  6 $a Groupes ethniques dans la littérature. 
+650  7 $a American literature $x Minority authors. $2 fast $0 (OCoLC)fst00807213 
+650  7 $a Children of minorities $x Books and reading. $2 fast $0 (OCoLC)fst00855437 
+650  7 $a Children's literature, American. $2 fast $0 (OCoLC)fst00855882 
+650  7 $a Ethnic groups in literature. $2 fast $0 (OCoLC)fst00915988 
+650  7 $a Minority teenagers $x Books and reading. $2 fast $0 (OCoLC)fst01751686 
+650  7 $a Multicultural education. $2 fast $0 (OCoLC)fst01028816 
+650  7 $a Multiculturalism. $2 fast $0 (OCoLC)fst01028836 
+651  7 $a United States. $2 fast $0 (OCoLC)fst01204155 
+655  7 $a Reference works. $2 fast $0 (OCoLC)fst01919963 
+655  7 $a Criticism, interpretation, etc. $2 fast $0 (OCoLC)fst01411635 
+655  7 $a History. $2 fast $0 (OCoLC)fst01411628 
+655  7 $a Reference works. $2 lcgft 
+856 40 $3 Red Deer Polytechnic Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=506295 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 University of Alberta Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=506295 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Concordia University of Edmonton Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=506295 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Keyano College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=506295 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Grande Prairie Regional College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=506295 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Lakeland College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=506295 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 MacEwan University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=506295 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 King's University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=506295 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 NorQuest College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=506295 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Northern Lakes College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=506295 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+949    $h UAIN $m RED_DEER_C $z EBSCORDAC 
+926    $a NORQ_MAIN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KEYANO $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a NLC_SL $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KINGS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a LAKELND_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

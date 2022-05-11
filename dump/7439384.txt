@@ -1,0 +1,66 @@
+LEADER 04630cam a2200805 a 4500
+001 7439384
+003 CaAEU
+005 20140716191255.0
+006 m     o  d        
+007 cr cn|
+008 101103s2010    pau     od    000 0 eng d
+010    $z   2010283705 
+020    $a 0827611218 $q (electronic bk.) 
+020    $a 9780827611214 $q (electronic bk.) 
+020    $z 0827609035 $q (pbk.) 
+020    $z 9780827609037 $q (pbk.) 
+035    $a on1104504896 
+037    $b PROJMUSE $c CostPaid $f FormOnline $g AccessRestricted $n GovNo 
+039    $a exclude 
+040    $a CN8ML $b eng $c CN8ML $d YDXCP $d EBLCP $d OCLCQ $d N$T $d IDEBK $d P@U $d AEU 
+050 14 $a Z1039.J48 $b S55 2010 
+082 04 $a 011.62088296 $2 22 
+090    $a Internet Access $b ARDC 
+090    $a Internet Access $b AEVC 
+090    $a Internet Access $b AEC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b AEKC 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b AFMK 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b ASAV 
+090    $a Internet Access $b AVC 
+100 1  $a Silver, Linda R. 
+245 10 $a Best Jewish books for children and teens / $c Linda R. Silver. 
+250    $a 1st. ed. 
+260    $a Philadelphia, PA : $b The Jewish Publication Society, $c 2010. $e (Baltimore, Md. : $f Project MUSE, $g 2012) 
+300    $a 1 online resource. 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+504    $a Includes bibliographical references (p. 271-272) and indexes by title, author, illustrator, and subject. 
+506    $a Access restricted to authorized users and institutions. 
+588    $a Description based on print version record. 
+596    $a 3 6 8 22 31 35 44 57 60 61 
+650  0 $a Best books. 
+650  0 $a Jewish children $x Books and reading $v Bibliography. 
+650  0 $a Jewish literature $v Bibliography. 
+650  0 $a Jewish teenagers $x Books and reading $v Bibliography. 
+650  0 $a Judaism $v Bibliography. 
+856 40 $3 Red Deer Polytechnic Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=380388 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 NorQuest College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=380388 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Concordia University of Edmonton Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=380388 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Grande Prairie Regional College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=380388 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Keyano College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=380388 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 King's University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=380388 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Lakeland College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=380388 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 MacEwan University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=380388 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 Northern Lakes College Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=380388 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+856 40 $3 University of Alberta Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=e000xna&AN=380388 $z (Unlimited Concurrent Users) $z from EBSCO Academic Collection 
+949    $h UAIN $m RED_DEER_C $z EBSCORDAC 
+926    $a NORQ_MAIN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KEYANO $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a NLC_SL $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a KINGS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a LAKELND_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

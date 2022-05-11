@@ -1,0 +1,32 @@
+LEADER 01509cam a2200397 a 4500
+001 3656274
+003 CaAEU
+005 20060823094433.0
+008 060823s2006    abc      o    001 0 eng d
+035    $a ocm71038682 
+040    $a AEU $b eng $c AEU $d AEE 
+049    $a UABA 
+050  4 $a Z1039.T44 $b M33 2006 
+090    $a Z 1039 T44 M33 2006 $b AEU 
+090    $a Z 1039 T44 M33 2006 $b AEE 
+100 1  $a Mackey, Margaret. 
+245 10 $a Adult Canadian books for strong teenage readers : $b published to mark the 10th anniversary of the Resource links column / $c by Margaret Mackey; with Ingrid Johnston [et al.] ; edited by James Nahachewsky. 
+260    $a [Edmonton, Alta.] : $b Produced by the School of Library & Information Studies, University of Alberta, $c [2006]. 
+300    $a 105 p. ; $c 28 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a "April 2006." 
+500    $a Includes indexes. 
+596    $a 38 
+650  0 $a Young adult literature, Canadian $v Book reviews. 
+650  0 $a Canadian literature $v Book reviews. 
+650  0 $a Teenagers $z Canada $x Books and reading. 
+700 1  $a Johnston, Ingrid, $d 1946- 
+700 1  $a Nahachewsky, James. 
+710 2  $a University of Alberta. $b School of Library and Information Studies. 
+730 0  $a Resource links. 
+949    $h UAED-B $i 0162022346736 
+994    $a C0 $b UAB 
+926    $a UARCRF $b ON_SHELF $c Z 1039 T44 M33 2006 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 T44 M33 2006 $d BOOK $f 2 

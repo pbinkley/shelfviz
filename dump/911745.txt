@@ -1,0 +1,33 @@
+LEADER 01575cam a2200409 a 4500
+001 911745
+003 CaAEU
+008 850524s1986    mdu      b        0 eng d
+010    $a    85012611 
+020    $a 0801829054 (alk. paper) $z 0801829070 (pbk. : alk. paper) 
+035    $a ocm12160959 
+040    $a DLC $b eng $c DLC 
+049    $a AEU $b eng 
+050 00 $a Z1039.W65 $b G46 1986 
+082 0  $a 028/.9/088042 $2 19 
+090 0  $a PN 98 W64 G46 1986 $b AEKC 
+090 0  $a Z 1039 W65 G32 1986 $b AEU 
+245 00 $a Gender and reading : $b essays on readers, texts, and contexts / $c edited by Elizabeth A. Flynn and Patrocinio P. Schweickart. 
+260    $a Baltimore : $b Johns Hopkins University Press, $c c1986. 
+300    $a xxx, 306 p. ; $c 25 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Bibliography: p. 289-303. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 31 38 
+650  0 $a Women $x Books and reading. 
+650  0 $a Feminism and literature. 
+650  0 $a Reader-response criticism. 
+650  0 $a Women in literature. 
+650  0 $a Sex role in literature. 
+700 1  $a Flynn, Elizabeth A., $d 1944- 
+700 1  $a Schweickart, Patrocinio P. 
+740 0  $a Essays on readers, texts, and contexts. 
+926    $a KINGS $b ON_SHELF $c PN 98 W64 G46 1986 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 W65 G32 1986 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 W65 G32 1986 $d BOOK $f 2 

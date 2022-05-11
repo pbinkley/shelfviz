@@ -1,0 +1,47 @@
+LEADER 02874cam a2200577 i 4500
+001 9561909
+003 CaAEU
+005 20200505074838.2
+006 m    do  d |      
+007 cr |||||||||||
+008 190930s2020    mdu     ob    001 0 eng  
+010    $a   2019042336 
+015    $a GBC009805 $2 bnb 
+016 7  $a 019683253 $2 Uk 
+020    $a 1538138409 
+020    $a 1538138417 $q electronic book 
+020    $a 9781538138403 
+020    $a 9781538138410 $q (electronic bk.) 
+020    $z 9781538138397 $q hardcover $q alkaline paper 
+037    $a 2398950 $b EBSCO 
+039    $a exclude 
+040    $a DLC $b eng $e rda $e pn $c DLC $d OCLCO $d OCLCF $d UKMGB $d EBLCP $d OCLCQ $d YDX $d UBY $d UKAHL $d N$T $d AEU 
+042    $a pcc 
+043    $a n-us--- 
+050 04 $a Z1039.M56 $b G55 2020 
+082 00 $a 810/.93529 $2 23 
+090    $a Internet Access $b  
+100 1  $a Gilton, Donna L., $e author. 
+245 10 $a Multicultural and ethnic children's literature in the United States / $c Donna L. Gilton. 
+250    $a Second edition. 
+264  1 $a Lanham, Maryland : $b Rowman & Littlefield, $c [2020] 
+300    $a 1 online resource (xiii, 419 pages) 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+505 0  $a Multicultural children's literature : an introduction -- A history of multicultural children's literature -- General trends in the field -- Specific ethnic initiatives and conclusions -- Where to go from here : emerging groups and issues. 
+506    $a Access restricted to authorized users and institutions. 
+520    $a "This second edition of Multicultural and Ethnic Children's Literature in the United States describes the history and characteristics of ethnic and multicultural children's literature in the U.S. and elsewhere, elaborating on people, businesses, and organizations that create, disseminate, promote, critique, and collect these materials"-- $c Provided by publisher. 
+588    $a Description based on online resource; title from digital title page (viewed on April 16, 2020). 
+596    $a 57 
+650  0 $a American literature $x Minority authors $x History and criticism. 
+650  0 $a Children of minorities $x Books and reading $z United States. 
+650  0 $a Children's literature, American $x History and criticism. 
+650  0 $a Ethnic groups in literature. 
+650  0 $a Minority teenagers $x Books and reading $z United States. 
+650  0 $a Multicultural education $z United States $x History. 
+650  0 $a Multiculturalism $z United States $x History. 
+856 40 $3 MacEwan University Access $u https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=2398950 $z (3 Concurrent Users) $z from EBSCO 
+949    $h UAIN $m GR_MAC_INT $z EBSCOGMP $p 186.84 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

@@ -1,0 +1,48 @@
+LEADER 02915nam a2200589 a 4500
+001 7738117
+003 CaAEU
+006 m     o  d |      
+007 cr cn|||||||||
+008 910318s1991    ncua    ob   s001 0 eng d
+010    $z    91050284 
+020    $z 0807843490 (pbk. : alk. paper) 
+020    $z 9780807843499 
+035    $a ocn593327281 
+039    $a exclude 
+040    $a MiAaPQ $c MiAaPQ $d MiAaPQ $d AEU 
+050  4 $a Z1039.W65 $b R32 1991 
+082 04 $a 028/.9082 $2 20 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b AEC 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b ARDC 
+100 1  $a Radway, Janice A., $d 1949- 
+245 10 $a Reading the romance $h [electronic resource] : $b women, patriarchy, and popular literature / $c Janice A. Radway ; with a new introduction by the author. 
+260    $a Chapel Hill : $b University of North Carolina Press, $c c1991. 
+300    $a 1 online resource (x, 276 p.) : $b ill. 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+506    $a Access restricted to authorized users and institutions. 
+596    $a 6 35 44 57 60 
+650  0 $a Feminism and literature. 
+650  0 $a Love stories $x Appreciation. 
+650  0 $a Patriarchy. 
+650  0 $a Popular literature $x History and criticism. 
+650  0 $a Sex role in literature. 
+650  0 $a Women in literature. 
+650  0 $a Women $x Books and reading. 
+856 40 $3 University of Alberta Access $u https://ebookcentral.proquest.com/lib/ualberta/detail.action?docID=880363 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Concordia University of Edmonton Access $u http://ebookcentral.proquest.com/lib/concordiaab-ebooks/detail.action?docID=880363 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Grande Prairie Regional College Access $u http://ebookcentral.proquest.com/lib/gprc-ebooks/detail.action?docID=880363 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 MacEwan University Access $u http://ebookcentral.proquest.com/lib/macewan-ebooks/detail.action?docID=880363 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Red Deer Polytechnic Access $u http://ebookcentral.proquest.com/lib/rdc/detail.action?docID=880363 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+949    $h UAIN $z EBCACUA 
+919    $a EBC880363 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

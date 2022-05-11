@@ -1,0 +1,29 @@
+LEADER 01154cam a2200361 a 4500
+001 2255370
+003 CaAEU
+008 810617m1984    nyu      b      1 0 eng d
+010    $a    81011048 //r84 
+020    $a 0918212464 (v. 1) 
+020    $a 0918212472 (v. 2) 
+035    $a ocn462828053 
+040    $a DLC $b eng $c DLC 
+040    $a aee $b eng 
+049    $a AEE $b eng 
+050 00 $a Z1039.C65 $b H34 
+082 0  $a 025.2/1877 $2 19 
+090 0  $a Z 1039 C65 H17 1984 $b AEU 
+100 1  $a Hall, Jack, $d 1947- 
+245 14 $a The vocational-technical core collection / $c Jack Hall and Victoria Cheponis Lessard. 
+260    $a New York, N.Y. : $b Neal-Schuman Publishers, $c 1984. 
+300    $a 2 v. ; $c 29 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Includes indexes. 
+505 0  $a v. 1. Books -- 2. Films and video. 
+596    $a 38 
+650  0 $a Academic libraries $v Book lists. 
+650  0 $a Technical education $v Bibliography. 
+650  0 $a Vocational education $v Bibliography. 
+700 1  $a Lessard, Victoria Cheponis, $d 1953- 
+926    $a UARCRF $b ON_SHELF $c Z 1039 C65 H17 1984 v.2 $d BOOK $f 1 

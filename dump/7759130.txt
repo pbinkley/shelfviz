@@ -1,0 +1,49 @@
+LEADER 03217nam a2200601 a 4500
+001 7759130
+003 CaAEU
+006 m     o  d |      
+007 cr cn|||||||||
+008 050505s2006    ilu     ob    001 0 eng  
+010    $z   2005013078 
+020    $z 0838935532 (alk. paper) 
+035    $a on1018043699 
+039    $a exclude 
+040    $a MiAaPQ $c MiAaPQ $d MiAaPQ $d AEU 
+043    $a n-us--- 
+050  4 $a Z1039.C65 $b M67 2006 
+082 04 $a 028/.9 $2 22 
+090    $a Internet Access $b AOAC 
+090    $a Internet Access $b AEU 
+090    $a Internet Access $b AEVC 
+090    $a Internet Access $b AEC 
+090    $a Internet Access $b AEGMCT 
+090    $a Internet Access $b AGPC 
+090    $a Internet Access $b ARDC 
+245 00 $a More outstanding books for the college bound $h [electronic resource] / $c Young Adult Library Services Association. 
+260    $a Chicago : $b American Library Association, $c c2006. 
+300    $a 1 online resource. 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+504    $a Includes bibliographical references (p. 222) and index. 
+506    $a Access restricted to authorized users and institutions. 
+596    $a 3 6 33 35 44 57 60 
+650  0 $a College students $x Books and reading $z United States. 
+650  0 $a Best books $z United States. 
+710 2  $a Young Adult Library Services Association. 
+856 40 $3 Olds College Access $u https://ebookcentral.proquest.com/lib/oldscollege/detail.action?docID=3001611 $z from Ebook Central College Complete 
+856 40 $3 University of Alberta Access $u https://ebookcentral.proquest.com/lib/ualberta/detail.action?docID=3001611 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 NorQuest College Access $u http://ebookcentral.proquest.com/lib/norquest-ebooks/detail.action?docID=3001611 $z from Ebook Central College Complete 
+856 40 $3 Concordia University of Edmonton Access $u http://ebookcentral.proquest.com/lib/concordiaab-ebooks/detail.action?docID=3001611 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Grande Prairie Regional College Access $u http://ebookcentral.proquest.com/lib/gprc-ebooks/detail.action?docID=3001611 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 MacEwan University Access $u http://ebookcentral.proquest.com/lib/macewan-ebooks/detail.action?docID=3001611 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+856 40 $3 Red Deer Polytechnic Access $u http://ebookcentral.proquest.com/lib/rdc/detail.action?docID=3001611 $z (Unlimited Concurrent Users) $z from Ebook Central Academic Complete 
+949    $h UAIN $m OLDS $z EBCCOLOLD 
+919    $a EBC3001611 
+926    $a NORQ_MAIN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a CONCORD_IN $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a OLDS $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a RED_DEER_P $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GR_MAC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 
+926    $a GPRC_INT $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

@@ -1,0 +1,37 @@
+LEADER 03259cam a2200457 a 4500
+001 2599239
+003 CaAEU
+005 20020620140712.0
+008 001127s2001    ctu      b    001 0 eng  
+010    $a    00068562 
+015    $a GBA1-Y6111 
+020    $a 0300088868 
+035    $a ocm45610399 
+040    $a DLC $b eng $c DLC $d UKM $d C#P $d AEU 
+043    $a e-uk--- 
+049    $a UABA 
+050 00 $a Z1039.L3 $b R67 2001 
+082 00 $a 028/.9/0941 $2 21 
+090    $a Z 1039 L3 R67 2001 $b AEU 
+090    $a Z 1039.L3 R67 2001 $b AEGMCT 
+100 1  $a Rose, Jonathan, $d 1952- 
+245 14 $a The intellectual life of the British working classes / $c Jonathan Rose. 
+260    $a New Haven, CT : $b Yale University Press, $c c2001. 
+300    $a ix, 534 p. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a "Published with assistance from the Annie Burr Lewis Fund"--T.p. verso. 
+504    $a Includes bibliographical references and index. 
+520    $a Which books did the British working classes read--and how did they read them? How did they respond to canonical authors, penny dreadfuls, classical music, school stories, Shakespeare, Marx, Hollywood movies, imperialist propaganda, the Bible, the BBC, the Bloomsbury Group? What was the quality of their classroom education? How did they educate themselves? What was their level of cultural literacy: how much did they know about politics, science, history, philosophy, poetry, and sexuality? Who were the proletarian intellectuals, and why did they pursue the life of the mind? These intriguing questions, which until recently historians considered unanswerable, are addressed in this book. Using innovative research techniques and a vast range of unexpected sources, The Intellectual Life of the British Working Classes tracks the rise and decline of the British autodidact from the pre-industrial era to the twentieth century. It offers a new method for cultural historians--an "audience history" that recovers the responses of readers, students, theatergoers, filmgoers, and radio listeners. Jonathan Rose provides an intellectual history of people who were not expected to think for themselves, told from their perspective. He draws on workers' memoirs, oral history, social surveys, opinion polls, school records, library registers, and newspapers. Through its novel and challenging approach to literary history, the book gains access to politics, ideology, popular culture, and social relationships across two centuries of British working-class experience. 
+590    $a University of Alberta copy in the Schloss Collection of Modern Literature. $5 CaAEU 
+596    $a 29 38 43 
+650  0 $a Working class $x Books and reading $z Great Britain $x History. 
+650  0 $a Working class $z Great Britain $x Intellectual life. 
+650  0 $a Books and reading $z Great Britain $x History. 
+651  0 $a Great Britain $x Intellectual life. 
+856 41 $3 Table of contents $u http://www.loc.gov/catdir/toc/fy022/00068562.html 
+019    $a 47939077 
+926    $a GR_MACEWAN $b ON_SHELF $c Z 1039.L3 R67 2001 $d BOOK $f 1 
+926    $a UARCRF $b READONSITE $c Z 1039 L3 R67 2001 $d NO_LOAN $f 1 
+926    $a UAHSS $b CHECKEDOUT $c Z 1039 L3 R67 2001 $d BOOK $e 5/31/2022 $f 1 

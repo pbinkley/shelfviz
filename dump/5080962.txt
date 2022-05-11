@@ -1,0 +1,39 @@
+LEADER 02187cam a2200481 a 4500
+001 5080962
+003 CaAEU
+005 20110628081232.0
+008 101103s2010    paua     b    001 0 eng d
+010    $a   2010283705 
+010    $a   2008027299 
+020    $a 9780827609037 (pbk.) 
+020    $a 0827609035 (pbk.) 
+035    $a ocn694566485 
+040    $a BTCTA $b eng $c BTCTA $d DLC $d AEU 
+042    $a lccopycat 
+049    $a UABA 
+050 00 $a Z1039.J48 $b S55 2010 
+082 04 $a 011.62088296 $2 22 
+090    $a Z 1039 J48 Z9 S55 2010 $b AEU 
+100 1  $a Silver, Linda R. 
+245 10 $a Best Jewish books for children and teens / $c Linda R. Silver. 
+246 30 $a Jewish books for children and teens 
+250    $a 1st. ed. 
+260    $a Philadelphia, PA : $b The Jewish Publication Society, $c 2010. 
+300    $a xii, 325 p. : $b ill. ; $c 26 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a JPS guide 
+504    $a Includes bibliographical references (p. 271-272) and indexes by title, author, illustrator, and subject. 
+505 0  $a Recomended reading by subject. Jewish rites and customs ; Holidays ; The Bible ; Folklore ; History ; Immigrant life ; The Holocaust and World War II ; Israel and Zionism ; Contemporary issues ; Famous Jews ; Judaism and other religions -- Notes -- National Jewish book award winners -- Sydney Taylor book award winners -- Titles by recommended reading levels. 
+520    $a Linda Silver selected the titles that "represent the best in writing, illustration, reader appeal, and authentically Jewish content--in picture books, fiction and non-fiction, for readers ranging from early childhood through the high school years."--P. 4 of cover. 
+596    $a 43 
+650  0 $a Jewish children $x Books and reading $v Bibliography. 
+650  0 $a Jewish teenagers $x Books and reading $v Bibliography. 
+650  0 $a Jewish literature $v Bibliography. 
+650  0 $a Judaism $v Bibliography. 
+650  0 $a Best books. 
+830  0 $a JPS guide. 
+949    $a Z 1039 J48 Z9 S55 2010 $c 1 $h UAHS-B $i 0162029919618 
+994    $a C0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1039 J48 Z9 S55 2010 $d BOOK $f 1 

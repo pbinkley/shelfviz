@@ -1,0 +1,37 @@
+LEADER 01936cam a22004574a 4500
+001 4287183
+003 CaAEU
+005 20090209090227.0
+008 080806s2009    ilu      b    001 0 eng  
+010    $a   2008034925 
+020    $a 9780838909799 (alk. paper) 
+020    $a 0838909795 (alk. paper) 
+035    $a ocn241305023 
+040    $a DLC $b eng $c DLC $d YDXCP $d C#P $d BWX $d CDX $d ACAL 
+043    $a n-us--- 
+049    $a MAIN 
+050 00 $a Z1039.B67 $b S85 2009 
+082 00 $a 028.5/5083 $2 22 
+090    $a Z 1039 B67 S85 2009 $b AEU 
+100 1  $a Sullivan, Michael, $d 1967 August 30- 
+245 10 $a Connecting boys with books 2 : $b closing the reading gap / $c Michael Sullivan. 
+260    $a Chicago : $b American Library Association, $c 2009. 
+300    $a v, 119 p. ; $c 23 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references (p. 105-110) and index. 
+505 0  $a A blueprint for boys and reading -- The reading gap -- Boys and girls are different -- Read for fun, read forever -- Exposing boys to story -- Honoring boys' literature -- Promoting reading to boys -- Creating the culture of literacy. 
+596    $a 16 38 
+650  0 $a Boys $x Books and reading $z United States. 
+650  0 $a Teenage boys $x Books and reading $z United States. 
+650  0 $a Reading $x Sex differences $z United States. 
+650  0 $a Reading promotion $z United States. 
+650  0 $a Sex differences in education $z United States. 
+650  0 $a Children's libraries $x Activity programs $z United States. 
+650  0 $a Young adults' libraries $x Activity programs $z United States. 
+650  0 $a School libraries $x Activity programs $z United States. 
+949    $a Z 1039 B67 S85 2009 $c 1 $h UAAU-B $i 0162027120904 $z UNDERGRAD 
+994    $a C0 $b CNAUC 
+926    $a UAAUG $b ON_SHELF $c Z 1039 B67 S85 2009 $d BOOK $f 1 
+926    $a UARCRF $b ON_SHELF $c Z 1039 B67 S85 2009 $d BOOK $f 1 

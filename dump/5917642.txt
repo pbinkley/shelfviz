@@ -1,0 +1,34 @@
+LEADER 01769nam a2200421 i 4500
+001 5917642
+003 CaAEU
+005 20121203131223.0
+008 120302s2012    caua     b    001 0 eng  
+010    $a   2012005430 
+020    $a 9781598848465 (pbk.) 
+020    $a 1598848461 (pbk.) 
+020    $z 9781598848472 (ebook) 
+035    $a ocn756577007 
+040    $a DLC $e rda $b eng $c DLC $d YDX $d BTCTA $d YDXCP $d BDX $d BWX $d OCLCO $d CDX $d AEU 
+042    $a pcc 
+043    $a n-us--- 
+049    $a UABA 
+050 00 $a Z1039.B67 $b B377 2012 
+082 00 $a 028.5/5 $2 23 
+090    $a Z 1039 B67 Z9 B377 2012 $b AEU 
+100 1  $a Baxter, Kathleen A. 
+245 10 $a Get those guys reading! : $b fiction and series books that boys will love / $c Kathleen A. Baxter and Marcia Agness Kochel. 
+260    $a Santa Barbara, California : $b Libraries Unlimited, an imprint of ABC-CLIO, LLC, $c ©2012. 
+300    $a viii, 220 pages : $b illustrations ; $c 28 cm. 
+336    $a text $2 rdacontent 
+337    $a unmediated $2 rdamedia 
+338    $a volume $2 rdacarrier 
+504    $a Includes bibliographical references and indexes. 
+520    $a "Want to identify fiction books that boys in grades three through nine will find irresistible? This guide reveals dozens of worthwhile recommendations in categories ranging from adventure stories and sports novels to horror, humorous, and science fiction books"--Provided by publisher. 
+596    $a 43 
+650  0 $a Boys $x Books and reading $z United States. 
+650  0 $a Children's stories, American $v Bibliography. 
+650  0 $a Children's literature in series $v Bibliography. 
+700 1  $a Kochel, Marcia Agness. 
+949    $a Z 1039 B67 Z9 B377 2012 $c 1 $h UAHS-B $i 0162031439431 
+994    $a C0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1039 B67 Z9 B377 2012 $d BOOK $f 1 

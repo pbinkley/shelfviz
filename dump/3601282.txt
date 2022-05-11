@@ -1,0 +1,37 @@
+LEADER 02389cam a2200457 a 4500
+001 3601282
+003 CaAEU
+005 20060810212610.0
+008 051016s2005    ctua     bc   001 0 eng  
+010    $a   2005029117 
+020    $a 0845731637 (alk. paper) 
+035    $a ocm62127741 
+040    $a DLC $b eng $c DLC $d AEU 
+043    $a n-us-ct 
+049    $a UABA 
+050 00 $a Z1039.W65 $b B33 2005 
+082 00 $a 011/.42082 $2 22 
+090    $a Z 1039 W65 Z9 B33 2005 $b AEU 
+100 1  $a Babcock, Robert Gary, $d 1958- 
+245 12 $a A book of her own : $b an exhibition of manuscripts and printed books in the Yale University Library that were owned by women before 1700 / $c Robert G. Babcock ; in collaboration with Torrence N. Thomas, D. Marshall Kibbey, Elizabeth P. Archibald. 
+260    $a New Haven, Conn. : $b Beinecke Rare Book & Manuscript Library, Yale University, $c 2005. 
+300    $a 78 p. : $b ill. (chiefly col.) ; $c 30 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a "Published in conjunction with an exhibition of the same name held at the Beinecke Rare Book & Manuscript Library, Yale University, from October 28, 2005 through January 2006."--T.p. verso. 
+504    $a Includes bibliographical references (p. 77-78) and indexes. 
+505 0  $a A book of her own : introduction / Robert G. Babcock -- A most noble and worthy treasure : the library of the Cloister of Saint Elisabeth in Bressanone / Torrence N. Thomas -- "I wright my name" : seventeenth-century women and their books / Elizabeth P. Archibald -- "Ego infelix peccatrix" : evidence other than inscriptions for female ownership of early books / D. Marshall Kibbey. 
+596    $a 43 
+610 20 $a Yale University $x Libraries $v Exhibitions. 
+650  0 $a Women $x Books and reading $x History $v Exhibitions. 
+650  0 $a Books $v Owners' marks $v Exhibitions. 
+650  0 $a Early printed books $v Bibliography $v Exhibitions. 
+650  0 $a Manuscripts $v Exhibitions. 
+650  0 $a Nuns $x Books and reading $x History $v Exhibitions. 
+650  0 $a Religious libraries $x History $v Exhibitions. 
+710 2  $a Beinecke Rare Book and Manuscript Library. 
+856 41 $3 Table of contents $u http://www.loc.gov/catdir/toc/ecip062/2005029117.html 
+949    $h UAHS-B $i 0162022307449 
+994    $a C0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1039 W65 Z9 B33 2005 $d BOOK $f 1 

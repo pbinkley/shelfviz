@@ -1,0 +1,32 @@
+LEADER 01419cam a2200397 a 4500
+001 4398354
+003 CaAEU
+005 20090702092617.0
+008 090302s2009    ctu      b    001 0 eng  
+010    $a   2009008505 
+020    $a 9781591588795 (pbk : alk. paper) 
+020    $a 1591588790 (pbk : alk. paper) 
+035    $a ocn290431631 
+040    $a DLC $b eng $c DLC $d BTCTA $d YDXCP $d C#P $d BWX $d CDX $d AEU 
+049    $a UABA 
+050 00 $a Z1039.G55 $b P65 2009 
+082 00 $a 371.95/6 $2 22 
+090    $a Z 1039 G55 P65 2009 $b AEU 
+100 1  $a Polette, Nancy. 
+245 10 $a Gifted biographies, gifted readers! : $b higher order thinking with picture book biographies / $c Nancy Polette. 
+260    $a Westport, Conn. : $b Libraries Unlimited, $c 2009. 
+300    $a xxii, 143 p. ; $c 28 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+596    $a 38 43 
+650  0 $a Gifted children $x Books and reading. 
+650  0 $a Gifted children $x Education. 
+650  0 $a Biography $v Juvenile literature $v Abstracts. 
+650  0 $a Picture books for children. 
+650  0 $a Critical thinking $x Study and teaching. 
+949    $a Z 1039 G55 P65 2009 $c 1 $h UAED-CU-B $i 0162027758083 
+994    $a C0 $b UAB 
+926    $a UARCRF $b ON_SHELF $c Z 1039 G55 P65 2009 $d BOOK $f 1 
+926    $a UAHSS $b ON_SHELF $c Z 1039 G55 P65 2009 $d BOOK $f 1 

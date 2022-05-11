@@ -1,0 +1,51 @@
+LEADER 02795cam a2200625 i 4500
+001 9235981
+003 CaAEU
+005 20200925212016.7
+006 m     o  d        
+007 cr |||||||||||
+008 180920t20182018miua    ob   s001 0 eng  
+010    $a   2018045457 
+020    $a 0472124439 $q (electronic book) 
+020    $a 9780472124435 $q (electronic book) 
+020    $z 9780472131099 $q (hardcover) 
+024 7  $a 10.3998/mpub.9901165 $2 doi 
+035    $a on1054260220 
+037    $a 22573/ctv7qz5qk $b JSTOR 
+039    $a exclude 
+040    $a DLC $b eng $e rda $e pn $c DLC $d OCLCO $d EBLCP $d OCLCF $d N$T $d JSTOR $d YDX $d YDX $d OCLCO $d P@U $d MERER $d OCLCQ $d UAB $d OCLCQ $d UNOMP $d MM9 $d AUD $d AEU 
+043    $a e-uk--- 
+050 14 $a Z1039.W65 $b W63 2018 
+082 00 $a 028/.9082094109031 $2 23 
+090    $a Internet Access $b AEU 
+245 00 $a Women's bookscapes in early modern Britain : $b reading, ownership, circulation / $c edited by Leah Knight, Micheline White, and Elizabeth Sauer. 
+264  1 $a Ann Arbor : $b University of Michigan Press, $c 2018. 
+264  4 $c ©2018 
+300    $a 1 online resource (viii, 304 pages) 
+336    $a text $b txt $2 rdacontent 
+337    $a computer $b c $2 rdamedia 
+338    $a online resource $b cr $2 rdacarrier 
+504    $a Includes bibliographical references and index. 
+506    $a Access restricted to authorized users and institutions. 
+588 0  $a Online resource; title from digital title page (viewed on November 28, 2018). 
+596    $a 44 
+650  0 $a Women $x Books and reading $z Great Britain $x History $y 16th century. 
+650  0 $a Women $x Books and reading $z Great Britain $x History $y 17th century. 
+650  0 $a Women and literature $z Great Britain $x History $y 16th century. 
+650  0 $a Women and literature $z Great Britain $x History $y 17th century. 
+650  0 $a Literature and society $z Great Britain $x History $y 16th century. 
+650  0 $a Literature and society $z Great Britain $x History $y 17th century. 
+650  0 $a Books and reading $x Social aspects $z Great Britain $x History. 
+650  7 $a Books and reading $x Social aspects. $2 fast $0 (OCoLC)fst00836470 
+650  7 $a Literature and society. $2 fast $0 (OCoLC)fst01000096 
+650  7 $a Women and literature. $2 fast $0 (OCoLC)fst01177093 
+650  7 $a Women $x Books and reading. $2 fast $0 (OCoLC)fst01176596 
+651  7 $a Great Britain. $2 fast $0 (OCoLC)fst01204623 
+655  7 $a History. $2 fast $0 (OCoLC)fst01411628 
+700 1  $a Knight, Leah, $d 1976- $e editor. 
+700 1  $a White, Micheline, $e editor. 
+700 1  $a Sauer, Elizabeth, $d 1964- $e editor. 
+856 40 $3 University of Alberta Access $u https://doi.org/10.3998/mpub.9901165 $z (Unlimited Concurrent Users) $z from University of Michigan Press 
+949    $h UAIN $z UMUA 
+648  7 $a 1500-1699 $2 fast 
+926    $a UAINTERNET $b INTERNET $c Internet Access $d E-RESOURCE $f 1 

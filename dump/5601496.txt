@@ -1,0 +1,40 @@
+LEADER 01812cam a2200493 a 4500
+001 5601496
+003 CaAEU
+005 20120525111742.0
+008 110106s2011    enka     b    001 0 eng  
+010    $a   2011000194 
+016 7  $a 015804488 $2 Uk 
+020    $a 9781409427131 (hardback : alk. paper) 
+020    $a 1409427137 (hardback : alk. paper) 
+020    $a 9781409427148 (ebook) 
+020    $a 1409427145 (ebook) 
+035    $a ocn695685841 
+040    $a DLC $c DLC $d YDX $d YDXCP $d UKMGB $d BWX $d CDX $d S3O $d AEU 
+043    $a e-sp--- 
+049    $a UABA 
+050 00 $a Z1039.W65 $b W65 2011 
+082 00 $a 028/.90820946 $2 22 
+090    $a Z 1039 W65 W65 2011 $b AEU 
+245 00 $a Women's literacy in early modern Spain and the new world / $c edited by Anne J. Cruz and Rosilie Hernández. 
+260    $a Farnham, Surrey, England ; $a Burlington, VT : $b Ashgate, $c c2011. 
+300    $a xii, 274 p. : $b ill. ; $c 24 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+490 1  $a Women and gender in the early modern world 
+504    $a Includes bibliographical references and index. 
+596    $a 43 
+650  0 $a Women $x Books and reading $z Spain $x History. 
+650  0 $a Literacy in literature. 
+650  0 $a Women and literature $z Spain $x History $y 16th century. 
+650  0 $a Women and literature $z Spain $x History $y 17th century. 
+650  0 $a Literacy $z Spain $x History. 
+650  0 $a Women $x Education $z Spain $x History. 
+650  0 $a Women $x Education $z New Spain $x History. 
+700 1  $a Cruz, Anne J., $d 1941- 
+700 1  $a Hernández, Rosilie. 
+830  0 $a Women and gender in the early modern world. 
+949    $a Z 1039 W65 W65 2011 $c 1 $h UAHS-B $i 0162030920621 $z UNDERGRAD 
+994    $a C0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1039 W65 W65 2011 $d BOOK $f 1 

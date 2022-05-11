@@ -1,0 +1,33 @@
+LEADER 01689cam a2200409 a 4500
+001 3023796
+003 CaAEU
+005 20041019134350.0
+008 030707s2004    ctu      b    001 0 eng  
+010    $a   2003049318 
+020    $a 0313317844 (alk. paper) 
+035    $a ocm52721073 
+040    $a DLC $b eng $c DLC $d AEU 
+049    $a UABA 
+050 00 $a Z1039.C45 $b D53 2004 
+082 00 $a 028/.9/0904 $2 22 
+090    $a Z 1039 C45 D53 2004 $b AEU 
+245 00 $a Dictionary of literary influences : $b the twentieth century, 1914-2000 / $c edited by John Powell. 
+260    $a Westport, Conn. : $b Greenwood Press, $c 2004. 
+300    $a xviii, 627 p. ; $c 26 cm. 
+336    $a text $b txt $2 rdacontent 
+337    $a unmediated $b n $2 rdamedia 
+338    $a volume $b nc $2 rdacarrier 
+500    $a Continuation of: Biographical dictionary of literary influences : the nineteenth century, 1800-1914. 
+504    $a Includes bibliographical references and index. 
+583 1  $a committed to retain $c 20170930 $d 20421231 $f HathiTrust $u https://www.hathitrust.org/shared_print_program $5 AEU $z HathiTrust Shared Print commitment 2017 
+596    $a 43 
+650  0 $a Celebrities $x Books and reading $z Europe $x History $y 20th century. 
+650  0 $a Celebrities $x Books and reading $z America $x History $y 20th century. 
+650  0 $a Civilization, Modern $y 20th century. 
+650  0 $a Intellectuals $x Books and reading $z Europe $x History $y 20th century. 
+650  0 $a Intellectuals $x Books and reading $z America $x History $y 20th century. 
+700 1  $a Powell, John, $d 1954- 
+730 0  $a Biographical dictionary of literary influences. 
+949    $i 0162019458072 
+994    $a X0 $b UAB 
+926    $a UAHSS $b ON_SHELF $c Z 1039 C45 D53 2004 $d BOOK $f 1 
